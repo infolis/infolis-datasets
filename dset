@@ -1,0 +1,102 @@
+#!/bin/bash
+
+#
+# Configuration
+#
+
+# Set this to the Infolink JAR
+CONFIG_INFOLINK_HOME=
+# Root directory of the repo, default the directory of this script
+DIR_ROOT="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+# Datasets subdirectory
+DIR_DATASET="$DIR_ROOT/datasets"
+# Template subdirectotry
+DIR_TEMPLATES="$DIR_ROOT/templates"
+
+
+#
+# Usage
+#
+
+usage() {
+	echo "$0 <cmd> [...]"
+	echo ""
+	echo "Subcommands:"
+	echo "  init <dir>"
+	echo "  	Initialize new dataset in <dir>"
+	echo "  pre-commit <dir>"
+	echo "  	Validate conformity before git-commit"
+	echo "  checksum <dir>"
+	echo "		Generate checksum for dataset <dir>"
+#	echo "  generate-pdfset <dir> <MANIFEST>"
+#	echo "  	Generate pdf-set  <dir> MANIFEST file"
+	exit
+}
+
+#
+# Helpers
+#
+
+die_if_not_exists() {
+	if [[ ! -e "$1" ]];then
+		echo "$1 does not exist!"
+		exit 1
+	fi
+}
+die_if_exists() {
+	if [[ -e "$1" ]];then
+		echo "$1 already exists!"
+		exit 1
+	fi
+}
+die_if_empty() {
+	if [[ -z "$1" ]];then
+		echo "Argument must not be empty!"
+		exit 1;
+	fi
+}
+
+cd_root() {
+	cd $DIR_ROOT
+}
+
+cd_dataset() {
+	die_if_not_exists "$DIR_DATASET/$DATASET"
+	cd "$DIR_DATASET/$DATASET"
+}
+
+#
+# Commands
+#
+
+cmd_sha256() {
+	cd_dataset
+	die_if_exists SHA256SUMS
+	find . \
+		-regex './\(pdf\|meta\).*' \
+		-type f \
+		-exec sha256sum {} >> SHA256SUMS \;
+	cd_root
+}
+
+cmd_init() {
+	die_if_empty "$DATASET"
+	die_if_exists "$DIR_DATASET/$DATASET"
+	mkdir "$DIR_DATASET/$DATASET"
+	cd_dataset
+	mkdir -p meta
+	mkdir -p subsets
+	mkdir -p pdf
+	cp $DIR_TEMPLATES/README.md .
+	sed -i "s/TITLE/$DATASET/" README.md
+	cd_root
+}
+
+CMD=$1
+DATASET=$2
+shift
+case "$CMD" in
+	init) 	cmd_init ;;
+	sha256)	cmd_sha256 ;;
+	*)	usage ;;
+esac
