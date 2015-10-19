@@ -1,33 +1,47 @@
 #!/bin/bash
+source ~/.shcolor.sh 2>/dev/null || source <(curl -s https://raw.githubusercontent.com/kba/shcolor/master/shcolor.sh|tee ~/.shcolor.sh)
 
 #
 # Configuration
 #
 
 # Set this to the Infolink JAR
-CONFIG_INFOLINK_HOME=
+INFOLINK_HOME=
+
 # Root directory of the repo, default the directory of this script
 DIR_ROOT="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 # Datasets subdirectory
 DIR_DATASET="$DIR_ROOT/datasets"
 # Template subdirectotry
-DIR_TEMPLATES="$DIR_ROOT/templates"
+DIR_TEMPLATE="$DIR_ROOT/template"
 
+OPT_FORCE=false
 
 #
 # Usage
 #
 
 usage() {
-	echo "$0 <cmd> [...]"
+    if [[ ! -z "$1" ]];then
+        echo "`C 1 b`ERROR:`C` $1"
+    fi
+    echo ""
+	echo "  `C 15`$0 `C 2`<cmd>`C` [`C 12`options`C`] [`C 11`<id> <set-id> <json>`C`]"
 	echo ""
-	echo "Subcommands:"
-	echo "  init <dir>"
-	echo "  	Initialize new dataset in <dir>"
-	echo "  pre-commit <dir>"
-	echo "  	Validate conformity before git-commit"
-	echo "  checksum <dir>"
-	echo "		Generate checksum for dataset <dir>"
+	echo "  Options:"
+	echo ""
+	echo "    `C 12`--force`C`          overwrite if exists"
+	echo ""
+	echo "  Subcommands:"
+	echo ""
+	echo "  `C 2`init`C 11` <id>`C`"
+	echo "    Initialize new dataset in directory datasets/<id>"
+	echo "  `C 2`pre-commit`C 11` <id>`C`"
+	echo "    Validate conformity before git-commit"
+	echo "  `C 2`checksum`C` [`C 12`--force`C`] `C 11`<id>`C`"
+	echo "    Generate checksum for dataset <dir>"
+	echo "  `C 2`learn`C 11` <id> <subid> <json>`C`"
+	echo "    Learn patterns using subset `C 11`<subid>`C` from dataset `C 11`<id>`C` using execution `C 11`<json>`C`"
 #	echo "  generate-pdfset <dir> <MANIFEST>"
 #	echo "  	Generate pdf-set  <dir> MANIFEST file"
 	exit
@@ -71,32 +85,79 @@ cd_dataset() {
 
 cmd_sha256() {
 	cd_dataset
-	die_if_exists SHA256SUMS
+	[[ $OPT_FORCE == true ]] || die_if_exists SHA256SUMS
+	echo "Creating SHA256SUMS ..."
+	echo "" > SHA256SUMS
 	find . \
-		-regex './\(pdf\|meta\).*' \
 		-type f \
-		-exec sha256sum {} >> SHA256SUMS \;
+		-regex './\(pdf\|meta\).*' \
+		| xargs \
+		    -P 10 \
+		    -n 5 \
+		    -I{} \
+		    sha256sum {} >> SHA256SUMS
 	cd_root
 }
 
 cmd_init() {
 	die_if_empty "$DATASET"
 	die_if_exists "$DIR_DATASET/$DATASET"
-	mkdir "$DIR_DATASET/$DATASET"
+	cp -rv $DIR_TEMPLATE "$DIR_DATASET/$DATASET"
 	cd_dataset
-	mkdir -p meta
-	mkdir -p subsets
-	mkdir -p pdf
-	cp $DIR_TEMPLATES/README.md .
 	sed -i "s/TITLE/$DATASET/" README.md
 	cd_root
 }
 
-CMD=$1
-DATASET=$2
-shift
+debug() {
+    echo "`C 13`#DEBUG>   `C 2`CMD`C`: $CMD"
+    echo "`C 13`#DEBUG>   `C 11`DATASET`C`: $DATASET"
+    echo "`C 13`#DEBUG>   `C 11`EXECUTION`C`: $EXECUTION"
+    echo "`C 13`#DEBUG>   `C 11`JSON`C`: $JSON"
+    echo "`C 13`#DEBUG>   `C 12`OPT_FORCE`C`: $OPT_FORCE"
+    echo "`C 13`#DEBUG>   `C 12`OPT_DEBUG`C`: $OPT_DEBUG"
+    echo "`C 13`#DEBUG>   `C 14`\$@`C`: $@"
+}
+
+CMD="$1" && shift
+[[ -z "$CMD" ]] && usage
+
+while [[ "$1" =~ ^- ]];do
+    case "$1" in 
+        --force) 
+            OPT_FORCE=true
+            ;;
+        --debug|-d)
+            OPT_DEBUG=true
+            ;;
+        *)
+            usage "Unknown Option: '$1'"
+            ;;
+    esac
+    shift;
+done
+
 case "$CMD" in
-	init) 	cmd_init ;;
-	sha256)	cmd_sha256 ;;
-	*)	usage ;;
+	init)
+        DATASET="$1" && shift
+        [[ -z "$DATASET" ]] && usage "Must specify dataset"
+        [[ $OPT_DEBUG == true ]] && debug
+        cmd_init $@
+	    ;;
+	checksum)
+        DATASET="$1" && shift
+        [[ -z "$DATASET" ]] && usage "Must specify dataset"
+        [[ $OPT_DEBUG == true ]] && debug
+        cmd_sha256 $@
+	    ;;
+    learn)
+        DATASET="$1" && shift
+        JSON="$1" && shift
+        [[ -z "$DATASET" ]] && usage "Must specify dataset"
+        [[ -z "$JSON" ]] && usage "Must specify JSON"
+        [[ $OPT_DEBUG == true ]] && debug
+        # cmd_learn $@
+        ;;
+	*)	
+	    usage "Unknown command '$CMD'"
+	    ;;
 esac
