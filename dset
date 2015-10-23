@@ -5,11 +5,10 @@ source ~/.shcolor.sh 2>/dev/null || source <(curl -s https://raw.githubuserconte
 # Configuration
 #
 
-# Set this to the Infolink JAR
-INFOLINK_HOME=
-
 # Root directory of the repo, default the directory of this script
 DIR_ROOT="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+# Set this to the Infolink JAR
+INFOLINK_JAR=$DIR_ROOT/infoLink/build/libs/infoLink-1.0.jar
 # Datasets subdirectory
 DIR_DATASET="$DIR_ROOT/datasets"
 # Template subdirectotry
@@ -40,8 +39,8 @@ usage() {
 	echo "    Validate conformity before git-commit"
 	echo "  `C 2`checksum`C` [`C 12`--force`C`] `C 11`<id>`C`"
 	echo "    Generate checksum for dataset <dir>"
-	echo "  `C 2`learn`C 11` <id> <subid> <json>`C`"
-	echo "    Learn patterns using subset `C 11`<subid>`C` from dataset `C 11`<id>`C` using execution `C 11`<json>`C`"
+	echo "  `C 2`learn`C 11` <id> <json>`C`"
+	echo "    Learn patterns from dataset `C 11`<id>`C` using execution `C 11`<json>`C`"
 #	echo "  generate-pdfset <dir> <MANIFEST>"
 #	echo "  	Generate pdf-set  <dir> MANIFEST file"
 	exit
@@ -108,6 +107,15 @@ cmd_init() {
 	cd_root
 }
 
+cmd_learn() {
+	die_if_empty "$DATASET"
+	die_if_empty "$JSON"
+	cd_dataset
+	die_if_not_exists "$JSON.json"
+	java -jar $INFOLINK_JAR $JSON.json
+	cd_root
+}
+
 debug() {
     echo "`C 13`#DEBUG>   `C 2`CMD`C`: $CMD"
     echo "`C 13`#DEBUG>   `C 11`DATASET`C`: $DATASET"
@@ -155,7 +163,7 @@ case "$CMD" in
         [[ -z "$DATASET" ]] && usage "Must specify dataset"
         [[ -z "$JSON" ]] && usage "Must specify JSON"
         [[ $OPT_DEBUG == true ]] && debug
-        # cmd_learn $@
+        cmd_learn $@
         ;;
 	*)	
 	    usage "Unknown command '$CMD'"

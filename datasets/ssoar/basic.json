@@ -1,0 +1,4 @@
+{
+    "algorithm": "io.github.infolis.algorithm.FrequencyBasedBootstrapping",
+    "inputFiles": "/srv/tomcat7_infolis/infolis-datasets/datasets/ssoar/pdf/"
+}
