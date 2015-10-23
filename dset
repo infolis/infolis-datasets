@@ -112,7 +112,7 @@ cmd_learn() {
 	die_if_empty "$JSON"
 	cd_dataset
 	die_if_not_exists "$JSON.json"
-	java -jar $INFOLINK_JAR $JSON.json
+	java -jar $INFOLINK_JAR $JSON.json output/$JSON
 	cd_root
 }
 
