@@ -1,0 +1,3 @@
+[submodule "infoLink"]
+	path = infoLink
+	url = https://github.com/infolis/infoLink
