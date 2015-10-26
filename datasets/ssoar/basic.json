@@ -1,4 +1,5 @@
 {
     "algorithm": "io.github.infolis.algorithm.FrequencyBasedBootstrapping",
-    "inputFiles": "/srv/tomcat7_infolis/infolis-datasets/datasets/ssoar/pdf/"
+    "reliabilityThreshold": 0.45,
+    "seeds": ["ALLBUS"]
 }
