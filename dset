@@ -25,7 +25,7 @@ usage() {
         echo "`C 1 b`ERROR:`C` $1"
     fi
     echo ""
-	echo "  `C 15`$0 `C 2`<cmd>`C` [`C 12`options`C`] [`C 11`<id> <set-id> <json>`C`]"
+	echo "  `C 15`$0 `C 2`<cmd>`C` [`C 12`options`C`] [[`C 11`<dataset>`C`] `C 11`<subset> <json>`C`]"
 	echo ""
 	echo "  Options:"
 	echo ""
@@ -33,14 +33,14 @@ usage() {
 	echo ""
 	echo "  Subcommands:"
 	echo ""
-	echo "  `C 2`init`C 11` <id>`C`"
-	echo "    Initialize new dataset in directory datasets/<id>"
-	echo "  `C 2`pre-commit`C 11` <id>`C`"
+	echo "  `C 2`init`C 11` <dataset>`C`"
+	echo "    Initialize new dataset in directory datasets/<dataset>"
+	echo "  `C 2`pre-commit`C 11` <dataset>`C`"
 	echo "    Validate conformity before git-commit"
-	echo "  `C 2`checksum`C` [`C 12`--force`C`] `C 11`<id>`C`"
+	echo "  `C 2`checksum`C` [`C 12`--force`C`] `C 11`<dataset>`C`"
 	echo "    Generate checksum for dataset <dir>"
-	echo "  `C 2`learn`C 11` <id> <json>`C`"
-	echo "    Learn patterns from dataset `C 11`<id>`C` using execution `C 11`<json>`C`"
+	echo "  `C 2`learn`C 11` <dataset> <subset> <json>`C`"
+	echo "    Learn patterns from subset `C 11`<subset>`C` of dataset `C 11`<dataset>`C` using execution `C 11`<json>`C`"
 #	echo "  generate-pdfset <dir> <MANIFEST>"
 #	echo "  	Generate pdf-set  <dir> MANIFEST file"
 	exit
@@ -64,7 +64,7 @@ die_if_exists() {
 }
 die_if_empty() {
 	if [[ -z "$1" ]];then
-		echo "Argument must not be empty!"
+        echo "Argument $2 must not be empty!"
 		exit 1;
 	fi
 }
@@ -99,8 +99,8 @@ cmd_sha256() {
 }
 
 cmd_init() {
-	die_if_empty "$DATASET"
-	die_if_exists "$DIR_DATASET/$DATASET"
+	die_if_empty "$DATASET" "<dataset>"
+	die_if_exists "$DIR_DATASET/$DATASET" 
 	cp -rv $DIR_TEMPLATE "$DIR_DATASET/$DATASET"
 	cd_dataset
 	sed -i "s/TITLE/$DATASET/" README.md
@@ -108,8 +108,9 @@ cmd_init() {
 }
 
 cmd_learn() {
-	die_if_empty "$DATASET"
-	die_if_empty "$JSON"
+	die_if_empty "$DATASET" "<dataset>"
+	die_if_empty "$SUBSET" "<subset>"
+	die_if_empty "$JSON" "<json>"
 	cd_dataset
 	die_if_not_exists "$JSON.json"
 	java -jar $INFOLINK_JAR $JSON.json output/$JSON
@@ -119,6 +120,7 @@ cmd_learn() {
 debug() {
     echo "`C 13`#DEBUG>   `C 2`CMD`C`: $CMD"
     echo "`C 13`#DEBUG>   `C 11`DATASET`C`: $DATASET"
+    echo "`C 13`#DEBUG>   `C 11`SUBSET`C`: $DATASET"
     echo "`C 13`#DEBUG>   `C 11`EXECUTION`C`: $EXECUTION"
     echo "`C 13`#DEBUG>   `C 11`JSON`C`: $JSON"
     echo "`C 13`#DEBUG>   `C 12`OPT_FORCE`C`: $OPT_FORCE"
@@ -159,9 +161,8 @@ case "$CMD" in
 	    ;;
     learn)
         DATASET="$1" && shift
+        SUBSET="$1" && shift
         JSON="$1" && shift
-        [[ -z "$DATASET" ]] && usage "Must specify dataset"
-        [[ -z "$JSON" ]] && usage "Must specify JSON"
         [[ $OPT_DEBUG == true ]] && debug
         cmd_learn $@
         ;;
