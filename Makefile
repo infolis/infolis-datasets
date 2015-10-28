@@ -8,11 +8,11 @@ GRADLE = ./gradlew
 	$(GIT) submodule foreach git pull origin master
 	$(GIT) add infoLink
 
-infoLink/src:
+infoLink:
 	$(GIT) submodule init
 	$(GIT) submodule update
 
-infoLink/build : infoLink/src
+infoLink/build : infoLink
 	cd infoLink && $(GRADLE) jar
 
 realclean:
