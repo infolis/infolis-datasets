@@ -30,10 +30,10 @@ usage() {
 	echo ""
 	echo "  Options:"
 	echo ""
-	echo "    `C 12`--force`C`          overwrite if exists"
-	echo "    `C 12`--debug -d`C`       output debug"
-	echo "    `C 12`--convert-to-text`C`convert the data to text before execution"
-	echo "    `C 12`--tag <tag>`C`      override tag to be used (default: `C 11`$(default_tag)`C`"
+	echo "    `C 12`--force`C`            overwrite if exists"
+	echo "    `C 12`--debug -d`C`         output debug"
+	echo "    `C 12`--convert-to-text`C`  convert the data to text before execution"
+	echo "    `C 12`--tag <tag>`C`        override tag to be used (default: `C 11`$(default_tag)`C`"
 	echo ""
 	echo "  Subcommands:"
 	echo ""
@@ -43,7 +43,7 @@ usage() {
 	echo "    Validate conformity before git-commit"
 	echo "  `C 2`checksum`C` [`C 12`--force`C`] `C 11`<dataset>`C`"
 	echo "    Generate checksum for dataset <dir>"
-	echo "  `C 2`exec`C 11` <dataset> <subset> [<json>]`C`"
+	echo "  `C 2`exec`C 11` <dataset> <subset> <json>`C`"
 	echo "    Execute an algorithm on data from subset `C 11`<subset>`C` of dataset `C 11`<dataset>`C` using execution `C 11`<json>`C`"
 	echo "    TODO <json> can be omitted if only --conver-to-text is given. Only pdf-to-text will be performed TODO"
 #	echo "  generate-pdfset <dir> <MANIFEST>"
@@ -88,7 +88,7 @@ cd_dataset() {
 }
 
 default_tag() {
-    echo "$DATASET-$SUBSET-$JSON-$(date "+%Y-%m-%dT%H:%M:%S")"
+    echo "<DATASET>-<SUBSET>-<JSON>-$(date "+%Y-%m-%dT%H:%M:%S")"
 }
 
 #
