@@ -15,6 +15,7 @@ DIR_DATASET="$DIR_ROOT/datasets"
 DIR_TEMPLATE="$DIR_ROOT/template"
 
 OPT_FORCE=false
+OPT_TO_TEXT=
 
 #
 # Usage
@@ -41,8 +42,8 @@ usage() {
 	echo "    Validate conformity before git-commit"
 	echo "  `C 2`checksum`C` [`C 12`--force`C`] `C 11`<dataset>`C`"
 	echo "    Generate checksum for dataset <dir>"
-	echo "  `C 2`learn`C 11` <dataset> <subset> <json>`C`"
-	echo "    Learn patterns from subset `C 11`<subset>`C` of dataset `C 11`<dataset>`C` using execution `C 11`<json>`C`"
+	echo "  `C 2`exec`C 11` <dataset> <subset> <json>`C`"
+	echo "    Execute an algorithm on data from subset `C 11`<subset>`C` of dataset `C 11`<dataset>`C` using execution `C 11`<json>`C`"
 #	echo "  generate-pdfset <dir> <MANIFEST>"
 #	echo "  	Generate pdf-set  <dir> MANIFEST file"
 	exit
@@ -117,25 +118,35 @@ cmd_init() {
 	cd_root
 }
 
-cmd_learn() {
+cmd_totext() {
+	die_if_empty "$DATASET" "<dataset>"
+}
+
+cmd_exec() {
 	die_if_empty "$DATASET" "<dataset>"
 	die_if_empty "$SUBSET" "<subset>"
 	die_if_empty "$JSON" "<json>"
 	die_if_empty "$TAG" "<tag>"
 	cd_dataset
-	die_if_not_exists "$JSON.json" "$PWD/$JSON.jar"
-	tempjson="/tmp/infolis-$TAG.json"
-	cp "$JSON.json" $tempjson
-	sed -i "/inputFiles/d" $tempjson
-	sed -i "2i\    \"tags\": [\"$TAG\"]," $tempjson
-	sed -i "2i\    \"inputFiles\": \"$DIR_DATASET/$DATASET/subsets/$SUBSET\"," $tempjson
+    java_args=("-jar" "$INFOLINK_JAR")
+    java_args+=("--pdf-dir" "$PWD/subsets/$SUBSET")
+    java_args+=("--db-dir" "$PWD/db")
+    java_args+=("--text-dir" "$PWD/text")
+    java_args+=("--tag" "$TAG")
+	if [[ ! -z "$JSON" ]];then
+        die_if_not_exists "$JSON.json" "$PWD/$JSON.jar"
+        java_args+=("--json" "$JSON.json")
+    fi
+    if [[ ! -z "$OPT_TO_TEXT" ]];then
+        java_args+=("--convert-to-text")
+    fi
 	if [[ $OPT_DEBUG == true ]];then
 	    echo "`C 11`About to execute:`C`"
-	    cat $tempjson
-        echo java -jar "$INFOLINK_JAR" "$tempjson" "output/$JSON"
+        echo java "${java_args[@]}"
+        echo "<ENTER> to continue, <CTRL-C> to quit"
+        read
     fi
-    java -jar "$INFOLINK_JAR" "$tempjson" "output/$JSON"
-    rm $tempjson
+    java "${java_args[@]}"
 	cd_root
 }
 
@@ -145,6 +156,7 @@ debug() {
     echo "`C 13`#DEBUG>   `C 11`SUBSET`C`: $SUBSET"
     echo "`C 13`#DEBUG>   `C 11`JSON`C`: $JSON"
     echo "`C 13`#DEBUG>   `C 12`OPT_FORCE`C`: $OPT_FORCE"
+    echo "`C 13`#DEBUG>   `C 12`OPT_TO_TEXT`C`: $OPT_TO_TEXT"
     echo "`C 13`#DEBUG>   `C 12`OPT_TAG`C`: $OPT_TAG"
     echo "`C 13`#DEBUG>   `C 12`OPT_DEBUG`C`: $OPT_DEBUG"
     echo "`C 13`#DEBUG>   `C 14`\$@`C`: $@"
@@ -162,6 +174,9 @@ while [[ "$1" =~ ^- ]];do
             OPT_TAG=$2;
             shift
             ;;
+        --convert-to-text)
+            OPT_TO_TEXT="--convert-to-text"
+            ;;
         --debug|-d)
             OPT_DEBUG=true
             ;;
@@ -171,7 +186,6 @@ while [[ "$1" =~ ^- ]];do
     esac
     shift;
 done
-TAG=${OPT_TAG:-$(default_tag)}
 
 case "$CMD" in
 	init)
@@ -186,12 +200,20 @@ case "$CMD" in
         [[ $OPT_DEBUG == true ]] && debug $@
         cmd_sha256 $@
 	    ;;
-    learn)
+    exec)
         DATASET="$1" && shift
         SUBSET="$1" && shift
         JSON="$1" && shift
+        TAG=${OPT_TAG:-$(default_tag)}
         [[ $OPT_DEBUG == true ]] && debug $@
-        cmd_learn $@
+        cmd_exec $@
+        ;;
+    to-text)
+        DATASET="$1" && shift
+        SUBSET="$1" && shift
+        TAG=${OPT_TAG:-$(default_tag)}
+        [[ $OPT_DEBUG == true ]] && debug $@
+        cmd_exec $@
         ;;
 	*)	
 	    usage "Unknown command '$CMD'"
