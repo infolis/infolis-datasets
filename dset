@@ -13,9 +13,12 @@ INFOLINK_JAR=$DIR_ROOT/infoLink/build/libs/infoLink-1.0.jar
 DIR_DATASET="$DIR_ROOT/datasets"
 # Template subdirectotry
 DIR_TEMPLATE="$DIR_ROOT/template"
+# Arguments to the CLI call
+declare -A JAVA_CLI_ARGS
 
+OPT_DEBUG=true
 OPT_FORCE=false
-OPT_TO_TEXT=
+OPT_TO_TEXT=true
 
 #
 # Usage
@@ -26,29 +29,30 @@ usage() {
         echo "`C 1 b`ERROR:`C` $1"
     fi
     echo ""
-	echo "  `C 15`$0 `C 2`<cmd>`C` [`C 12`options`C`] [[`C 11`<dataset>`C`] `C 11`<subset> <json>`C`]"
-	echo ""
-	echo "  Options:"
-	echo ""
-	echo "    `C 12`--force`C`            overwrite if exists"
-	echo "    `C 12`--debug -d`C`         output debug"
-	echo "    `C 12`--convert-to-text`C`  convert the data to text before execution"
-	echo "    `C 12`--tag <tag>`C`        override tag to be used (default: `C 11`$(default_tag)`C`"
-	echo ""
-	echo "  Subcommands:"
-	echo ""
-	echo "  `C 2`init`C 11` <dataset>`C`"
-	echo "    Initialize new dataset in directory datasets/<dataset>"
-	echo "  `C 2`pre-commit`C 11` <dataset>`C`"
-	echo "    Validate conformity before git-commit"
-	echo "  `C 2`checksum`C` [`C 12`--force`C`] `C 11`<dataset>`C`"
-	echo "    Generate checksum for dataset <dir>"
-	echo "  `C 2`exec`C 11` <dataset> <subset> <json>`C`"
-	echo "    Execute an algorithm on data from subset `C 11`<subset>`C` of dataset `C 11`<dataset>`C` using execution `C 11`<json>`C`"
-	echo "    TODO <json> can be omitted if only --conver-to-text is given. Only pdf-to-text will be performed TODO"
-#	echo "  generate-pdfset <dir> <MANIFEST>"
-#	echo "  	Generate pdf-set  <dir> MANIFEST file"
-	exit
+    echo "  `C 15`$0 `C 2`<cmd>`C` [`C 12`options`C`] [[`C 11`<dataset>`C`] `C 11`<subset> <json>`C`]"
+    echo ""
+    echo "  Options:"
+    echo ""
+    echo "    `C 12`--force`C`            overwrite if exists"
+    echo "    `C 12`--debug -d`C`         output debug"
+    echo "    `C 12`--convert-to-text`C`  convert the data to text before execution"
+    echo "    `C 12`--tag <tag>`C`        override tag to be used (default: `C 11`<DATASET>-<SUBSET>-<JSON>-<TIMESTAMP>`C`"
+    echo ""
+    echo "  Subcommands:"
+    echo ""
+    echo "  `C 2`init`C 11` <dataset>`C`"
+    echo "    Initialize new dataset in directory datasets/<dataset>"
+    echo "  `C 2`pre-commit`C 11` <dataset>`C`"
+    echo "    Validate conformity before git-commit"
+    echo "  `C 2`checksum`C` [`C 12`--force`C`] `C 11`<dataset>`C`"
+    echo "    Generate checksum for dataset <dir>"
+    echo "  `C 2`to-text`C 11` <dataset> <subset>`C`"
+    echo "    Convert the *.pdf in subset `C 11`<subset>`C` of dataset `C 11`<dataset>`C` to text/plain"
+    echo "  `C 2`exec`C 11` <dataset> <subset> <json>`C`"
+    echo "    Execute an algorithm on data from subset `C 11`<subset>`C` of dataset `C 11`<dataset>`C` using execution `C 11`<json>`C`"
+#    echo "  generate-pdfset <dir> <MANIFEST>"
+#    echo "      Generate pdf-set  <dir> MANIFEST file"
+    exit
 }
 
 #
@@ -60,96 +64,117 @@ die_if_not_exists() {
     if [[ ! -z "$2" ]];then
         actual_file="(=$2)"
     fi
-	if [[ ! -e "$1" ]];then
-		echo "$1 $actual_file does not exist!"
-		exit 1
-	fi
+    if [[ ! -e "$1" ]];then
+        echo "$1 $actual_file does not exist!"
+        exit 1
+    fi
 }
 die_if_exists() {
-	if [[ -e "$1" ]];then
-		echo "$1 already exists!"
-		exit 1
-	fi
+    if [[ -e "$1" ]];then
+        echo "$1 already exists!"
+        exit 1
+    fi
 }
 die_if_empty() {
-	if [[ -z "$1" ]];then
+    if [[ -z "$1" ]];then
         echo "Argument $2 must not be empty!"
-		exit 1;
-	fi
+        exit 1;
+    fi
 }
 
 cd_root() {
-	cd $DIR_ROOT
+    cd $DIR_ROOT
 }
 
 cd_dataset() {
-	die_if_not_exists "$DIR_DATASET/$DATASET"
-	cd "$DIR_DATASET/$DATASET"
+    die_if_not_exists "$DIR_DATASET/$DATASET"
+    cd "$DIR_DATASET/$DATASET"
 }
 
 default_tag() {
-    echo "<DATASET>-<SUBSET>-<JSON>-$(date "+%Y-%m-%dT%H:%M:%S")"
+    echo "$DATASET-$SUBSET-$JSON-$(date "+%Y-%m-%dT%H:%M:%S")"
 }
+
+exec_java() {
+    local args=("-jar" "$INFOLINK_JAR")
+    if [[ "$OPT_TO_TEXT" == true ]];then
+        args+=("--convert-to-text")
+    fi
+    if [[ ! -z "$TAG" ]];then
+        JAVA_CLI_ARGS["--tag"]="$TAG"
+    fi
+    for arg in "${!JAVA_CLI_ARGS[@]}";do
+        args+=("$arg" "${JAVA_CLI_ARGS[$arg]}")
+    done
+    echo "`C 11`About to execute:`C`"
+    echo java "${args[@]}"
+    echo "<ENTER> to continue, <CTRL-C> to quit"
+    read
+
+    java "${args[@]}"
+}
+
 
 #
 # Commands
 #
 
 cmd_sha256() {
-	cd_dataset
-	[[ $OPT_FORCE == true ]] || die_if_exists SHA256SUMS
-	echo "Creating SHA256SUMS ..."
-	echo "" > SHA256SUMS
-	find . \
-		-type f \
-		-regex './\(pdf\|meta\).*' \
-		| xargs \
-		    -P 10 \
-		    -n 5 \
-		    -I{} \
-		    sha256sum {} >> SHA256SUMS
-	cd_root
+    cd_dataset
+    [[ $OPT_FORCE == true ]] || die_if_exists SHA256SUMS
+    echo "Creating SHA256SUMS ..."
+    echo "" > SHA256SUMS
+    find . \
+        -type f \
+        -regex './\(pdf\|meta\).*' \
+        | xargs \
+            -P 10 \
+            -n 5 \
+            -I{} \
+            sha256sum {} >> SHA256SUMS
+    cd_root
 }
 
 cmd_init() {
-	die_if_empty "$DATASET" "<dataset>"
-	die_if_exists "$DIR_DATASET/$DATASET" 
-	cp -rv $DIR_TEMPLATE "$DIR_DATASET/$DATASET"
-	cd_dataset
-	sed -i "s/TITLE/$DATASET/" README.md
-	cd_root
+    die_if_empty "$DATASET" "<dataset>"
+    die_if_exists "$DIR_DATASET/$DATASET" 
+    cp -rv $DIR_TEMPLATE "$DIR_DATASET/$DATASET"
+    cd_dataset
+    sed -i "s/TITLE/$DATASET/" README.md
+    cd_root
 }
 
-cmd_totext() {
-	die_if_empty "$DATASET" "<dataset>"
+cmd_to_text() {
+    die_if_empty "$DATASET" "<dataset>"
+    die_if_empty "$SUBSET" "<subset>"
+    die_if_not_exists "$DIR_DATASET/$DATASET/subsets/$SUBSET"
+    cd_dataset
+
+    JAVA_CLI_ARGS["--pdf-dir"]="$DIR_DATASET/$DATASET/subsets/$SUBSET"
+    JAVA_CLI_ARGS["--text-dir"]="$DIR_DATASET/$DATASET/text/$SUBSET"
+    JAVA_CLI_ARGS["--db-dir"]="$PWD/db"
+    JAVA_CLI_ARGS["--tag"]="to-text"
+    exec_java
+
+    cd_root
 }
 
 cmd_exec() {
-	die_if_empty "$DATASET" "<dataset>"
-	die_if_empty "$SUBSET" "<subset>"
-	die_if_empty "$JSON" "<json>"
-	die_if_empty "$TAG" "<tag>"
-	cd_dataset
-    java_args=("-jar" "$INFOLINK_JAR")
-    java_args+=("--pdf-dir" "$PWD/subsets/$SUBSET")
-    java_args+=("--db-dir" "$PWD/db")
-    java_args+=("--text-dir" "$PWD/text")
-    java_args+=("--tag" "$TAG")
-	if [[ ! -z "$JSON" ]];then
-        die_if_not_exists "$JSON.json" "$PWD/$JSON.jar"
-        java_args+=("--json" "$JSON.json")
-    fi
-    if [[ ! -z "$OPT_TO_TEXT" ]];then
-        java_args+=("--convert-to-text")
-    fi
-	if [[ $OPT_DEBUG == true ]];then
-	    echo "`C 11`About to execute:`C`"
-        echo java "${java_args[@]}"
-        echo "<ENTER> to continue, <CTRL-C> to quit"
-        read
-    fi
-    java "${java_args[@]}"
-	cd_root
+    die_if_empty "$DATASET" "<dataset>"
+    die_if_empty "$SUBSET" "<subset>"
+    die_if_empty "$JSON" "<json>"
+    die_if_empty "$TAG" "<tag>"
+    cd_dataset
+    die_if_not_exists "$JSON.json" "$PWD/$JSON.json"
+    die_if_not_exists "$PWD/subsets/$SUBSET"
+
+    JAVA_CLI_ARGS["--json"]="$PWD/$JSON.json"
+    JAVA_CLI_ARGS["--pdf-dir"]="$PWD/subsets/$SUBSET"
+    JAVA_CLI_ARGS["--db-dir"]="$PWD/db"
+    JAVA_CLI_ARGS["--text-dir"]="$PWD/text/$SUBSET"
+    exec_java
+
+    cd_root
 }
 
 debug() {
@@ -177,7 +202,7 @@ while [[ "$1" =~ ^- ]];do
             shift
             ;;
         --convert-to-text)
-            OPT_TO_TEXT="--convert-to-text"
+            OPT_TO_TEXT=true
             ;;
         --debug|-d)
             OPT_DEBUG=true
@@ -190,18 +215,18 @@ while [[ "$1" =~ ^- ]];do
 done
 
 case "$CMD" in
-	init)
+    init)
         DATASET="$1" && shift
         [[ -z "$DATASET" ]] && usage "Must specify dataset"
         [[ $OPT_DEBUG == true ]] && debug $@
         cmd_init $@
-	    ;;
-	checksum)
+        ;;
+    checksum)
         DATASET="$1" && shift
         [[ -z "$DATASET" ]] && usage "Must specify dataset"
         [[ $OPT_DEBUG == true ]] && debug $@
         cmd_sha256 $@
-	    ;;
+        ;;
     exec)
         DATASET="$1" && shift
         SUBSET="$1" && shift
@@ -213,11 +238,10 @@ case "$CMD" in
     to-text)
         DATASET="$1" && shift
         SUBSET="$1" && shift
-        TAG=${OPT_TAG:-$(default_tag)}
         [[ $OPT_DEBUG == true ]] && debug $@
-        cmd_exec $@
+        cmd_to_text $@
         ;;
-	*)	
-	    usage "Unknown command '$CMD'"
-	    ;;
+    *)
+        usage "Unknown command '$CMD'"
+        ;;
 esac
