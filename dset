@@ -15,6 +15,7 @@ DIR_DATASET="$DIR_ROOT/datasets"
 DIR_TEMPLATE="$DIR_ROOT/template"
 # Arguments to the CLI call
 declare -A JAVA_CLI_ARGS
+JAVA_CLI_FLAGS=()
 
 OPT_DEBUG=true
 OPT_FORCE=false
@@ -50,8 +51,8 @@ usage() {
     echo "    Convert the *.pdf in subset `C 11`<subset>`C` of dataset `C 11`<dataset>`C` to text/plain"
     echo "  `C 2`exec`C 11` <dataset> <subset> <json>`C`"
     echo "    Execute an algorithm on data from subset `C 11`<subset>`C` of dataset `C 11`<dataset>`C` using execution `C 11`<json>`C`"
-#    echo "  generate-pdfset <dir> <MANIFEST>"
-#    echo "      Generate pdf-set  <dir> MANIFEST file"
+    echo "  `C 2`query-for-subset`C 11` <dataset> <queryfile>`C`"
+    echo "    Search dataset `C 11`<dataset>`C` for documents matching any line in `C 11`<queryfile>`C`"
     exit
 }
 
@@ -96,18 +97,21 @@ default_tag() {
 }
 
 exec_java() {
+    echo "`C 11`About to execute:`C`"
+    echo "java -jar $INFOLINK_JAR"
     local args=("-jar" "$INFOLINK_JAR")
-    if [[ "$OPT_TO_TEXT" == true ]];then
-        args+=("--convert-to-text")
-    fi
     if [[ ! -z "$TAG" ]];then
+        echo "--tag $TAG"
         JAVA_CLI_ARGS["--tag"]="$TAG"
     fi
     for arg in "${!JAVA_CLI_ARGS[@]}";do
+        echo "$arg ${JAVA_CLI_ARGS[$arg]}"
         args+=("$arg" "${JAVA_CLI_ARGS[$arg]}")
     done
-    echo "`C 11`About to execute:`C`"
-    echo java "${args[@]}"
+    for flag in "${JAVA_CLI_FLAGS[@]}";do
+        echo "$flag"
+        args+=("$flag")
+    done
     echo "<ENTER> to continue, <CTRL-C> to quit"
     read
 
@@ -148,6 +152,7 @@ cmd_to_text() {
     die_if_empty "$DATASET" "<dataset>"
     die_if_empty "$SUBSET" "<subset>"
     die_if_not_exists "$DIR_DATASET/$DATASET/subsets/$SUBSET"
+
     cd_dataset
 
     JAVA_CLI_ARGS["--pdf-dir"]="$DIR_DATASET/$DATASET/subsets/$SUBSET"
@@ -155,6 +160,35 @@ cmd_to_text() {
     JAVA_CLI_ARGS["--db-dir"]="$PWD/db"
     JAVA_CLI_ARGS["--tag"]="to-text"
     exec_java
+
+    cd_root
+}
+
+cmd_query_subset() {
+    die_if_empty "$DATASET" "<dataset>"
+    die_if_empty "$QUERYFILE" "<queryfile>"
+    qFile="$DIR_DATASET/$DATASET/$QUERYFILE.lst"
+    indexDir="$DIR_DATASET/$DATASET/index"
+    dbDir="$DIR_DATASET/$DATASET/db"
+    die_if_not_exists "$qFile"
+    mkdir -p $indexDir
+
+    cd_dataset
+
+    JAVA_CLI_FLAGS+=("--search-candidates")
+    JAVA_CLI_ARGS["--pdf-dir"]="$DIR_DATASET/$DATASET/subsets/all"
+    JAVA_CLI_ARGS["--text-dir"]="$DIR_DATASET/$DATASET/text/all"
+    JAVA_CLI_ARGS["--db-dir"]="$dbDir"
+    JAVA_CLI_ARGS["--tag"]="subset-$QUERYFILE"
+    JAVA_CLI_ARGS["--queries-file"]="$qFile"
+    JAVA_CLI_ARGS["--index-dir"]="$indexDir"
+
+    exec_java
+
+    mkdir "subsets/$QUERYFILE"
+    while read fname; do
+        ln -s "../$fname.pdf" "subsets/$QUERYFILE"
+    done < "$DIR_DATASET/$DATASET/db/$QUERYFILE"
 
     cd_root
 }
@@ -198,11 +232,14 @@ while [[ "$1" =~ ^- ]];do
             OPT_FORCE=true
             ;;
         --tag)
-            OPT_TAG=$2;
+            OPT_TAG=$2
             shift
             ;;
         --convert-to-text)
             OPT_TO_TEXT=true
+            ;;
+        --no-convert-to-text)
+            OPT_TO_TEXT=false
             ;;
         --debug|-d)
             OPT_DEBUG=true
@@ -213,6 +250,10 @@ while [[ "$1" =~ ^- ]];do
     esac
     shift;
 done
+
+if [[ "$OPT_TO_TEXT" == true ]];then
+    JAVA_CLI_FLAGS+=("--convert-to-text")
+fi
 
 case "$CMD" in
     init)
@@ -234,6 +275,12 @@ case "$CMD" in
         TAG=${OPT_TAG:-$(default_tag)}
         [[ $OPT_DEBUG == true ]] && debug $@
         cmd_exec $@
+        ;;
+    query-for-subset)
+        DATASET="$1" && shift
+        QUERYFILE="$1" && shift
+        [[ $OPT_DEBUG == true ]] && debug $@
+        cmd_query_subset $@
         ;;
     to-text)
         DATASET="$1" && shift
