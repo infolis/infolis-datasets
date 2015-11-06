@@ -2,11 +2,16 @@ INFOLINK_VERSION = 1.0
 GIT = git
 GRADLE = ./gradlew
 
-.PHONY all: infoLink/build
+.PHONY: all pull war
 
-.PHONY pull:
+all: infoLink/build
+
+pull:
 	$(GIT) submodule foreach git pull origin master
 	$(GIT) add infoLink
+
+war:
+	cd infoLink; $(GRADLE) war
 
 infoLink:
 	$(GIT) submodule init
