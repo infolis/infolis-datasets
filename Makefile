@@ -26,5 +26,8 @@ infoLink:
 infoLink/build : infoLink
 	cd infoLink && $(GRADLE) jar
 
+gradleclean:
+	cd infoLink && $(GRADLE) clean
+
 realclean:
 	rm -r infoLink
