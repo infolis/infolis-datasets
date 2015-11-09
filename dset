@@ -30,7 +30,7 @@ usage() {
         echo "`C 1 b`ERROR:`C` $1"
     fi
     echo ""
-    echo "  `C 15`$0 `C 2`<cmd>`C` [`C 12`options`C`] [[`C 11`<dataset>`C`] `C 11`<subset> <json>`C`]"
+    echo "  `C 15`$0 `C 2`<cmd>`C` [`C 12`options`C`] [`C 11`<dataset> <subset> <json> <queryfile>`C`]"
     echo ""
     echo "  Options:"
     echo ""
@@ -46,7 +46,7 @@ usage() {
     echo "  `C 2`pre-commit`C 11` <dataset>`C`"
     echo "    Validate conformity before git-commit"
     echo "  `C 2`checksum`C` [`C 12`--force`C`] `C 11`<dataset>`C`"
-    echo "    Generate checksum for dataset <dir>"
+    echo "    Generate checksum for dataset <dataset>"
     echo "  `C 2`to-text`C 11` <dataset> <subset>`C`"
     echo "    Convert the *.pdf in subset `C 11`<subset>`C` of dataset `C 11`<dataset>`C` to text/plain"
     echo "  `C 2`exec`C 11` <dataset> <subset> <json>`C`"
