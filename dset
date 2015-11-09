@@ -13,8 +13,11 @@ INFOLINK_JAR=$DIR_ROOT/infoLink/build/libs/infoLink-1.0.jar
 DIR_DATASET="$DIR_ROOT/datasets"
 # Template subdirectotry
 DIR_TEMPLATE="$DIR_ROOT/template"
+# Frontend API Base URL
+FRONTEND_BASEURL="http://infolis.gesis.org/api"
 # Arguments to the CLI call
 declare -A JAVA_CLI_ARGS
+# Boolean arguments to the CLI call
 JAVA_CLI_FLAGS=()
 
 OPT_DEBUG=true
@@ -53,6 +56,8 @@ usage() {
     echo "    Execute an algorithm on data from subset `C 11`<subset>`C` of dataset `C 11`<dataset>`C` using execution `C 11`<json>`C`"
     echo "  `C 2`query-for-subset`C 11` <dataset> <queryfile>`C`"
     echo "    Search dataset `C 11`<dataset>`C` for documents matching any line in `C 11`<queryfile>`C`"
+    echo "  `C 2`upload`C 11` <dataset> <tag>`C`"
+    echo "    Upload the database `C 11`<tag>`C` in dataset `C 11`<dataset>`C` to the server"
     exit
 }
 
@@ -211,6 +216,18 @@ cmd_exec() {
     cd_root
 }
 
+cmd_upload() {
+    die_if_empty "$DATASET" "<dataset>"
+    die_if_empty "$TAG" "<tag>"
+
+    cd_dataset
+
+    declare -A files_to_upload
+    cat "db/$TAG.json"
+
+    cd_root
+}
+
 debug() {
     echo "`C 13`#DEBUG>   `C 2`CMD`C`: $CMD"
     echo "`C 13`#DEBUG>   `C 11`DATASET`C`: $DATASET"
@@ -287,6 +304,12 @@ case "$CMD" in
         SUBSET="$1" && shift
         [[ $OPT_DEBUG == true ]] && debug $@
         cmd_to_text $@
+        ;;
+    upload)
+        DATASET="$1" && shift
+        TAG=${OPT_TAG:-$(default_tag)}
+        [[ $OPT_DEBUG == true ]] && debug $@
+        cmd_upload $@
         ;;
     *)
         usage "Unknown command '$CMD'"
