@@ -14,7 +14,7 @@ DIR_DATASET="$DIR_ROOT/datasets"
 # Template subdirectotry
 DIR_TEMPLATE="$DIR_ROOT/template"
 # Frontend API Base URL
-FRONTEND_BASEURL="http://infolis.gesis.org/api"
+FRONTEND_BASEURL="http://infolis.gesis.org/infolink/api"
 # Arguments to the CLI call
 declare -A JAVA_CLI_ARGS
 # Boolean arguments to the CLI call
@@ -98,7 +98,7 @@ cd_dataset() {
 }
 
 default_tag() {
-    echo "$DATASET-$SUBSET-$JSON-$(date "+%Y-%m-%dT%H:%M:%S")"
+    echo "$DATASET-$SUBSET-$JSON-$(date "+%Y-%m-%dT%H-%M-%S")"
 }
 
 exec_java() {
@@ -220,10 +220,30 @@ cmd_upload() {
     die_if_empty "$DATASET" "<dataset>"
     die_if_empty "$TAG" "<tag>"
 
+    dbDump="$DIR_DATASET/$DATASET/db/$TAG.json"
+    die_if_not_exists "$dbDump"
+
     cd_dataset
 
-    declare -A files_to_upload
-    cat "db/$TAG.json"
+    # Map UUID -> filename
+    declare -A FILES
+    while read -r line;do
+        uuid=$(echo $line|grep -oP '^\s*"[^"]+'|sed 's/^[^"]*"//'|sed 's/"$//')
+        fileName=$(echo $line|grep -oP '"fileName":"[^"]+'|sed 's/"fileName":"//'|sed 's/"$//')
+        # echo "$uuid -> $fileName"
+        FILES["$uuid"]="$fileName"
+    done < <(grep "fileName" "$dbDump")
+
+    curl_args=()
+    curl_args+=("-XPOST")
+    curl_args+=("-F" "db=<$dbDump")
+    for uuid in "${!FILES[@]}";do
+        echo > /dev/null
+        curl_args+=("-F" "$uuid=@${FILES[$uuid]}")
+    done
+    curl_args+=("$FRONTEND_BASEURL/json-import")
+
+    curl -s "${curl_args[@]}"
 
     cd_root
 }
@@ -257,6 +277,9 @@ while [[ "$1" =~ ^- ]];do
             ;;
         --no-convert-to-text)
             OPT_TO_TEXT=false
+            ;;
+        --nodebug|-D)
+            OPT_DEBUG=false
             ;;
         --debug|-d)
             OPT_DEBUG=true
@@ -307,7 +330,7 @@ case "$CMD" in
         ;;
     upload)
         DATASET="$1" && shift
-        TAG=${OPT_TAG:-$(default_tag)}
+        TAG=$OPT_TAG && shift
         [[ $OPT_DEBUG == true ]] && debug $@
         cmd_upload $@
         ;;
