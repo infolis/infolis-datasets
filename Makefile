@@ -33,4 +33,4 @@ realclean:
 	rm -r infoLink
 
 test:
-	cd infoLink && $(GRADLE) test -i
+	cd infoLink && $(GRADLE) cleanTest test -i
