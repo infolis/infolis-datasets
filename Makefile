@@ -29,6 +29,10 @@ infoLink/build : infoLink
 gradleclean:
 	cd infoLink && $(GRADLE) clean
 
+restart:
+	$(CATALINA_HOME)/bin/shutdown.sh
+	$(CATALINA_HOME)/bin/startup.sh
+
 realclean:
 	rm -r infoLink
 
