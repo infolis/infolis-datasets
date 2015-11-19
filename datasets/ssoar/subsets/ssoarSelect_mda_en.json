@@ -1,0 +1,16 @@
+{
+    "picklePath":"../ssoarMetadata.pickle",
+    "intersectionIntra":"False",
+    "intersectionInter":"True",
+    "select":
+        {
+            "source_journal":["Methoden, Daten, Analysen (mda)", "Methods, data, analyses : a journal for quantitative methods and survey methodology (mda)"],
+            "language_None":["en"]
+        },
+     "createLinks":
+        {
+            "source":"../pdf",
+            "target":"./mda_en"
+        } 
+}
+    

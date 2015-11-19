@@ -1,3 +1,6 @@
 [submodule "infoLink"]
 	path = infoLink
 	url = https://github.com/infolis/infoLink
+[submodule "corpus-creation"]
+	path = corpus-creation
+	url = https://github.com/infolis/corpus-creation.git
