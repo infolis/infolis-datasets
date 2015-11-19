@@ -13,7 +13,7 @@ pull:
 
 war: infoLink/build/libs/infoLink-$(INFOLINK_VERSION).war
 
-infoLink/build/libs/infoLink-$(INFOLINK_VERSION).war:
+infoLink/build/libs/infoLink-$(INFOLINK_VERSION).war: gradleclean
 	cd infoLink; $(GRADLE) war
 
 deploy: war
