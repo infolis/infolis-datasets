@@ -10,6 +10,7 @@ all: infoLink/build
 pull:
 	$(GIT) submodule foreach git pull origin master
 	$(GIT) add infoLink
+	$(GIT) add corpus-creation/
 
 war: infoLink/build/libs/infoLink-$(INFOLINK_VERSION).war
 
