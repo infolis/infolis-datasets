@@ -18,6 +18,7 @@ infoLink/build/libs/infoLink-$(INFOLINK_VERSION).war: gradleclean
 	cd infoLink; $(GRADLE) war
 
 deploy: war
+	date > LAST_DEPLOY
 	cp infoLink/build/libs/infoLink-$(INFOLINK_VERSION).war $(TOMCAT_WEBAPPS)
 
 infoLink:
