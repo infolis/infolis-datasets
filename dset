@@ -135,7 +135,7 @@ cmd_sha256() {
     echo "" > SHA256SUMS
     find . \
         -type f \
-        -regex './\(pdf\|meta\).*' \
+        -regex './\(pdf\|meta\|txt\).*' \
         | xargs \
             -P 10 \
             -n 5 \
