@@ -4,3 +4,6 @@
 [submodule "corpus-creation"]
 	path = corpus-creation
 	url = https://github.com/infolis/corpus-creation.git
+[submodule "ocror"]
+	path = ocror
+	url = https://github.com/kba/ocror-detector
