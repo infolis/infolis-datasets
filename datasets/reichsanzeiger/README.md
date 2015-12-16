@@ -1,7 +1,7 @@
 Dataset 'reichsanzeiger'
 ==============
 
-Text files of the OCR of the Reichsanzeiger publications from 1819-1945
+Text files of the OCR of the Reichsanzeiger publications from 1819-1914
 
 ## Description
 
