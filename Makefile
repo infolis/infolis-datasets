@@ -3,7 +3,7 @@ GIT = git
 GRADLE = ./gradlew
 TOMCAT_WEBAPPS = $(HOME)/build/apache-tomcat-7.0.64/webapps/
 
-.PHONY: all pull war deploy
+.PHONY: all pull war deploy jar
 
 all: infoLink/build
 
@@ -16,6 +16,11 @@ war: infoLink/build/libs/infoLink-$(INFOLINK_VERSION).war
 
 infoLink/build/libs/infoLink-$(INFOLINK_VERSION).war: gradleclean
 	cd infoLink; $(GRADLE) war
+
+jar: infoLink/build/libs/infoLink-$(INFOLINK_VERSION).jar
+
+infoLink/build/libs/infoLink-$(INFOLINK_VERSION).jar: gradleclean
+	cd infoLink; $(GRADLE) jar
 
 deploy: war
 	date > LAST_DEPLOY
