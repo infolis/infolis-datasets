@@ -1,18 +1,38 @@
 INFOLINK_VERSION = 1.0
 GIT = git
 GRADLE = ./gradlew
-TOMCAT_WEBAPPS = $(HOME)/build/apache-tomcat-7.0.64/webapps/
 
-.PHONY: all pull war deploy jar
+TOMCAT_MAJOR = 7
+TOMCAT_MINOR_PATCH = 0.67
+TOMCAT_VERSION = $(TOMCAT_MAJOR).$(TOMCAT_MINOR_PATCH)
+TOMCAT_DIR = apache-tomcat-$(TOMCAT_VERSION)
+TOMCAT_TARGZ = $(TOMCAT_DIR).tar.gz
+TOMCAT_WEBAPPS = $(TOMCAT_DIR)/webapps/
+TOMCAT_URL = "http://mirror.23media.de/apache/tomcat/tomcat-$(TOMCAT_MAJOR)/v$(TOMCAT_VERSION)/bin/$(TOMCAT_TARGZ)"
+# TOMCAT_PID = $(shell 'ps aux |grep -E "java.+$(CATALINA_HOME).+org.apache.catalina.startup.Bootstrap" |grep -v grep|tr -s ' '|cut -d' ' -f2|xargs kill -9')
+TOMCAT_PID = $(shell ps aux |grep -E "java.+$(CATALINA_HOME).+org.apache.catalina.startup.Bootstrap" |grep -v grep|tr -s ' '|cut -d' ' -f2)
+
+CATALINA_HOME = $(PWD)/$(TOMCAT_DIR)
+
+.PHONY: all pull war deploy jar tomcat start stop restart
 
 all: infoLink/build
 
 pull:
 	$(GIT) submodule foreach git pull origin master
 	$(GIT) add infoLink
-	$(GIT) add corpus-creation/
+	$(GIT) add corpus-creation
+	$(GIT) add ocror
 
 war: infoLink/build/libs/infoLink-$(INFOLINK_VERSION).war
+
+tomcat: $(TOMCAT_DIR)
+
+$(TOMCAT_DIR): $(TOMCAT_TARGZ)
+	tar xmf $(TOMCAT_TARGZ)
+
+$(TOMCAT_TARGZ):
+	wget $(TOMCAT_URL)
 
 infoLink/build/libs/infoLink-$(INFOLINK_VERSION).war: gradleclean
 	cd infoLink; $(GRADLE) war
@@ -40,7 +60,7 @@ start:
 	$(CATALINA_HOME)/bin/startup.sh
 
 stop:
-	$(CATALINA_HOME)/bin/shutdown.sh
+	kill -9 $(TOMCAT_PID)
 
 restart: 
 	$(MAKE) stop
