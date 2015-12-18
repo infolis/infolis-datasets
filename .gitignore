@@ -4,3 +4,4 @@
 *.pdf
 *.tar.gz
 LAST_DEPLOY
+/apache-tomcat-*
