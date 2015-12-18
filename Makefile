@@ -81,6 +81,14 @@ tomcat-start:
 tomcat-stop:
 	kill -9 $(TOMCAT_PID)
 
+tomcat-status:
+	@if [ "x$(TOMCAT_PID)" = "x" ];then \
+		echo "STOPPED"; \
+	else \
+		echo "RUNNING [$(TOMCAT_PID)]"; \
+	fi
+
+
 tomcat-restart:
 	$(MAKE) tomcat-stop
 	$(MAKE) tomcat-start
