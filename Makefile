@@ -79,7 +79,11 @@ tomcat-start:
 	$(CATALINA_HOME)/bin/startup.sh
 
 tomcat-stop:
-	kill -9 $(TOMCAT_PID)
+	@if [ "x$(TOMCAT_PID)" = "x" ];then \
+		echo "NOT RUNNING"; \
+	else \
+		kill -9 $(TOMCAT_PID); \
+	fi
 
 tomcat-status:
 	@if [ "x$(TOMCAT_PID)" = "x" ];then \
