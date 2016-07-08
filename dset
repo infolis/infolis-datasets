@@ -8,7 +8,8 @@ source ~/.shcolor.sh 2>/dev/null || source <(curl -s https://raw.githubuserconte
 # Root directory of the repo, default the directory of this script
 DIR_ROOT="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 # Set this to the Infolink JAR
-INFOLINK_JAR=$DIR_ROOT/infoLink/build/libs/infoLink-1.0.jar
+# INFOLINK_JAR=$DIR_ROOT/infoLink/build/libs/infoLink-1.0.jar
+INFOLINK_BIN=$DIR_ROOT/infoLink/build/distributions/infoLink-1.0/bin/infoLink
 # Datasets subdirectory
 DIR_DATASET="$DIR_ROOT/datasets"
 # Template subdirectotry
@@ -30,7 +31,7 @@ OPT_TO_TEXT=true
 
 usage() {
     if [[ ! -z "$1" ]];then
-        echo "`C 1 b`ERROR:`C` $1"
+        echo "`C 1`ERROR:`C` $1"
     fi
     echo ""
     echo "  `C 15`$0 `C 2`<cmd>`C` [`C 12`options`C`] [`C 11`<dataset> <subset> <json> <queryfile>`C`]"
@@ -58,6 +59,8 @@ usage() {
     echo "    Search dataset `C 11`<dataset>`C` for documents matching any line in `C 11`<queryfile>`C`"
     echo "  `C 2`upload`C 11` <dataset> <tag>`C`"
     echo "    Upload the database `C 11`<tag>`C` in dataset `C 11`<dataset>`C` to the server"
+    echo "  `C 2`text-to-tsv`C 11` <dataset> <subset>`C`"
+    echo "    Convert the `C 11`<subset>`C` in dataset `C 11`<dataset>`C` to WebAnno-compatible TSV"
     exit
 }
 
@@ -103,8 +106,10 @@ default_tag() {
 
 exec_java() {
     echo "`C 11`About to execute:`C`"
-    echo "java -jar $INFOLINK_JAR"
-    local args=("-jar" "$INFOLINK_JAR")
+    # echo "$INFOLINK_BIN ${JAVA_CLI_ARGS[@]} "
+    # echo "$JAVA_HOME/bin/java -jar $INFOLINK_JAR"
+    local args=()
+    JAVA_CLI_ARGS["--meta-dir"]="$DIR_DATASET/$DATASET/meta"
     if [[ ! -z "$TAG" ]];then
         echo "--tag $TAG"
         JAVA_CLI_ARGS["--tag"]="$TAG"
@@ -117,10 +122,10 @@ exec_java() {
         echo "$flag"
         args+=("$flag")
     done
+    echo "$INFOLINK_BIN ${args[*]}"
     echo "<ENTER> to continue, <CTRL-C> to quit"
     read
-
-    java "${args[@]}"
+    $INFOLINK_BIN "${args[@]}"
 }
 
 
@@ -198,6 +203,15 @@ cmd_query_subset() {
     cd_root
 }
 
+cmd_text_to_tsv() {
+    die_if_empty "$DATASET" "<dataset>"
+    die_if_empty "$SUBSET" "<subset>"
+    mkdir -p "datasets/$DATASET/tsv/$SUBSET"
+    cd_dataset
+    cd_root
+    python txt2tsv.py "datasets/$DATASET/text/$SUBSET" "datasets/$DATASET/tsv/$SUBSET"
+}
+
 cmd_exec() {
     die_if_empty "$DATASET" "<dataset>"
     die_if_empty "$SUBSET" "<subset>"
@@ -230,12 +244,13 @@ cmd_upload() {
     while read -r line;do
         uuid=$(echo $line|grep -oP '^\s*"[^"]+'|sed 's/^[^"]*"//'|sed 's/"$//')
         fileName=$(echo $line|grep -oP '"fileName":"[^"]+'|sed 's/"fileName":"//'|sed 's/"$//')
-        # echo "$uuid -> $fileName"
+        echo "$uuid -> $fileName"
         FILES["$uuid"]="$fileName"
     done < <(grep "fileName" "$dbDump")
 
     curl_args=()
     curl_args+=("-XPOST")
+    curl_args+=("-F" "tags=$TAG")
     curl_args+=("-F" "db=<$dbDump")
     for uuid in "${!FILES[@]}";do
         echo > /dev/null
@@ -327,6 +342,12 @@ case "$CMD" in
         SUBSET="$1" && shift
         [[ $OPT_DEBUG == true ]] && debug $@
         cmd_to_text $@
+        ;;
+    text-to-tsv)
+        DATASET="$1" && shift
+        SUBSET="$1" && shift
+        [[ $OPT_DEBUG == true ]] && debug $@
+        cmd_text_to_tsv $@
         ;;
     upload)
         DATASET="$1" && shift
