@@ -1,0 +1,38 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record>
+<header>
+    <identifier>doi:10.1257/app.6.4.35</identifier>
+</header>
+<metadata>
+<oai_dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" >
+    <dc:title>Citizenship, Fertility, and Parental Investments</dc:title>
+    <dc:date>2014</dc:date>
+    <dc:citesStudy>German Socio-Economic Panel (SOEP)</dc:citesStudy>
+    <dcterms:bibliographicCitation>AEJ:AE</dcterms:bibliographicCitation>
+    <dc:language>en</dc:language>
+    <dc:identifier>http://doi.org/10.1257/app.6.4.35</dc:identifier>
+    <dc:creator>Ciro Avitabile</dc:creator>
+    <dc:creator>Irma Clots-Figueras</dc:creator>
+    <dc:creator>Paolo Masella</dc:creator>
+    <dc:subject>Fertility</dc:subject>
+    <dc:subject>Family Planning</dc:subject>
+    <dc:subject>Child Care</dc:subject>
+    <dc:subject>Children</dc:subject>
+    <dc:subject>Youth</dc:subject>
+    <dc:subject>Economics of Minorities, Races, Indigenous Peoples, and Immigrants</dc:subject>
+    <dc:subject>Non-labor Discrimination</dc:subject>
+    <dc:subject>Economics of Gender</dc:subject>
+    <dc:subject>Human Capital</dc:subject>
+    <dc:subject>Skills</dc:subject>
+    <dc:subject>Occupational Choice</dc:subject>
+    <dc:subject>Labor Productivity</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+

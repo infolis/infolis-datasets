@@ -1,0 +1,28 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record>
+<header>
+    <identifier>doi:10.1257/000282802762024601</identifier>
+</header>
+<metadata>
+<oai_dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" >
+    <dc:title>Learning-by-Doing as a Propagation Mechanism</dc:title>
+    <dc:date>2002</dc:date>
+    <dc:citesStudy>US Panel Study of Income Dynamics (PSID)</dc:citesStudy>
+    <dcterms:bibliographicCitation>AER</dcterms:bibliographicCitation>
+    <dc:language>en</dc:language>
+    <dc:identifier>http://doi.org/10.1257/000282802762024601</dc:identifier>
+    <dc:creator>Yongsung Chang</dc:creator>
+    <dc:creator>Joao F. Gomes</dc:creator>
+    <dc:creator>Frank Schorfheide</dc:creator>
+    <dc:subject>TODO 2</dc:subject>
+    <dc:subject>TODO 3</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+

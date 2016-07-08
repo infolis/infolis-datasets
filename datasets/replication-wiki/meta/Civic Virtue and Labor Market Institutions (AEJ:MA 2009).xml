@@ -1,0 +1,31 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record>
+<header>
+    <identifier>doi:10.1257/mac.1.1.111</identifier>
+</header>
+<metadata>
+<oai_dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" >
+    <dc:title>Civic Virtue and Labor Market Institutions</dc:title>
+    <dc:date>2009</dc:date>
+    <dc:citesStudy>US General Social Survey (GSS)</dc:citesStudy>
+    <dcterms:bibliographicCitation>AEJ:MA</dcterms:bibliographicCitation>
+    <dc:language>en</dc:language>
+    <dc:identifier>http://doi.org/10.1257/mac.1.1.111</dc:identifier>
+    <dc:creator>Yann Algan</dc:creator>
+    <dc:creator>Pierre Cahuc</dc:creator>
+    <dc:subject>Labor Contracts</dc:subject>
+    <dc:subject>Unemployment Insurance</dc:subject>
+    <dc:subject>Plant Closings</dc:subject>
+	<dc:subject>Economic Sociology</dc:subject>
+	<dc:subject>Mobility, Unemployment, and Vacancies: Public Policy</dc:subject>
+	<dc:subject>Economic Anthropology</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+

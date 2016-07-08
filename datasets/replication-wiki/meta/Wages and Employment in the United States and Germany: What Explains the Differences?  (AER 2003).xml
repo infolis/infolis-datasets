@@ -1,0 +1,25 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record>
+<header>
+    <identifier>doi:10.1257/000282803322156990</identifier>
+</header>
+<metadata>
+<oai_dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" >
+    <dc:title>Wages and Employment in the United States and Germany: What Explains the Differences? </dc:title>
+    <dc:date>2003</dc:date>
+    <dc:citesStudy>German Socio-Economic Panel (SOEP)</dc:citesStudy>
+    <dcterms:bibliographicCitation>AER</dcterms:bibliographicCitation>
+    <dc:language>en</dc:language>
+    <dc:identifier>http://doi.org/10.1257/000282803322156990</dc:identifier>
+    <dc:creator>Paul Beaudry</dc:creator>
+    <dc:creator>David A. Green</dc:creator>
+</oai_dc:dc>
+</metadata>
+</record>
+

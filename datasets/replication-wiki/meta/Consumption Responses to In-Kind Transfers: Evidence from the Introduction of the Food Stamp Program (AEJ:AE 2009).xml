@@ -1,0 +1,31 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record>
+<header>
+    <identifier>doi:10.1257/app.1.4.109</identifier>
+</header>
+<metadata>
+<oai_dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" >
+    <dc:title>Consumption Responses to In-Kind Transfers: Evidence from the Introduction of the Food Stamp Program</dc:title>
+    <dc:date>2009</dc:date>
+    <dc:citesStudy>US Panel Study of Income Dynamics (PSID)</dc:citesStudy>
+    <dcterms:bibliographicCitation>AEJ:AE</dcterms:bibliographicCitation>
+    <dc:language>en</dc:language>
+    <dc:identifier>http://doi.org/10.1257/app.1.4.109</dc:identifier>
+    <dc:creator>Hilary W. Hoynes</dc:creator>
+    <dc:creator>Diane Whitmore Schanzenbach</dc:creator>
+    <dc:subject>Consumer Economics: Empirical Analysis</dc:subject>
+    <dc:subject>Taxation and Subsidies: Externalities</dc:subject>
+    <dc:subject>Redistributive Effects</dc:subject>
+    <dc:subject>Environmental Taxes and Subsidies</dc:subject>
+    <dc:subject>Welfare and Poverty: Government Programs</dc:subject>
+    <dc:subject>Provision and Effects of Welfare Programs</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+

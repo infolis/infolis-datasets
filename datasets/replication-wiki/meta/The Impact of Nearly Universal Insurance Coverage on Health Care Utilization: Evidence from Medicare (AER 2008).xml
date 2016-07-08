@@ -1,0 +1,30 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record>
+<header>
+    <identifier>doi:10.1257/aer.98.5.2242</identifier>
+</header>
+<metadata>
+<oai_dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" >
+    <dc:title>The Impact of Nearly Universal Insurance Coverage on Health Care Utilization: Evidence from Medicare</dc:title>
+    <dc:date>2008</dc:date>
+    <dc:citesStudy>US Current Population Survey (CPS)</dc:citesStudy>
+    <dcterms:bibliographicCitation>AER</dcterms:bibliographicCitation>
+    <dc:language>en</dc:language>
+    <dc:identifier>http://doi.org/10.1257/aer.98.5.2242</dc:identifier>
+    <dc:creator>David Cart</dc:creator>
+    <dc:creator>Carlos Dobkin</dc:creator>
+    <dc:creator>Nicole Maestas</dc:creator>
+    <dc:subject>Analysis of Health Care Markets</dc:subject>
+    <dc:subject>Health: Government Policy</dc:subject>
+    <dc:subject>Regulation</dc:subject>
+    <dc:subject>Public Health</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+

@@ -1,0 +1,29 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record>
+<header>
+    <identifier>doi:10.1257/aer.98.4.1517</identifier>
+</header>
+<metadata>
+<oai_dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" >
+    <dc:title>Explaining Changes in Female Labor Supply in a Life-Cycle Model</dc:title>
+    <dc:date>2008</dc:date>
+    <dc:citesStudy>US Panel Study of Income Dynamics (PSID)</dc:citesStudy>
+    <dcterms:bibliographicCitation>AER</dcterms:bibliographicCitation>
+    <dc:language>en</dc:language>
+    <dc:identifier>http://doi.org/10.1257/aer.98.4.1517</dc:identifier>
+    <dc:creator>Orazio Attanasio</dc:creator>
+    <dc:creator>Hamish Low</dc:creator>
+    <dc:creator>Virginia Sanchez-Marcos</dc:creator>
+    <dc:subject>TODO 1</dc:subject>
+    <dc:subject>TODO 2</dc:subject>
+    <dc:subject>TODO 3</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+

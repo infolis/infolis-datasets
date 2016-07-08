@@ -1,0 +1,27 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record>
+<header>
+    <identifier>doi:10.1257/pol.5.3.227</identifier>
+</header>
+<metadata>
+<oai_dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" >
+    <dc:title>Substitution and Stigma: Evidence on Religious Markets from the Catholic Sex Abuse Scandal</dc:title>
+    <dc:date>2013</dc:date>
+    <dc:citesStudy>US General Social Survey (GSS)</dc:citesStudy>
+    <dcterms:bibliographicCitation>AEJ:EP</dcterms:bibliographicCitation>
+    <dc:language>en</dc:language>
+    <dc:identifier>http://doi.org/10.1257/pol.5.3.227</dc:identifier>
+    <dc:creator>Daniel M. Hungerman</dc:creator>
+    <dc:subject>TODO 1</dc:subject>
+    <dc:subject>TODO 2</dc:subject>
+    <dc:subject>TODO 3</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+

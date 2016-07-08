@@ -1,0 +1,36 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record>
+<header>
+    <identifier>doi:10.1257/app.2.4.76</identifier>
+</header>
+<metadata>
+<oai_dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" >
+    <dc:title>Beyond Signaling and Human Capital: Education and the Revelation of Ability</dc:title>
+    <dc:date>2010</dc:date>
+    <dc:citesStudy>US National Longitudinal Survey of Youth (NLSY)</dc:citesStudy>
+    <dcterms:bibliographicCitation>AEJ:AE</dcterms:bibliographicCitation>
+    <dc:language>en</dc:language>
+    <dc:identifier>http://doi.org/10.1257/app.2.4.76</dc:identifier>
+    <dc:creator>Peter Arcidiacono</dc:creator>
+    <dc:creator>Patrick Bayer</dc:creator>
+    <dc:creator>Aurel Hizmo</dc:creator>
+    <dc:subject>Analysis of Education</dc:subject>
+    <dc:subject>Asymmetric and Private Information</dc:subject>
+    <dc:subject>Higher Education and Research Institutions</dc:subject>
+    <dc:subject>Human capital</dc:subject>
+    <dc:subject>Skills</dc:subject>
+    <dc:subject>Occupational Choice</dc:subject>
+    <dc:subject>Labor Productivity</dc:subject>
+    <dc:subject>Wage Level and Structure</dc:subject>
+    <dc:subject>Wage Differentials</dc:subject>
+
+</oai_dc:dc>
+</metadata>
+</record>
+

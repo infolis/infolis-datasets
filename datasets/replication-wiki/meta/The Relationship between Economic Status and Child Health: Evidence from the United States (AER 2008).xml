@@ -1,0 +1,32 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record>
+<header>
+    <identifier>doi:10.1257/aer.98.4.1605</identifier>
+</header>
+<metadata>
+<oai_dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" >
+    <dc:title>The Relationship between Economic Status and Child Health: Evidence from the United States</dc:title>
+    <dc:date>2008</dc:date>
+    <dc:citesStudy>US Panel Study of Income Dynamics (PSID)</dc:citesStudy>
+    <dcterms:bibliographicCitation>AER</dcterms:bibliographicCitation>
+    <dc:language>en</dc:language>
+    <dc:identifier>http://doi.org/10.1257/aer.98.4.1605</dc:identifier>
+    <dc:creator>Simon Condliffe</dc:creator>
+    <dc:creator>Charles R. Link</dc:creator>
+    <dc:subject>Personal Income, Wealth and Their Distributions</dc:subject>
+    <dc:subject>Health Production</dc:subject>
+    <dc:subject>Fertility</dc:subject>
+    <dc:subject>Family Planning</dc:subject>
+    <dc:subject>Child Care</dc:subject>
+    <dc:subject>Children</dc:subject>
+    <dc:subject>Youth</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+

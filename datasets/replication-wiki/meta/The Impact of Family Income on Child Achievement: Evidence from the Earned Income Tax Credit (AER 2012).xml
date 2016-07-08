@@ -1,0 +1,35 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record>
+<header>
+    <identifier>doi:10.1257/aer.102.5.1927</identifier>
+</header>
+<metadata>
+<oai_dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" >
+    <dc:title>The Impact of Family Income on Child Achievement: Evidence from the Earned Income Tax Credit</dc:title>
+    <dc:date>2012</dc:date>
+    <dc:citesStudy>US National Longitudinal Survey of Youth (NLSY)</dc:citesStudy>
+    <dcterms:bibliographicCitation>AER</dcterms:bibliographicCitation>
+    <dc:language>en</dc:language>
+    <dc:identifier>http://doi.org/10.1257/aer.102.5.1927</dc:identifier>
+    <dc:creator>Gordon B. Dahl</dc:creator>
+    <dc:creator>Lance Lochner</dc:creator>
+    <dc:subject>Personal Income and Other Nonbusiness Taxes and Subsidies</dc:subject>
+    <dc:subject>Fiscal Policies and Behavior of Economic Agents: Household</dc:subject>
+    <dc:subject>Analysis of Education</dc:subject>
+    <dc:subject>Welfare and Poverty: Government Programs</dc:subject>
+    <dc:subject>Provision and Effects of Welfare Programs</dc:subject>
+    <dc:subject>Fertility</dc:subject>
+    <dc:subject>Family Plannung</dc:subject>
+    <dc:subject>Child Care</dc:subject>
+    <dc:subject>Children</dc:subject>
+    <dc:subject>Youth</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+

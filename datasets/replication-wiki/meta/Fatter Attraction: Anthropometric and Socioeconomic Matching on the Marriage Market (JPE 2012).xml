@@ -1,0 +1,29 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record>
+<header>
+    <identifier>doi:10.1086/667941</identifier>
+</header>
+<metadata>
+<oai_dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" >
+    <dc:title>Fatter Attraction: Anthropometric and Socioeconomic Matching on the Marriage Market</dc:title>
+    <dc:date>2012</dc:date>
+    <dc:citesStudy>US Panel Study of Income Dynamics (PSID)</dc:citesStudy>
+    <dcterms:bibliographicCitation>JPE</dcterms:bibliographicCitation>
+    <dc:language>en</dc:language>
+    <dc:identifier>http://doi.org/10.1086/667941</dc:identifier>
+    <dc:creator>Pierre-André Chiappori</dc:creator>
+    <dc:creator>Sonia Oreffice</dc:creator>
+    <dc:creator>Climent Quintana-Domeque</dc:creator>
+    <dc:subject>TODO 1</dc:subject>
+    <dc:subject>TODO 2</dc:subject>
+    <dc:subject>TODO 3</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+

@@ -1,0 +1,33 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record>
+<header>
+    <identifier>doi:10.1257/aer.98.5.1887</identifier>
+</header>
+<metadata>
+<oai_dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" >
+    <dc:title>Consumption Inequality and Partial Insurance</dc:title>
+    <dc:date>2008</dc:date>
+    <dc:citesStudy>US Panel Study of Income Dynamics (PSID)</dc:citesStudy>
+    <dcterms:bibliographicCitation>AER</dcterms:bibliographicCitation>
+    <dc:language>en</dc:language>
+    <dc:identifier>http://doi.org/10.1257/aer.98.5.1887</dc:identifier>
+    <dc:creator>Richard Blundell</dc:creator>
+    <dc:creator>Luigi Pistaferri</dc:creator>
+    <dc:creator>Ian Preston</dc:creator>
+    <dc:subject>Consumer Economics: Empirical Analysis</dc:subject>
+    <dc:subject>Personal Income, Wealth, and Their Distributions</dc:subject>
+    <dc:subject>Intertemporal Consumer Choice</dc:subject>
+    <dc:subject>Life Cycle Models and Saving</dc:subject>
+    <dc:subject>Macroeconomics: Consumption</dc:subject>
+    <dc:subject>Saving</dc:subject>
+    <dc:subject>Wealth</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+

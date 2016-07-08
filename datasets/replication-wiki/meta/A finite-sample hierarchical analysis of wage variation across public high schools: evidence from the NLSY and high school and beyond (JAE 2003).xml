@@ -1,0 +1,28 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record>
+<header>
+    <identifier>doi:</identifier>
+</header>
+<metadata>
+<oai_dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" >
+    <dc:title>A finite-sample hierarchical analysis of wage variation across public high schools: evidence from the NLSY and high school and beyond</dc:title>
+    <dc:date>2003</dc:date>
+    <dc:citesStudy>US National Longitudinal Survey of Youth (NLSY)</dc:citesStudy>
+    <dcterms:bibliographicCitation>JAE</dcterms:bibliographicCitation>
+    <dc:language>en</dc:language>
+    <dc:identifier>http://doi.org/10.1002/jae.696</dc:identifier>
+    <dc:creator>Justin L. Tobias</dc:creator>
+    <dc:creator>Mingliang Li</dc:creator>
+    <dc:subject>TODO 1</dc:subject>
+    <dc:subject>TODO 2</dc:subject>
+    <dc:subject>TODO 3</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+

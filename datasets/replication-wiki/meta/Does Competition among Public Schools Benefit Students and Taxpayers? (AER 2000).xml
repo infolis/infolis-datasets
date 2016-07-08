@@ -1,0 +1,30 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record>
+<header>
+    <identifier>doi:10.1257/aer.90.5.1209</identifier>
+</header>
+<metadata>
+<oai_dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" >
+    <dc:title>Does Competition among Public Schools Benefit Students and Taxpayers?</dc:title>
+    <dc:date>2000</dc:date>
+    <dc:citesStudy>US National Longitudinal Survey of Youth (NLSY)</dc:citesStudy>
+    <dcterms:bibliographicCitation>AER</dcterms:bibliographicCitation>
+    <dc:language>en</dc:language>
+    <dc:identifier>http://doi.org/10.1257/aer.90.5.1209</dc:identifier>
+    <dc:creator>Caroline M. Hoxby</dc:creator>
+    <dc:subject>Analysis of Education</dc:subject>
+    <dc:subject>State and Local Government</dc:subject>
+    <dc:subject>Intergovernmental Relations: Interjurisdictional Differentials and Their Effects</dc:subject>
+    <dc:subject>Comparison of Public and Private Enterprises</dc:subject>
+    <dc:subject>Privatization</dc:subject>
+    <dc:subject>Contracting Out</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+

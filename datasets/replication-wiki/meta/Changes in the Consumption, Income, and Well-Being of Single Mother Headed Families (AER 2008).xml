@@ -1,0 +1,34 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record>
+<header>
+    <identifier>doi:10.1257/aer.98.5.2221</identifier>
+</header>
+<metadata>
+<oai_dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" >
+    <dc:title>Changes in the Consumption, Income, and Well-Being of Single Mother Headed Families</dc:title>
+    <dc:date>2008</dc:date>
+    <dc:citesStudy>American Housing Survey (AHS)</dc:citesStudy>
+    <dcterms:bibliographicCitation>AER</dcterms:bibliographicCitation>
+    <dc:language>en</dc:language>
+    <dc:identifier>http://doi.org/10.1257/aer.98.5.2221</dc:identifier>
+    <dc:creator>Bruce D. Meyer</dc:creator>
+    <dc:creator>James X. Sullivan</dc:creator>
+    <dc:subject>Consumer Economics: Empirical Analysis</dc:subject>
+    <dc:subject>Measurement and Analysis of Poverty</dc:subject>
+    <dc:subject>General Welfare</dc:subject>
+	<dc:subject>Marriage</dc:subject>
+	<dc:subject>Marital Dissolution</dc:subject>
+	<dc:subject>Family Structure</dc:subject>
+	<dc:subject>Domestic Abuse</dc:subject>
+	<dc:subject>Economics of Gender</dc:subject>
+	<dc:subject>Non-labor Discrimination</dc:subject>
+</oai_dc:dc>
+</metadata>
+</record>
+

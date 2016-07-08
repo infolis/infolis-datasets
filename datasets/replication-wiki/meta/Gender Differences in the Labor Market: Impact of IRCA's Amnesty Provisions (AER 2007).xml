@@ -1,0 +1,26 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record>
+<header>
+    <identifier>doi:10.1257/aer.97.2.412</identifier>
+</header>
+<metadata>
+<oai_dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd" >
+    <dc:title>Gender Differences in the Labor Market: Impact of IRCA's Amnesty Provisions</dc:title>
+    <dc:date>2007</dc:date>
+    <dc:citesStudy>US National Longitudinal Survey of Youth (NLSY)</dc:citesStudy>
+    <dcterms:bibliographicCitation>AER</dcterms:bibliographicCitation>
+    <dc:language>en</dc:language>
+    <dc:identifier>http://doi.org/10.1257/aer.97.2.412</dc:identifier>
+    <dc:creator>Catalina Amuedo-Dorantes</dc:creator>
+    <dc:creator>Cynthia Bansak</dc:creator>
+    <dc:creator>Steven Raphael</dc:creator>
+</oai_dc:dc>
+</metadata>
+</record>
+
