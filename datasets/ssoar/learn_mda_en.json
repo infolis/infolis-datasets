@@ -1,0 +1,12 @@
+{
+"algorithm":"io.github.infolis.algorithm.FrequencyBasedBootstrapping",
+"seeds":["ALLBUS"],
+"reliabilityThreshold":"0.06",
+"maxIterations":"10",
+"bootstrapStrategy":"mergeAll",
+"upperCaseConstraint":"true",
+"removeBib":"false",
+"tokenize":"true",
+"tokenizeNLs":"false",
+"ptb3Escaping":"true"
+}
