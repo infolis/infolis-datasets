@@ -1,0 +1,22 @@
+{
+    "picklePath":"../econStorMetadata.pickle",
+    "intersectionIntra":"False",
+    "intersectionInter":"True",
+    "select":
+        {
+            "{http://purl.org/dc/elements/1.1/}relation":
+                    ["Research paper / UNU-WIDER*",
+                    "Research Paper, UNU-WIDER, United Nations University (UNU)*"],
+            "{http://purl.org/dc/elements/1.1/}language":["eng"]
+        },
+    "sample": 
+        {
+            "size":300
+        },
+    "createLinks":
+	  {
+	    "source":"../pdf",
+	    "target":"./widerResearchPapers_en"
+	  }
+}
+    

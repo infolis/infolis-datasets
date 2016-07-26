@@ -1,0 +1,21 @@
+{
+    "picklePath":"../econStorMetadata.pickle",
+    "intersectionIntra":"False",
+    "intersectionInter":"True",
+    "select":
+        {
+            "{http://purl.org/dc/elements/1.1/}relation":
+                    ["IZA Discussion Papers*"],
+            "{http://purl.org/dc/elements/1.1/}language":["deu"]
+        },
+    "sample": 
+        {
+            "size":300
+        },
+    "createLinks":
+	  {
+	    "source":"../pdf",
+	    "target":"./izaDiscussionPapers_de"
+	  }
+}
+    

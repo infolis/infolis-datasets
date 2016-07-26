@@ -1,0 +1,59 @@
+{
+    "picklePath":"../econStorMetadata.pickle",
+    "intersectionIntra":"False",
+    "intersectionInter":"True",
+    "select":
+        {
+            "{http://purl.org/dc/elements/1.1/}subject":
+                    ["C00",
+                    "empirisch-deskriptive Analyse",
+                    "empirische Analyse", "Empirische Analyse", "empirische Analysen",
+                    "Empirical Analysis", "empirical analysis",
+                    "Empirical Analyses", "Empirical Analysis (Firm Panel)",
+                    
+                    "Empirische Forschung", "empirische Forschung", 
+                    "Empirische Bildungsforschung", "empirische Wirtschafts- und Sozialforschung",
+                    "empirische Sozialforschung", "Empirische Kriminalitätsforschung",
+                    "Empirical research", "empirical research", "Empirical Research",
+                    "Empirical educational research", "empirical crime research",
+                    "empirical economic and social research", "empirical accounting research",
+                    "power empirical research",
+                    
+                    "Empirische Untersuchung", "empirische Untersuchung",
+                    "Empirical investigation", "Empirical Investigation",
+                    "empirical studies", "Empirical studies", "Empirical Studies",
+                    
+                    "empirische Überprüfung", "empirical test", "Empirical Test",
+                    "Empirical Validation", "empirical validation", "empirical evaluation",
+                    "empirical test of the theory of the firm",
+                    
+                    "Empirische Methode", "empirical methods", "empirical methodology",
+                    "empirical macroeconomic methodology", "Empirical and Theoretical Methods",
+                    
+                    "Quantitative Empirie", "qualitative Empirie", "Empirie",
+                    "Empirical", "empirical", "Empirics", "empiricism",
+                    "empirical work", "empirical content",
+                    "empirical evidence", "Empirical Evidence",
+                    "Empirical Example",
+                    "empirical synthesis",
+                    
+                    "empirical models", "empirical modelling", "empirical modeling",
+                    "empirical model specification",
+                    
+                    "empirische Mikroökonomik", "empirical macroeconomics",
+                    "Empirical economics", "empirical economics", "Empirical finance",
+                    
+                    "Empirische Befragung",
+                    
+                    "Theorie und Empirie der personellen Einkommensverteilung",
+                    "Literaturempirie", "Empirical typology"],
+            "{http://purl.org/dc/elements/1.1/}language":["eng"]
+        },
+
+  "createLinks":
+	{
+	  "source":"../pdf",
+	  "target":"./empirical_en"
+	}
+}
+    
