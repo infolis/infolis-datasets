@@ -1,4 +1,7 @@
 INFOLINK_VERSION = 1.0
+
+export JAVA_HOME := /usr/lib/jvm/jdk1.8.0_60/
+
 GIT = git
 GRADLE = ./gradlew
 
@@ -22,19 +25,25 @@ all: infoLink/build
 # Initialization
 
 pull:
-	$(GIT) submodule foreach git pull origin master
+	# $(GIT) submodule foreach git pull origin master
 	$(GIT) add infoLink
+	$(GIT) add infoLink/keywordTagging
 	$(GIT) add corpus-creation
 	$(GIT) add ocror
 
 war: infoLink/build/libs/infoLink-$(INFOLINK_VERSION).war
 
-realclean:
-	rm -r infoLink
+# realclean:
+#     rm -r infoLink
 
 #
 # infoLink related
 #
+
+clean:
+	cd infoLink && $(GRADLE) clean
+
+warjar: war jar
 
 infoLink:
 	$(GIT) submodule init
@@ -43,19 +52,17 @@ infoLink:
 infoLink/build : infoLink
 	cd infoLink && $(GRADLE) jar
 
-gradleclean:
-	cd infoLink && $(GRADLE) clean
-
 test:
 	cd infoLink && $(GRADLE) cleanTest test -i
 
-infoLink/build/libs/infoLink-$(INFOLINK_VERSION).war: gradleclean
-	cd infoLink; $(GRADLE) war
+infoLink/build/libs/infoLink-$(INFOLINK_VERSION).war:
+	cd infoLink && $(GRADLE) war
 
-jar: infoLink/build/libs/infoLink-$(INFOLINK_VERSION).jar
+jar: infoLink/build/distributions/infoLink-1.0.zip
 
-infoLink/build/libs/infoLink-$(INFOLINK_VERSION).jar: gradleclean
-	cd infoLink; $(GRADLE) jar
+infoLink/build/distributions/infoLink-1.0.zip:
+	(cd infoLink && $(GRADLE) distZip)
+	cd $(dir $@) && unzip infoLink-1.0.zip
 
 deploy: war
 	date > LAST_DEPLOY

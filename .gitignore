@@ -1,6 +1,8 @@
 /datasets/*/pdf/*
 /datasets/*/meta/*
+/datasets/*/text/*
 *.zip
+nohup*.out
 *.pdf
 *.tar.gz
 LAST_DEPLOY
