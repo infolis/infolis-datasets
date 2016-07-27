@@ -492,7 +492,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_4232111194": {
-			"name": "EVS - European Values Study 1999/2000 (release 2, Mai 2006) - T�rkei",
+			"name": "EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Toerkei",
 			"numericInfo": ["00-00-1999"],
 			"identifier": "10.4232/1.11194",
 			"reliability": 1.0,
@@ -553,7 +553,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_4232111187": {
-			"name": "EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Rum�nien",
+			"name": "EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Rumoenien",
 			"numericInfo": ["00-00-1999"],
 			"identifier": "10.4232/1.11187",
 			"reliability": 1.0,
@@ -581,7 +581,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_4232112121": {
-			"name": "German Internet Panel, Welle 10 (M�rz 2014)",
+			"name": "German Internet Panel, Welle 10 (Moerz 2014)",
 			"numericInfo": ["01-03-2014",
 			"01-04-2014"],
 			"identifier": "10.4232/1.12121",
@@ -682,7 +682,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_4232112110": {
-			"name": "German Internet Panel, Welle 4 (M�rz 2013)",
+			"name": "German Internet Panel, Welle 4 (Moerz 2013)",
 			"numericInfo": ["01-03-2013",
 			"01-04-2013"],
 			"identifier": "10.4232/1.12110",
@@ -1207,7 +1207,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_423213798": {
-			"name": "EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Rum�nien",
+			"name": "EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Rumoenien",
 			"numericInfo": ["00-00-1999"],
 			"identifier": "10.4232/1.3798",
 			"reliability": 1.0,
@@ -1329,7 +1329,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_423213785": {
-			"name": "EVS - European Values Study 1999/2000 (release 2, Mai 2006) - D�nemark",
+			"name": "EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Doenemark",
 			"numericInfo": ["00-00-1999"],
 			"identifier": "10.4232/1.3785",
 			"reliability": 1.0,
@@ -1445,7 +1445,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_423213777": {
-			"name": "EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Gro�britannien",
+			"name": "EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Grooebritannien",
 			"numericInfo": ["00-00-1999"],
 			"identifier": "10.4232/1.3777",
 			"reliability": 1.0,
@@ -1459,7 +1459,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_423213779": {
-			"name": "EVS - European Values Study 1999/2000 (release 2, Mai 2006) - �sterreich",
+			"name": "EVS - European Values Study 1999/2000 (release 2, Mai 2006) - oesterreich",
 			"numericInfo": ["00-00-1999"],
 			"identifier": "10.4232/1.3779",
 			"reliability": 1.0,
@@ -1675,7 +1675,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_4232111530": {
-			"name": "EVS - European Values Study 1999 - D�nemark",
+			"name": "EVS - European Values Study 1999 - Doenemark",
 			"numericInfo": ["30-11-1999",
 			"01-04-1999"],
 			"identifier": "10.4232/1.11530",
@@ -1790,7 +1790,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_4232111535": {
-			"name": "EVS - European Values Study 1999 - Gro�britannien",
+			"name": "EVS - European Values Study 1999 - Grooebritannien",
 			"numericInfo": ["01-10-1999",
 			"30-11-1999"],
 			"identifier": "10.4232/1.11535",
@@ -1924,7 +1924,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_423215174": {
-			"name": "European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008) � Restricted Use File",
+			"name": "European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008) oe Restricted Use File",
 			"numericInfo": ["00-00-2008",
 			"For detailed date of collection in the EVS participating countries, see section “Methodology” in the study description of ZA4804.",
 			"00-00-1981",
@@ -2472,7 +2472,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_4232111524": {
-			"name": "EVS - European Values Study 1999 - Wei�russland",
+			"name": "EVS - European Values Study 1999 - Weioerussland",
 			"numericInfo": ["01-03-1999",
 			"30-04-1999"],
 			"identifier": "10.4232/1.11524",
@@ -2480,7 +2480,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_4232111523": {
-			"name": "EVS - European Values Study 1999 - �sterreich",
+			"name": "EVS - European Values Study 1999 - oesterreich",
 			"numericInfo": ["01-08-1999",
 			"31-10-1999"],
 			"identifier": "10.4232/1.11523",
@@ -2667,7 +2667,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_4232112197": {
-			"name": "Programme for the International Assessment of Adult Competencies (PIAAC), Germany � Prime Age (2012)",
+			"name": "Programme for the International Assessment of Adult Competencies (PIAAC), Germany oe Prime Age (2012)",
 			"numericInfo": ["00-08-2011",
 			"00-03-2012"],
 			"identifier": "10.4232/1.12197",
@@ -2690,7 +2690,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_4232112301": {
-			"name": "German Internet Panel, Welle 16 (M�rz 2015)",
+			"name": "German Internet Panel, Welle 16 (Moerz 2015)",
 			"numericInfo": ["01-04-2015",
 			"01-03-2015"],
 			"identifier": "10.4232/1.12301",
@@ -2816,7 +2816,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_4232111161": {
-			"name": "EVS - European Values Study 1999 - �sterreich",
+			"name": "EVS - European Values Study 1999 - oesterreich",
 			"numericInfo": ["01-08-1999",
 			"31-10-1999"],
 			"identifier": "10.4232/1.11161",
@@ -2984,7 +2984,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_423213807": {
-			"name": "EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Wei�russland",
+			"name": "EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Weioerussland",
 			"numericInfo": ["00-00-1999"],
 			"identifier": "10.4232/1.3807",
 			"reliability": 1.0,
@@ -3078,7 +3078,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_423213808": {
-			"name": "EVS - European Values Study 1999/2000 (release 2, Mai 2006) - T�rkei",
+			"name": "EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Toerkei",
 			"numericInfo": ["00-00-1999"],
 			"identifier": "10.4232/1.3808",
 			"reliability": 1.0,
@@ -3267,8 +3267,8 @@
 			"reliability": 1.0,
 			"tags": ["infolis-ontology"]
 		},
-		"dataset_sozio�konomischespanel": {
-			"name": "Sozio-�konomisches Panel (SOEP)",
+		"dataset_soziooekonomischespanel": {
+			"name": "Sozio-oekonomisches Panel (SOEP)",
 			"reliability": 1.0,
 			"tags": ["infolis-ontology"]
 		},
@@ -3307,7 +3307,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_4232111556": {
-			"name": "EVS - European Values Study 1999 - T�rkei",
+			"name": "EVS - European Values Study 1999 - Toerkei",
 			"numericInfo": ["01-10-2001",
 			"01-09-2001"],
 			"identifier": "10.4232/1.11556",
@@ -3453,7 +3453,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_4232111550": {
-			"name": "EVS - European Values Study 1999 - Rum�nien",
+			"name": "EVS - European Values Study 1999 - Rumoenien",
 			"numericInfo": ["31-07-1999",
 			"01-07-1999"],
 			"identifier": "10.4232/1.11550",
@@ -3469,7 +3469,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_4232111167": {
-			"name": "EVS - European Values Study 1999/2000 (release 2, Mai 2006) - D�nemark",
+			"name": "EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Doenemark",
 			"numericInfo": ["00-00-1999"],
 			"identifier": "10.4232/1.11167",
 			"reliability": 1.0,
@@ -3528,7 +3528,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_4232111162": {
-			"name": "EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Wei�russland",
+			"name": "EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Weioerussland",
 			"numericInfo": ["00-00-1999"],
 			"identifier": "10.4232/1.11162",
 			"reliability": 1.0,
@@ -3769,7 +3769,7 @@
 			"tags": ["infolis-ontology"]
 		},
 		"dataset_4232111172": {
-			"name": "EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Gro�britannien",
+			"name": "EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Grooebritannien",
 			"numericInfo": ["00-00-1999"],
 			"identifier": "10.4232/1.11172",
 			"reliability": 1.0,
@@ -3803,7 +3803,7 @@
 		},
 		"entityLink_dataset_5684soepv30i": {
 			"fromEntity": "dataset_5684soepv30i",
-			"toEntity": "dataset_sozio�konomischespanel",
+			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of_temporal",
 			"parts_of_temporal",
 			"version_of",
@@ -3860,7 +3860,7 @@
 		},
 		"entityLink_dataset_soepinnovationssample": {
 			"fromEntity": "dataset_soepinnovationssample",
-			"toEntity": "dataset_sozio�konomischespanel",
+			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of"],
 			"linkReason": "infolis-ontology",
 			"confidence": 1.0
@@ -3889,7 +3889,7 @@
 		},
 		"entityLink_dataset_5684soepv311i": {
 			"fromEntity": "dataset_5684soepv311i",
-			"toEntity": "dataset_sozio�konomischespanel",
+			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of_temporal",
 			"parts_of_temporal",
 			"version_of",
@@ -3915,7 +3915,7 @@
 		},
 		"entityLink_dataset_5684soepv31i": {
 			"fromEntity": "dataset_5684soepv31i",
-			"toEntity": "dataset_sozio�konomischespanel",
+			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of_temporal",
 			"parts_of_temporal",
 			"version_of",
@@ -4242,7 +4242,7 @@
 		},
 		"entityLink_dataset_5684soepv311": {
 			"fromEntity": "dataset_5684soepv311",
-			"toEntity": "dataset_sozio�konomischespanel",
+			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of_temporal",
 			"parts_of_temporal",
 			"version_of"],
@@ -4314,7 +4314,7 @@
 		},
 		"entityLink_dataset_5684soepv28": {
 			"fromEntity": "dataset_5684soepv28",
-			"toEntity": "dataset_sozio�konomischespanel",
+			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of_temporal",
 			"parts_of_temporal"],
 			"linkReason": "infolis-ontology",
@@ -4339,7 +4339,7 @@
 		},
 		"entityLink_dataset_5684soepv27": {
 			"fromEntity": "dataset_5684soepv27",
-			"toEntity": "dataset_sozio�konomischespanel",
+			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of_temporal",
 			"parts_of_temporal"],
 			"linkReason": "infolis-ontology",
@@ -4372,7 +4372,7 @@
 		},
 		"entityLink_dataset_5684soepv26": {
 			"fromEntity": "dataset_5684soepv26",
-			"toEntity": "dataset_sozio�konomischespanel",
+			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of_temporal",
 			"parts_of_temporal"],
 			"linkReason": "infolis-ontology",
@@ -4396,7 +4396,7 @@
 		},
 		"entityLink_dataset_5684soepv25": {
 			"fromEntity": "dataset_5684soepv25",
-			"toEntity": "dataset_sozio�konomischespanel",
+			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of_temporal",
 			"parts_of_temporal"],
 			"linkReason": "infolis-ontology",
@@ -4404,7 +4404,7 @@
 		},
 		"entityLink_dataset_5684soepv24": {
 			"fromEntity": "dataset_5684soepv24",
-			"toEntity": "dataset_sozio�konomischespanel",
+			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of_temporal",
 			"parts_of_temporal"],
 			"linkReason": "infolis-ontology",
@@ -4456,7 +4456,7 @@
 		},
 		"entityLink_dataset_5684soepv29": {
 			"fromEntity": "dataset_5684soepv29",
-			"toEntity": "dataset_sozio�konomischespanel",
+			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of_temporal",
 			"parts_of_temporal"],
 			"linkReason": "infolis-ontology",
@@ -4481,7 +4481,7 @@
 		},
 		"entityLink_dataset_5684soepv31": {
 			"fromEntity": "dataset_5684soepv31",
-			"toEntity": "dataset_sozio�konomischespanel",
+			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of_temporal",
 			"parts_of_temporal"],
 			"linkReason": "infolis-ontology",
@@ -4503,7 +4503,7 @@
 		},
 		"entityLink_dataset_5684soepv30": {
 			"fromEntity": "dataset_5684soepv30",
-			"toEntity": "dataset_sozio�konomischespanel",
+			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of_temporal",
 			"parts_of_temporal"],
 			"linkReason": "infolis-ontology",
@@ -4659,7 +4659,7 @@
 		},
 		"entityLink_dataset_5684soepv30ibeta": {
 			"fromEntity": "dataset_5684soepv30ibeta",
-			"toEntity": "dataset_sozio�konomischespanel",
+			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of_temporal",
 			"parts_of_temporal",
 			"version_of",
@@ -4930,7 +4930,7 @@
 		},
 		"entityLink_dataset_5684soepv291": {
 			"fromEntity": "dataset_5684soepv291",
-			"toEntity": "dataset_sozio�konomischespanel",
+			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of_temporal",
 			"version_of",
 			"parts_of_temporal"],
@@ -5051,7 +5051,7 @@
 		},
 		"entityLink_dataset_5684soepv281": {
 			"fromEntity": "dataset_5684soepv281",
-			"toEntity": "dataset_sozio�konomischespanel",
+			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of_temporal",
 			"parts_of_temporal",
 			"version_of"],
@@ -5161,7 +5161,7 @@
 		},
 		"entityLink_dataset_iabsoep migrationsstichprobe": {
 			"fromEntity": "dataset_iabsoep migrationsstichprobe",
-			"toEntity": "dataset_sozio�konomischespanel",
+			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of"],
 			"linkReason": "infolis-ontology",
 			"confidence": 1.0
@@ -5202,7 +5202,7 @@
 		},
 		"entityLink_dataset_5684soepv271": {
 			"fromEntity": "dataset_5684soepv271",
-			"toEntity": "dataset_sozio�konomischespanel",
+			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of_temporal",
 			"parts_of_temporal",
 			"version_of"],
@@ -5256,7 +5256,7 @@
 		},
 		"entityLink_dataset_5684soepv272": {
 			"fromEntity": "dataset_5684soepv272",
-			"toEntity": "dataset_sozio�konomischespanel",
+			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of_temporal",
 			"parts_of_temporal",
 			"version_of"],
@@ -5783,7 +5783,7 @@
 		},
 		"entityLink_dataset_5684soepv30beta": {
 			"fromEntity": "dataset_5684soepv30beta",
-			"toEntity": "dataset_sozio�konomischespanel",
+			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of_temporal",
 			"parts_of_temporal",
 			"version_of"],
@@ -5917,7 +5917,7 @@
 		},
 		"entityLink_dataset_5684soepv272i": {
 			"fromEntity": "dataset_5684soepv272i",
-			"toEntity": "dataset_sozio�konomischespanel",
+			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of_temporal",
 			"version_of",
 			"parts_of_temporal",
@@ -6232,7 +6232,7 @@
 		},
 		"entityLink_dataset_5684soepv281i": {
 			"fromEntity": "dataset_5684soepv281i",
-			"toEntity": "dataset_sozio�konomischespanel",
+			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of_temporal",
 			"parts_of_temporal",
 			"version_of",
