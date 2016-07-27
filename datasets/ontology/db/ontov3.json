@@ -3802,7 +3802,7 @@
 		"entityLink_dataset_423212933":{
 			"fromEntity":"dataset_423212933",
 			"toEntity":"dataset_wohlfahrtssurvey",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -3810,7 +3810,7 @@
 		"entityLink_dataset_5684soepv30i":{
 			"fromEntity":"dataset_5684soepv30i",
 			"toEntity":"dataset_sozio?konomischespanel",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal",
 			"version_of",
 			"part_of_sample"],
@@ -3820,7 +3820,7 @@
 		"entityLink_dataset_423215174":{
 			"fromEntity":"dataset_423215174",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal",
 			"part_of_confidential"],
 			"linkReason":"infolis-ontology",
@@ -3829,7 +3829,7 @@
 		"entityLink_dataset_4232112253":{
 			"fromEntity":"dataset_4232112253",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of",
 			"parts_of_temporal"],
 			"linkReason":"infolis-ontology",
@@ -3838,21 +3838,21 @@
 		"entityLink_dataset_6103sharejep200":{
 			"fromEntity":"dataset_6103sharejep200",
 			"toEntity":"dataset_sharejobepisodespanel",
-			"relation":["version_of"],
+			"entityRelations":["version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_423214560":{
 			"fromEntity":"dataset_423214560",
 			"toEntity":"dataset_surveyofhealthageingandretirementineurope",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_6103sharew2260":{
 			"fromEntity":"dataset_6103sharew2260",
 			"toEntity":"dataset_surveyofhealthageingandretirementineurope",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -3860,21 +3860,21 @@
 		"entityLink_dataset_423214875":{
 			"fromEntity":"dataset_423214875",
 			"toEntity":"dataset_cella",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_6103sharewxcvr500":{
 			"fromEntity":"dataset_6103sharewxcvr500",
 			"toEntity":"dataset_shareallwavescoverscreen",
-			"relation":["version_of"],
+			"entityRelations":["version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_5684soepis2013":{
 			"fromEntity":"dataset_5684soepis2013",
 			"toEntity":"dataset_soepinnovationssample",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -3882,14 +3882,14 @@
 		"entityLink_dataset_4232pairfam5678400":{
 			"fromEntity":"dataset_4232pairfam5678400",
 			"toEntity":"dataset_pairfam",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_5684soepv311i":{
 			"fromEntity":"dataset_5684soepv311i",
 			"toEntity":"dataset_sozio?konomischespanel",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal",
 			"version_of",
 			"part_of_sample"],
@@ -3899,7 +3899,7 @@
 		"entityLink_dataset_5684soepis2012":{
 			"fromEntity":"dataset_5684soepis2012",
 			"toEntity":"dataset_soepinnovationssample",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -3907,7 +3907,7 @@
 		"entityLink_dataset_423212121":{
 			"fromEntity":"dataset_423212121",
 			"toEntity":"dataset_wohlfahrtssurvey",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -3915,7 +3915,7 @@
 		"entityLink_dataset_5684soepv31i":{
 			"fromEntity":"dataset_5684soepv31i",
 			"toEntity":"dataset_sozio?konomischespanel",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal",
 			"version_of",
 			"part_of_sample"],
@@ -3925,7 +3925,7 @@
 		"entityLink_dataset_5684soepis2014":{
 			"fromEntity":"dataset_5684soepis2014",
 			"toEntity":"dataset_soepinnovationssample",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -3933,7 +3933,7 @@
 		"entityLink_dataset_4232111527":{
 			"fromEntity":"dataset_4232111527",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -3942,7 +3942,7 @@
 		"entityLink_dataset_6103sharew1500":{
 			"fromEntity":"dataset_6103sharew1500",
 			"toEntity":"dataset_surveyofhealthageingandretirementineurope",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -3950,7 +3950,7 @@
 		"entityLink_dataset_4232111526":{
 			"fromEntity":"dataset_4232111526",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -3959,7 +3959,7 @@
 		"entityLink_dataset_4232111525":{
 			"fromEntity":"dataset_4232111525",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -3968,7 +3968,7 @@
 		"entityLink_dataset_4232111524":{
 			"fromEntity":"dataset_4232111524",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -3977,7 +3977,7 @@
 		"entityLink_dataset_4232111523":{
 			"fromEntity":"dataset_4232111523",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -3986,7 +3986,7 @@
 		"entityLink_dataset_423213811":{
 			"fromEntity":"dataset_423213811",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of",
 			"parts_of_spatial"],
 			"linkReason":"infolis-ontology",
@@ -3995,7 +3995,7 @@
 		"entityLink_dataset_6103sharew4500":{
 			"fromEntity":"dataset_6103sharew4500",
 			"toEntity":"dataset_surveyofhealthageingandretirementineurope",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4003,7 +4003,7 @@
 		"entityLink_dataset_3886icpsr22160v2":{
 			"fromEntity":"dataset_3886icpsr22160v2",
 			"toEntity":"dataset_surveyofhealthageingandretirementineurope",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4012,7 +4012,7 @@
 		"entityLink_dataset_3886icpsr22160v1":{
 			"fromEntity":"dataset_3886icpsr22160v1",
 			"toEntity":"dataset_surveyofhealthageingandretirementineurope",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4021,14 +4021,14 @@
 		"entityLink_dataset_sharelongitudinalweights":{
 			"fromEntity":"dataset_sharelongitudinalweights",
 			"toEntity":"dataset_surveyofhealthageingandretirementineurope",
-			"relation":["part-of"],
+			"entityRelations":["part-of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_4232111528":{
 			"fromEntity":"dataset_4232111528",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4037,14 +4037,14 @@
 		"entityLink_dataset_4232112107":{
 			"fromEntity":"dataset_4232112107",
 			"toEntity":"dataset_germaninternetpanel",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_423213807":{
 			"fromEntity":"dataset_423213807",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4053,7 +4053,7 @@
 		"entityLink_dataset_4232111536":{
 			"fromEntity":"dataset_4232111536",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4062,14 +4062,14 @@
 		"entityLink_dataset_4232112108":{
 			"fromEntity":"dataset_4232112108",
 			"toEntity":"dataset_germaninternetpanel",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_423213806":{
 			"fromEntity":"dataset_423213806",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4078,7 +4078,7 @@
 		"entityLink_dataset_4232111535":{
 			"fromEntity":"dataset_4232111535",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4087,14 +4087,14 @@
 		"entityLink_dataset_4232112109":{
 			"fromEntity":"dataset_4232112109",
 			"toEntity":"dataset_germaninternetpanel",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_423213805":{
 			"fromEntity":"dataset_423213805",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4103,7 +4103,7 @@
 		"entityLink_dataset_423213804":{
 			"fromEntity":"dataset_423213804",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4112,7 +4112,7 @@
 		"entityLink_dataset_4232111537":{
 			"fromEntity":"dataset_4232111537",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4121,7 +4121,7 @@
 		"entityLink_dataset_4232111532":{
 			"fromEntity":"dataset_4232111532",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4130,7 +4130,7 @@
 		"entityLink_dataset_423213803":{
 			"fromEntity":"dataset_423213803",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4139,7 +4139,7 @@
 		"entityLink_dataset_4232111531":{
 			"fromEntity":"dataset_4232111531",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4148,7 +4148,7 @@
 		"entityLink_dataset_423213802":{
 			"fromEntity":"dataset_423213802",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4157,7 +4157,7 @@
 		"entityLink_dataset_423213801":{
 			"fromEntity":"dataset_423213801",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4166,7 +4166,7 @@
 		"entityLink_dataset_4232111534":{
 			"fromEntity":"dataset_4232111534",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4175,7 +4175,7 @@
 		"entityLink_dataset_423213800":{
 			"fromEntity":"dataset_423213800",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4184,7 +4184,7 @@
 		"entityLink_dataset_4232111533":{
 			"fromEntity":"dataset_4232111533",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4193,7 +4193,7 @@
 		"entityLink_dataset_4232111530":{
 			"fromEntity":"dataset_4232111530",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4202,7 +4202,7 @@
 		"entityLink_dataset_423213808":{
 			"fromEntity":"dataset_423213808",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4211,7 +4211,7 @@
 		"entityLink_dataset_4232112386":{
 			"fromEntity":"dataset_4232112386",
 			"toEntity":"dataset_programmefortheinternationalassessmentofadultcompetencies",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"part_of_sample",
 			"version_of",
@@ -4223,7 +4223,7 @@
 		"entityLink_dataset_4232112385":{
 			"fromEntity":"dataset_4232112385",
 			"toEntity":"dataset_programmefortheinternationalassessmentofadultcompetencies",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"part_of_sample",
 			"version_of"],
@@ -4233,7 +4233,7 @@
 		"entityLink_dataset_4232111539":{
 			"fromEntity":"dataset_4232111539",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4242,7 +4242,7 @@
 		"entityLink_dataset_5684soepv311":{
 			"fromEntity":"dataset_5684soepv311",
 			"toEntity":"dataset_sozio?konomischespanel",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4251,7 +4251,7 @@
 		"entityLink_dataset_4232110789":{
 			"fromEntity":"dataset_4232110789",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of",
 			"parts_of_spatial"],
 			"linkReason":"infolis-ontology",
@@ -4260,7 +4260,7 @@
 		"entityLink_dataset_4232111540":{
 			"fromEntity":"dataset_4232111540",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4269,14 +4269,14 @@
 		"entityLink_dataset_4232112113":{
 			"fromEntity":"dataset_4232112113",
 			"toEntity":"dataset_germaninternetpanel",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_4232111541":{
 			"fromEntity":"dataset_4232111541",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4285,14 +4285,14 @@
 		"entityLink_dataset_4232112112":{
 			"fromEntity":"dataset_4232112112",
 			"toEntity":"dataset_germaninternetpanel",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_3886icpsr03202v1":{
 			"fromEntity":"dataset_3886icpsr03202v1",
 			"toEntity":"dataset_panelstudyofincomedynamics",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_supplement"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4300,21 +4300,21 @@
 		"entityLink_dataset_4232112111":{
 			"fromEntity":"dataset_4232112111",
 			"toEntity":"dataset_germaninternetpanel",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_4232112110":{
 			"fromEntity":"dataset_4232112110",
 			"toEntity":"dataset_germaninternetpanel",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_5684soepv28":{
 			"fromEntity":"dataset_5684soepv28",
 			"toEntity":"dataset_sozio?konomischespanel",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4322,7 +4322,7 @@
 		"entityLink_dataset_423211839":{
 			"fromEntity":"dataset_423211839",
 			"toEntity":"dataset_wohlfahrtssurvey",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4330,7 +4330,7 @@
 		"entityLink_dataset_4232111544":{
 			"fromEntity":"dataset_4232111544",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4339,7 +4339,7 @@
 		"entityLink_dataset_5684soepv27":{
 			"fromEntity":"dataset_5684soepv27",
 			"toEntity":"dataset_sozio?konomischespanel",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4347,14 +4347,14 @@
 		"entityLink_dataset_4232112408":{
 			"fromEntity":"dataset_4232112408",
 			"toEntity":"dataset_germaninternetpanel",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_4232111545":{
 			"fromEntity":"dataset_4232111545",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4363,7 +4363,7 @@
 		"entityLink_dataset_4232111542":{
 			"fromEntity":"dataset_4232111542",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4372,7 +4372,7 @@
 		"entityLink_dataset_5684soepv26":{
 			"fromEntity":"dataset_5684soepv26",
 			"toEntity":"dataset_sozio?konomischespanel",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4380,7 +4380,7 @@
 		"entityLink_dataset_4232111543":{
 			"fromEntity":"dataset_4232111543",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4389,14 +4389,14 @@
 		"entityLink_dataset_4232112114":{
 			"fromEntity":"dataset_4232112114",
 			"toEntity":"dataset_germaninternetpanel",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_5684soepv25":{
 			"fromEntity":"dataset_5684soepv25",
 			"toEntity":"dataset_sozio?konomischespanel",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4404,7 +4404,7 @@
 		"entityLink_dataset_5684soepv24":{
 			"fromEntity":"dataset_5684soepv24",
 			"toEntity":"dataset_sozio?konomischespanel",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4412,7 +4412,7 @@
 		"entityLink_dataset_4232111548":{
 			"fromEntity":"dataset_4232111548",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4421,7 +4421,7 @@
 		"entityLink_dataset_4232111549":{
 			"fromEntity":"dataset_4232111549",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4430,7 +4430,7 @@
 		"entityLink_dataset_4232111546":{
 			"fromEntity":"dataset_4232111546",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4439,7 +4439,7 @@
 		"entityLink_dataset_4232111547":{
 			"fromEntity":"dataset_4232111547",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4448,7 +4448,7 @@
 		"entityLink_dataset_423211339":{
 			"fromEntity":"dataset_423211339",
 			"toEntity":"dataset_wohlfahrtssurvey",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4456,7 +4456,7 @@
 		"entityLink_dataset_5684soepv29":{
 			"fromEntity":"dataset_5684soepv29",
 			"toEntity":"dataset_sozio?konomischespanel",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4464,14 +4464,14 @@
 		"entityLink_dataset_3886icpsr07439":{
 			"fromEntity":"dataset_3886icpsr07439",
 			"toEntity":"dataset_panelstudyofincomedynamics",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_4232111159":{
 			"fromEntity":"dataset_4232111159",
 			"toEntity":"dataset_worldvaluesurvey",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal",
 			"part_of_temporal",
 			"parts_of_temporal"],
@@ -4481,7 +4481,7 @@
 		"entityLink_dataset_5684soepv31":{
 			"fromEntity":"dataset_5684soepv31",
 			"toEntity":"dataset_sozio?konomischespanel",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4489,21 +4489,21 @@
 		"entityLink_dataset_4232112120":{
 			"fromEntity":"dataset_4232112120",
 			"toEntity":"dataset_germaninternetpanel",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_6103shareeasy100":{
 			"fromEntity":"dataset_6103shareeasy100",
 			"toEntity":"dataset_easyshare",
-			"relation":["version_of"],
+			"entityRelations":["version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_5684soepv30":{
 			"fromEntity":"dataset_5684soepv30",
 			"toEntity":"dataset_sozio?konomischespanel",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4511,21 +4511,21 @@
 		"entityLink_dataset_4232112122":{
 			"fromEntity":"dataset_4232112122",
 			"toEntity":"dataset_germaninternetpanel",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_4232112121":{
 			"fromEntity":"dataset_4232112121",
 			"toEntity":"dataset_germaninternetpanel",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_4232111550":{
 			"fromEntity":"dataset_4232111550",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4534,7 +4534,7 @@
 		"entityLink_dataset_4232111551":{
 			"fromEntity":"dataset_4232111551",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4543,14 +4543,14 @@
 		"entityLink_dataset_4232112123":{
 			"fromEntity":"dataset_4232112123",
 			"toEntity":"dataset_germaninternetpanel",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_4232111552":{
 			"fromEntity":"dataset_4232111552",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4559,7 +4559,7 @@
 		"entityLink_dataset_4232111553":{
 			"fromEntity":"dataset_4232111553",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4568,7 +4568,7 @@
 		"entityLink_dataset_4232111554":{
 			"fromEntity":"dataset_4232111554",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4577,7 +4577,7 @@
 		"entityLink_dataset_4232111555":{
 			"fromEntity":"dataset_4232111555",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4586,7 +4586,7 @@
 		"entityLink_dataset_4232111556":{
 			"fromEntity":"dataset_4232111556",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4595,7 +4595,7 @@
 		"entityLink_dataset_4232111557":{
 			"fromEntity":"dataset_4232111557",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4604,7 +4604,7 @@
 		"entityLink_dataset_4232pairfam5678310":{
 			"fromEntity":"dataset_4232pairfam5678310",
 			"toEntity":"dataset_pairfam",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4612,14 +4612,14 @@
 		"entityLink_dataset_4232pairfam5678500":{
 			"fromEntity":"dataset_4232pairfam5678500",
 			"toEntity":"dataset_pairfam",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_3886icpsr22160":{
 			"fromEntity":"dataset_3886icpsr22160",
 			"toEntity":"dataset_surveyofhealthageingandretirementineurope",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4628,7 +4628,7 @@
 		"entityLink_dataset_3886icpsr02790v1":{
 			"fromEntity":"dataset_3886icpsr02790v1",
 			"toEntity":"dataset_worldvaluesurvey",
-			"relation":["parts_of_temporal",
+			"entityRelations":["parts_of_temporal",
 			"version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4636,14 +4636,14 @@
 		"entityLink_dataset_shareallwavescoverscreen":{
 			"fromEntity":"dataset_shareallwavescoverscreen",
 			"toEntity":"dataset_surveyofhealthageingandretirementineurope",
-			"relation":["part-of"],
+			"entityRelations":["part-of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_423214460":{
 			"fromEntity":"dataset_423214460",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of",
 			"parts_of_spatial"],
 			"linkReason":"infolis-ontology",
@@ -4652,14 +4652,14 @@
 		"entityLink_dataset_4232112320":{
 			"fromEntity":"dataset_4232112320",
 			"toEntity":"dataset_germaninternetpanel",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_5684soepv30ibeta":{
 			"fromEntity":"dataset_5684soepv30ibeta",
 			"toEntity":"dataset_sozio?konomischespanel",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal",
 			"version_of",
 			"part_of_sample"],
@@ -4669,7 +4669,7 @@
 		"entityLink_dataset_4232111180":{
 			"fromEntity":"dataset_4232111180",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4677,7 +4677,7 @@
 		"entityLink_dataset_4232111181":{
 			"fromEntity":"dataset_4232111181",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4685,7 +4685,7 @@
 		"entityLink_dataset_3886icpsr03975":{
 			"fromEntity":"dataset_3886icpsr03975",
 			"toEntity":"dataset_worldvaluesurvey",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4693,7 +4693,7 @@
 		"entityLink_dataset_423214438":{
 			"fromEntity":"dataset_423214438",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of",
 			"parts_of_spatial"],
 			"linkReason":"infolis-ontology",
@@ -4702,7 +4702,7 @@
 		"entityLink_dataset_4232111178":{
 			"fromEntity":"dataset_4232111178",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4710,7 +4710,7 @@
 		"entityLink_dataset_4232111177":{
 			"fromEntity":"dataset_4232111177",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4718,7 +4718,7 @@
 		"entityLink_dataset_4232111176":{
 			"fromEntity":"dataset_4232111176",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4726,7 +4726,7 @@
 		"entityLink_dataset_4232111175":{
 			"fromEntity":"dataset_4232111175",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4734,7 +4734,7 @@
 		"entityLink_dataset_4232111174":{
 			"fromEntity":"dataset_4232111174",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4742,14 +4742,14 @@
 		"entityLink_dataset_4232pairfam5678300":{
 			"fromEntity":"dataset_4232pairfam5678300",
 			"toEntity":"dataset_pairfam",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_4232111173":{
 			"fromEntity":"dataset_4232111173",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4757,7 +4757,7 @@
 		"entityLink_dataset_6103sharew4111":{
 			"fromEntity":"dataset_6103sharew4111",
 			"toEntity":"dataset_surveyofhealthageingandretirementineurope",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4765,7 +4765,7 @@
 		"entityLink_dataset_4232111172":{
 			"fromEntity":"dataset_4232111172",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4773,7 +4773,7 @@
 		"entityLink_dataset_4232111171":{
 			"fromEntity":"dataset_4232111171",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4781,7 +4781,7 @@
 		"entityLink_dataset_4232111865":{
 			"fromEntity":"dataset_4232111865",
 			"toEntity":"dataset_programmefortheinternationalassessmentofadultcompetencies",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"part_of_sample"],
 			"linkReason":"infolis-ontology",
@@ -4790,7 +4790,7 @@
 		"entityLink_dataset_4232111179":{
 			"fromEntity":"dataset_4232111179",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4798,7 +4798,7 @@
 		"entityLink_dataset_5684soepis20131":{
 			"fromEntity":"dataset_5684soepis20131",
 			"toEntity":"dataset_soepinnovationssample",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4807,7 +4807,7 @@
 		"entityLink_dataset_5684soepis20132":{
 			"fromEntity":"dataset_5684soepis20132",
 			"toEntity":"dataset_soepinnovationssample",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -4816,7 +4816,7 @@
 		"entityLink_dataset_6103sharew3100":{
 			"fromEntity":"dataset_6103sharew3100",
 			"toEntity":"dataset_surveyofhealthageingandretirementineurope",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4824,7 +4824,7 @@
 		"entityLink_dataset_4232111170":{
 			"fromEntity":"dataset_4232111170",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4832,7 +4832,7 @@
 		"entityLink_dataset_4232110790":{
 			"fromEntity":"dataset_4232110790",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of",
 			"parts_of_spatial"],
 			"linkReason":"infolis-ontology",
@@ -4841,7 +4841,7 @@
 		"entityLink_dataset_4232110791":{
 			"fromEntity":"dataset_4232110791",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of",
 			"parts_of_spatial"],
 			"linkReason":"infolis-ontology",
@@ -4850,7 +4850,7 @@
 		"entityLink_dataset_4232111165":{
 			"fromEntity":"dataset_4232111165",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4858,7 +4858,7 @@
 		"entityLink_dataset_4232111164":{
 			"fromEntity":"dataset_4232111164",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4866,7 +4866,7 @@
 		"entityLink_dataset_4232111167":{
 			"fromEntity":"dataset_4232111167",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4874,7 +4874,7 @@
 		"entityLink_dataset_4232111166":{
 			"fromEntity":"dataset_4232111166",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4882,7 +4882,7 @@
 		"entityLink_dataset_4232111161":{
 			"fromEntity":"dataset_4232111161",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4890,7 +4890,7 @@
 		"entityLink_dataset_4232111160":{
 			"fromEntity":"dataset_4232111160",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4898,7 +4898,7 @@
 		"entityLink_dataset_4232111163":{
 			"fromEntity":"dataset_4232111163",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4906,7 +4906,7 @@
 		"entityLink_dataset_4232111162":{
 			"fromEntity":"dataset_4232111162",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4914,7 +4914,7 @@
 		"entityLink_dataset_4232111169":{
 			"fromEntity":"dataset_4232111169",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4922,7 +4922,7 @@
 		"entityLink_dataset_4232111168":{
 			"fromEntity":"dataset_4232111168",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4930,7 +4930,7 @@
 		"entityLink_dataset_5684soepv291":{
 			"fromEntity":"dataset_5684soepv291",
 			"toEntity":"dataset_sozio?konomischespanel",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of",
 			"parts_of_temporal"],
 			"linkReason":"infolis-ontology",
@@ -4939,7 +4939,7 @@
 		"entityLink_dataset_4232111189":{
 			"fromEntity":"dataset_4232111189",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4947,7 +4947,7 @@
 		"entityLink_dataset_4232111186":{
 			"fromEntity":"dataset_4232111186",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4955,7 +4955,7 @@
 		"entityLink_dataset_4232111187":{
 			"fromEntity":"dataset_4232111187",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4963,7 +4963,7 @@
 		"entityLink_dataset_4232111184":{
 			"fromEntity":"dataset_4232111184",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4971,7 +4971,7 @@
 		"entityLink_dataset_4232111185":{
 			"fromEntity":"dataset_4232111185",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4979,7 +4979,7 @@
 		"entityLink_dataset_4232111183":{
 			"fromEntity":"dataset_4232111183",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4987,7 +4987,7 @@
 		"entityLink_dataset_4232111192":{
 			"fromEntity":"dataset_4232111192",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -4995,7 +4995,7 @@
 		"entityLink_dataset_4232111191":{
 			"fromEntity":"dataset_4232111191",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5003,7 +5003,7 @@
 		"entityLink_dataset_4232111190":{
 			"fromEntity":"dataset_4232111190",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5011,14 +5011,14 @@
 		"entityLink_dataset_6103sharejep100":{
 			"fromEntity":"dataset_6103sharejep100",
 			"toEntity":"dataset_sharejobepisodespanel",
-			"relation":["version_of"],
+			"entityRelations":["version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_4232110058":{
 			"fromEntity":"dataset_4232110058",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5026,7 +5026,7 @@
 		"entityLink_dataset_4232110057":{
 			"fromEntity":"dataset_4232110057",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5034,7 +5034,7 @@
 		"entityLink_dataset_4232110059":{
 			"fromEntity":"dataset_4232110059",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5042,7 +5042,7 @@
 		"entityLink_dataset_4232110198":{
 			"fromEntity":"dataset_4232110198",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5051,7 +5051,7 @@
 		"entityLink_dataset_5684soepv281":{
 			"fromEntity":"dataset_5684soepv281",
 			"toEntity":"dataset_sozio?konomischespanel",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5060,14 +5060,14 @@
 		"entityLink_dataset_sharerv":{
 			"fromEntity":"dataset_sharerv",
 			"toEntity":"dataset_surveyofhealthageingandretirementineurope",
-			"relation":["part-of"],
+			"entityRelations":["part-of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_4232110050":{
 			"fromEntity":"dataset_4232110050",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5075,21 +5075,21 @@
 		"entityLink_dataset_6103sharejep500":{
 			"fromEntity":"dataset_6103sharejep500",
 			"toEntity":"dataset_sharejobepisodespanel",
-			"relation":["version_of"],
+			"entityRelations":["version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_easyshare":{
 			"fromEntity":"dataset_easyshare",
 			"toEntity":"dataset_surveyofhealthageingandretirementineurope",
-			"relation":["part-of"],
+			"entityRelations":["part-of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_423212792":{
 			"fromEntity":"dataset_423212792",
 			"toEntity":"dataset_wohlfahrtssurvey",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5097,7 +5097,7 @@
 		"entityLink_dataset_4232110052":{
 			"fromEntity":"dataset_4232110052",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5105,7 +5105,7 @@
 		"entityLink_dataset_4232110051":{
 			"fromEntity":"dataset_4232110051",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5113,7 +5113,7 @@
 		"entityLink_dataset_4232110054":{
 			"fromEntity":"dataset_4232110054",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5121,7 +5121,7 @@
 		"entityLink_dataset_4232111193":{
 			"fromEntity":"dataset_4232111193",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5129,7 +5129,7 @@
 		"entityLink_dataset_4232110053":{
 			"fromEntity":"dataset_4232110053",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5137,7 +5137,7 @@
 		"entityLink_dataset_4232111194":{
 			"fromEntity":"dataset_4232111194",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5145,7 +5145,7 @@
 		"entityLink_dataset_4232110056":{
 			"fromEntity":"dataset_4232110056",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5153,7 +5153,7 @@
 		"entityLink_dataset_4232110055":{
 			"fromEntity":"dataset_4232110055",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5161,14 +5161,14 @@
 		"entityLink_dataset_iabsoepmigrationsstichprobe":{
 			"fromEntity":"dataset_iabsoepmigrationsstichprobe",
 			"toEntity":"dataset_sozio?konomischespanel",
-			"relation":["part_of"],
+			"entityRelations":["part_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_4232111307":{
 			"fromEntity":"dataset_4232111307",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5176,7 +5176,7 @@
 		"entityLink_dataset_6103sharew2500":{
 			"fromEntity":"dataset_6103sharew2500",
 			"toEntity":"dataset_surveyofhealthageingandretirementineurope",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5184,7 +5184,7 @@
 		"entityLink_dataset_4232110184":{
 			"fromEntity":"dataset_4232110184",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5193,7 +5193,7 @@
 		"entityLink_dataset_4232110183":{
 			"fromEntity":"dataset_4232110183",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5202,7 +5202,7 @@
 		"entityLink_dataset_5684soepv271":{
 			"fromEntity":"dataset_5684soepv271",
 			"toEntity":"dataset_sozio?konomischespanel",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5211,7 +5211,7 @@
 		"entityLink_dataset_4232110182":{
 			"fromEntity":"dataset_4232110182",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5220,7 +5220,7 @@
 		"entityLink_dataset_4232110181":{
 			"fromEntity":"dataset_4232110181",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5229,7 +5229,7 @@
 		"entityLink_dataset_4232110188":{
 			"fromEntity":"dataset_4232110188",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of",
 			"parts_of_spatial"],
 			"linkReason":"infolis-ontology",
@@ -5238,7 +5238,7 @@
 		"entityLink_dataset_4232110187":{
 			"fromEntity":"dataset_4232110187",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5247,7 +5247,7 @@
 		"entityLink_dataset_4232110186":{
 			"fromEntity":"dataset_4232110186",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5256,7 +5256,7 @@
 		"entityLink_dataset_5684soepv272":{
 			"fromEntity":"dataset_5684soepv272",
 			"toEntity":"dataset_sozio?konomischespanel",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5265,7 +5265,7 @@
 		"entityLink_dataset_4232110185":{
 			"fromEntity":"dataset_4232110185",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5274,14 +5274,14 @@
 		"entityLink_dataset_4232pairfam5678600":{
 			"fromEntity":"dataset_4232pairfam5678600",
 			"toEntity":"dataset_pairfam",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_3886icpsr03975v1":{
 			"fromEntity":"dataset_3886icpsr03975v1",
 			"toEntity":"dataset_worldvaluesurvey",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5290,28 +5290,28 @@
 		"entityLink_dataset_6103shareeasy200":{
 			"fromEntity":"dataset_6103shareeasy200",
 			"toEntity":"dataset_easyshare",
-			"relation":["version_of"],
+			"entityRelations":["version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_5684soepiabsoepmig2013":{
 			"fromEntity":"dataset_5684soepiabsoepmig2013",
 			"toEntity":"dataset_iabsoepmigrationsstichprobe",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_5684soepiabsoepmig2014":{
 			"fromEntity":"dataset_5684soepiabsoepmig2014",
 			"toEntity":"dataset_iabsoepmigrationsstichprobe",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_4232110171":{
 			"fromEntity":"dataset_4232110171",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5320,7 +5320,7 @@
 		"entityLink_dataset_4232110170":{
 			"fromEntity":"dataset_4232110170",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5329,7 +5329,7 @@
 		"entityLink_dataset_6103sharew1260":{
 			"fromEntity":"dataset_6103sharew1260",
 			"toEntity":"dataset_surveyofhealthageingandretirementineurope",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5337,7 +5337,7 @@
 		"entityLink_dataset_4232110173":{
 			"fromEntity":"dataset_4232110173",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5346,7 +5346,7 @@
 		"entityLink_dataset_4232110172":{
 			"fromEntity":"dataset_4232110172",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5355,7 +5355,7 @@
 		"entityLink_dataset_4232110175":{
 			"fromEntity":"dataset_4232110175",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5364,14 +5364,14 @@
 		"entityLink_dataset_4232112180":{
 			"fromEntity":"dataset_4232112180",
 			"toEntity":"dataset_germaninternetpanel",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_4232110174":{
 			"fromEntity":"dataset_4232110174",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5380,7 +5380,7 @@
 		"entityLink_dataset_4232110177":{
 			"fromEntity":"dataset_4232110177",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5389,7 +5389,7 @@
 		"entityLink_dataset_3886icpsr03203":{
 			"fromEntity":"dataset_3886icpsr03203",
 			"toEntity":"dataset_panelstudyofincomedynamics",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_sample"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5397,7 +5397,7 @@
 		"entityLink_dataset_4232112182":{
 			"fromEntity":"dataset_4232112182",
 			"toEntity":"dataset_programmefortheinternationalassessmentofadultcompetencies",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"part_of_sample",
 			"version_of"],
@@ -5407,7 +5407,7 @@
 		"entityLink_dataset_4232110176":{
 			"fromEntity":"dataset_4232110176",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5416,7 +5416,7 @@
 		"entityLink_dataset_3886icpsr03202":{
 			"fromEntity":"dataset_3886icpsr03202",
 			"toEntity":"dataset_panelstudyofincomedynamics",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_supplement"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5424,7 +5424,7 @@
 		"entityLink_dataset_423214804":{
 			"fromEntity":"dataset_423214804",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5432,7 +5432,7 @@
 		"entityLink_dataset_4232110179":{
 			"fromEntity":"dataset_4232110179",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5441,7 +5441,7 @@
 		"entityLink_dataset_4232110178":{
 			"fromEntity":"dataset_4232110178",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5450,7 +5450,7 @@
 		"entityLink_dataset_423213776":{
 			"fromEntity":"dataset_423213776",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5459,7 +5459,7 @@
 		"entityLink_dataset_423213777":{
 			"fromEntity":"dataset_423213777",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5468,14 +5468,14 @@
 		"entityLink_dataset_4232112301":{
 			"fromEntity":"dataset_4232112301",
 			"toEntity":"dataset_germaninternetpanel",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_423213779":{
 			"fromEntity":"dataset_423213779",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5484,7 +5484,7 @@
 		"entityLink_dataset_423213778":{
 			"fromEntity":"dataset_423213778",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5493,14 +5493,14 @@
 		"entityLink_dataset_4232112178":{
 			"fromEntity":"dataset_4232112178",
 			"toEntity":"dataset_germaninternetpanel",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_4232110180":{
 			"fromEntity":"dataset_4232110180",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5509,14 +5509,14 @@
 		"entityLink_dataset_4232112179":{
 			"fromEntity":"dataset_4232112179",
 			"toEntity":"dataset_germaninternetpanel",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_423213786":{
 			"fromEntity":"dataset_423213786",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5525,7 +5525,7 @@
 		"entityLink_dataset_423213785":{
 			"fromEntity":"dataset_423213785",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5534,7 +5534,7 @@
 		"entityLink_dataset_423213788":{
 			"fromEntity":"dataset_423213788",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5543,7 +5543,7 @@
 		"entityLink_dataset_423213787":{
 			"fromEntity":"dataset_423213787",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5552,7 +5552,7 @@
 		"entityLink_dataset_4232110169":{
 			"fromEntity":"dataset_4232110169",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5561,7 +5561,7 @@
 		"entityLink_dataset_4232110022":{
 			"fromEntity":"dataset_4232110022",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5569,7 +5569,7 @@
 		"entityLink_dataset_423213782":{
 			"fromEntity":"dataset_423213782",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5578,7 +5578,7 @@
 		"entityLink_dataset_4232110023":{
 			"fromEntity":"dataset_4232110023",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5586,7 +5586,7 @@
 		"entityLink_dataset_423213781":{
 			"fromEntity":"dataset_423213781",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5595,7 +5595,7 @@
 		"entityLink_dataset_4232110167":{
 			"fromEntity":"dataset_4232110167",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5604,7 +5604,7 @@
 		"entityLink_dataset_4232110020":{
 			"fromEntity":"dataset_4232110020",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5612,7 +5612,7 @@
 		"entityLink_dataset_423213784":{
 			"fromEntity":"dataset_423213784",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5621,7 +5621,7 @@
 		"entityLink_dataset_4232110168":{
 			"fromEntity":"dataset_4232110168",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5630,7 +5630,7 @@
 		"entityLink_dataset_4232110021":{
 			"fromEntity":"dataset_4232110021",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5638,7 +5638,7 @@
 		"entityLink_dataset_423213783":{
 			"fromEntity":"dataset_423213783",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5647,7 +5647,7 @@
 		"entityLink_dataset_4232110165":{
 			"fromEntity":"dataset_4232110165",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5656,7 +5656,7 @@
 		"entityLink_dataset_4232110026":{
 			"fromEntity":"dataset_4232110026",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5664,7 +5664,7 @@
 		"entityLink_dataset_4232110166":{
 			"fromEntity":"dataset_4232110166",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5673,7 +5673,7 @@
 		"entityLink_dataset_4232110027":{
 			"fromEntity":"dataset_4232110027",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5681,7 +5681,7 @@
 		"entityLink_dataset_4232110163":{
 			"fromEntity":"dataset_4232110163",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5690,7 +5690,7 @@
 		"entityLink_dataset_4232110024":{
 			"fromEntity":"dataset_4232110024",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5698,7 +5698,7 @@
 		"entityLink_dataset_423213780":{
 			"fromEntity":"dataset_423213780",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5707,7 +5707,7 @@
 		"entityLink_dataset_4232110164":{
 			"fromEntity":"dataset_4232110164",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5716,7 +5716,7 @@
 		"entityLink_dataset_4232110025":{
 			"fromEntity":"dataset_4232110025",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5724,7 +5724,7 @@
 		"entityLink_dataset_4232110161":{
 			"fromEntity":"dataset_4232110161",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5733,7 +5733,7 @@
 		"entityLink_dataset_4232110162":{
 			"fromEntity":"dataset_4232110162",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5742,7 +5742,7 @@
 		"entityLink_dataset_4232112487":{
 			"fromEntity":"dataset_4232112487",
 			"toEntity":"dataset_programmefortheinternationalassessmentofadultcompetencies",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"parts_of_temporal"],
 			"linkReason":"infolis-ontology",
@@ -5751,7 +5751,7 @@
 		"entityLink_dataset_4232110028":{
 			"fromEntity":"dataset_4232110028",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5759,7 +5759,7 @@
 		"entityLink_dataset_4232110160":{
 			"fromEntity":"dataset_4232110160",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5768,7 +5768,7 @@
 		"entityLink_dataset_4232110029":{
 			"fromEntity":"dataset_4232110029",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5776,14 +5776,14 @@
 		"entityLink_dataset_4232112485":{
 			"fromEntity":"dataset_4232112485",
 			"toEntity":"dataset_germaninternetpanel",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_5684soepv30beta":{
 			"fromEntity":"dataset_5684soepv30beta",
 			"toEntity":"dataset_sozio?konomischespanel",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5792,7 +5792,7 @@
 		"entityLink_dataset_423213789":{
 			"fromEntity":"dataset_423213789",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5801,7 +5801,7 @@
 		"entityLink_dataset_423213799":{
 			"fromEntity":"dataset_423213799",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5810,7 +5810,7 @@
 		"entityLink_dataset_3886icpsr03203v1":{
 			"fromEntity":"dataset_3886icpsr03203v1",
 			"toEntity":"dataset_panelstudyofincomedynamics",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_sample",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5819,7 +5819,7 @@
 		"entityLink_dataset_423213798":{
 			"fromEntity":"dataset_423213798",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5828,7 +5828,7 @@
 		"entityLink_dataset_423213797":{
 			"fromEntity":"dataset_423213797",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5837,7 +5837,7 @@
 		"entityLink_dataset_423213796":{
 			"fromEntity":"dataset_423213796",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5846,7 +5846,7 @@
 		"entityLink_dataset_4232110156":{
 			"fromEntity":"dataset_4232110156",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5855,7 +5855,7 @@
 		"entityLink_dataset_423213795":{
 			"fromEntity":"dataset_423213795",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5864,7 +5864,7 @@
 		"entityLink_dataset_4232110157":{
 			"fromEntity":"dataset_4232110157",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5873,7 +5873,7 @@
 		"entityLink_dataset_423213794":{
 			"fromEntity":"dataset_423213794",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5882,7 +5882,7 @@
 		"entityLink_dataset_4232110158":{
 			"fromEntity":"dataset_4232110158",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5891,7 +5891,7 @@
 		"entityLink_dataset_423213793":{
 			"fromEntity":"dataset_423213793",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5900,7 +5900,7 @@
 		"entityLink_dataset_4232110159":{
 			"fromEntity":"dataset_4232110159",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5909,7 +5909,7 @@
 		"entityLink_dataset_4232110012":{
 			"fromEntity":"dataset_4232110012",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5917,7 +5917,7 @@
 		"entityLink_dataset_5684soepv272i":{
 			"fromEntity":"dataset_5684soepv272i",
 			"toEntity":"dataset_sozio?konomischespanel",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of",
 			"parts_of_temporal",
 			"part_of_sample"],
@@ -5927,7 +5927,7 @@
 		"entityLink_dataset_423213792":{
 			"fromEntity":"dataset_423213792",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5936,7 +5936,7 @@
 		"entityLink_dataset_4232110152":{
 			"fromEntity":"dataset_4232110152",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5945,7 +5945,7 @@
 		"entityLink_dataset_4232110013":{
 			"fromEntity":"dataset_4232110013",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5953,7 +5953,7 @@
 		"entityLink_dataset_3886icpsr07439v1":{
 			"fromEntity":"dataset_3886icpsr07439v1",
 			"toEntity":"dataset_panelstudyofincomedynamics",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5961,7 +5961,7 @@
 		"entityLink_dataset_423213791":{
 			"fromEntity":"dataset_423213791",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5970,7 +5970,7 @@
 		"entityLink_dataset_4232110153":{
 			"fromEntity":"dataset_4232110153",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5979,7 +5979,7 @@
 		"entityLink_dataset_4232110014":{
 			"fromEntity":"dataset_4232110014",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -5987,7 +5987,7 @@
 		"entityLink_dataset_423213790":{
 			"fromEntity":"dataset_423213790",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -5996,7 +5996,7 @@
 		"entityLink_dataset_4232110154":{
 			"fromEntity":"dataset_4232110154",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -6005,7 +6005,7 @@
 		"entityLink_dataset_4232110015":{
 			"fromEntity":"dataset_4232110015",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6013,7 +6013,7 @@
 		"entityLink_dataset_4232110155":{
 			"fromEntity":"dataset_4232110155",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -6022,7 +6022,7 @@
 		"entityLink_dataset_4232110016":{
 			"fromEntity":"dataset_4232110016",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6030,14 +6030,14 @@
 		"entityLink_dataset_4232110829":{
 			"fromEntity":"dataset_4232110829",
 			"toEntity":"dataset_cella",
-			"relation":["part_of_temporal"],
+			"entityRelations":["part_of_temporal"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_4232110017":{
 			"fromEntity":"dataset_4232110017",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6045,7 +6045,7 @@
 		"entityLink_dataset_4232110018":{
 			"fromEntity":"dataset_4232110018",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6053,7 +6053,7 @@
 		"entityLink_dataset_4232110019":{
 			"fromEntity":"dataset_4232110019",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6061,7 +6061,7 @@
 		"entityLink_dataset_4232110151":{
 			"fromEntity":"dataset_4232110151",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -6070,7 +6070,7 @@
 		"entityLink_dataset_4232112197":{
 			"fromEntity":"dataset_4232112197",
 			"toEntity":"dataset_programmefortheinternationalassessmentofadultcompetencies",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"part_of_sample"],
 			"linkReason":"infolis-ontology",
@@ -6079,7 +6079,7 @@
 		"entityLink_dataset_4232110044":{
 			"fromEntity":"dataset_4232110044",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6087,7 +6087,7 @@
 		"entityLink_dataset_4232110148":{
 			"fromEntity":"dataset_4232110148",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial",
 			"version_of"],
 			"linkReason":"infolis-ontology",
@@ -6096,7 +6096,7 @@
 		"entityLink_dataset_4232110045":{
 			"fromEntity":"dataset_4232110045",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6104,7 +6104,7 @@
 		"entityLink_dataset_4232110042":{
 			"fromEntity":"dataset_4232110042",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6112,7 +6112,7 @@
 		"entityLink_dataset_4232110043":{
 			"fromEntity":"dataset_4232110043",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6120,7 +6120,7 @@
 		"entityLink_dataset_4232110040":{
 			"fromEntity":"dataset_4232110040",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6128,7 +6128,7 @@
 		"entityLink_dataset_4232110041":{
 			"fromEntity":"dataset_4232110041",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6136,14 +6136,14 @@
 		"entityLink_dataset_6103sharesharerv500":{
 			"fromEntity":"dataset_6103sharesharerv500",
 			"toEntity":"dataset_sharerv",
-			"relation":["version_of"],
+			"entityRelations":["version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_6103sharew5500":{
 			"fromEntity":"dataset_6103sharew5500",
 			"toEntity":"dataset_surveyofhealthageingandretirementineurope",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6151,7 +6151,7 @@
 		"entityLink_dataset_4232110048":{
 			"fromEntity":"dataset_4232110048",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6159,7 +6159,7 @@
 		"entityLink_dataset_4232111005":{
 			"fromEntity":"dataset_4232111005",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of",
 			"parts_of_temporal"],
 			"linkReason":"infolis-ontology",
@@ -6168,7 +6168,7 @@
 		"entityLink_dataset_4232110049":{
 			"fromEntity":"dataset_4232110049",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6176,7 +6176,7 @@
 		"entityLink_dataset_4232111004":{
 			"fromEntity":"dataset_4232111004",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of",
 			"parts_of_spatial"],
 			"linkReason":"infolis-ontology",
@@ -6185,7 +6185,7 @@
 		"entityLink_dataset_4232110046":{
 			"fromEntity":"dataset_4232110046",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6193,14 +6193,14 @@
 		"entityLink_dataset_sharejobepisodespanel":{
 			"fromEntity":"dataset_sharejobepisodespanel",
 			"toEntity":"dataset_surveyofhealthageingandretirementineurope",
-			"relation":["part-of"],
+			"entityRelations":["part-of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_4232110047":{
 			"fromEntity":"dataset_4232110047",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6208,7 +6208,7 @@
 		"entityLink_dataset_423211141":{
 			"fromEntity":"dataset_423211141",
 			"toEntity":"dataset_wohlfahrtssurvey",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6216,7 +6216,7 @@
 		"entityLink_dataset_423211142":{
 			"fromEntity":"dataset_423211142",
 			"toEntity":"dataset_wohlfahrtssurvey",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6224,7 +6224,7 @@
 		"entityLink_dataset_423213398":{
 			"fromEntity":"dataset_423213398",
 			"toEntity":"dataset_wohlfahrtssurvey",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6232,7 +6232,7 @@
 		"entityLink_dataset_5684soepv281i":{
 			"fromEntity":"dataset_5684soepv281i",
 			"toEntity":"dataset_sozio?konomischespanel",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"parts_of_temporal",
 			"version_of",
 			"part_of_sample"],
@@ -6242,21 +6242,21 @@
 		"entityLink_dataset_6103sharesharerv300":{
 			"fromEntity":"dataset_6103sharesharerv300",
 			"toEntity":"dataset_sharerv",
-			"relation":["version_of"],
+			"entityRelations":["version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_6103sharesharerv200":{
 			"fromEntity":"dataset_6103sharesharerv200",
 			"toEntity":"dataset_sharerv",
-			"relation":["version_of"],
+			"entityRelations":["version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_4232110031":{
 			"fromEntity":"dataset_4232110031",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6264,7 +6264,7 @@
 		"entityLink_dataset_4232110032":{
 			"fromEntity":"dataset_4232110032",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6272,7 +6272,7 @@
 		"entityLink_dataset_4232110033":{
 			"fromEntity":"dataset_4232110033",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6280,7 +6280,7 @@
 		"entityLink_dataset_4232110034":{
 			"fromEntity":"dataset_4232110034",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6288,7 +6288,7 @@
 		"entityLink_dataset_4232110030":{
 			"fromEntity":"dataset_4232110030",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6296,7 +6296,7 @@
 		"entityLink_dataset_4232110039":{
 			"fromEntity":"dataset_4232110039",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6304,7 +6304,7 @@
 		"entityLink_dataset_4232110035":{
 			"fromEntity":"dataset_4232110035",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6312,7 +6312,7 @@
 		"entityLink_dataset_4232110036":{
 			"fromEntity":"dataset_4232110036",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6320,7 +6320,7 @@
 		"entityLink_dataset_4232110037":{
 			"fromEntity":"dataset_4232110037",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6328,14 +6328,14 @@
 		"entityLink_dataset_soepinnovationssample":{
 			"fromEntity":"dataset_soepinnovationssample",
 			"toEntity":"dataset_sozio?konomischespanel",
-			"relation":["part_of"],
+			"entityRelations":["part_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_4232110038":{
 			"fromEntity":"dataset_4232110038",
 			"toEntity":"dataset_europeanvaluestudy",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6343,7 +6343,7 @@
 		"entityLink_dataset_4232111906":{
 			"fromEntity":"dataset_4232111906",
 			"toEntity":"dataset_programmefortheinternationalassessmentofadultcompetencies",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"part_of_spatial"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6351,7 +6351,7 @@
 		"entityLink_dataset_6103sharew3500":{
 			"fromEntity":"dataset_6103sharew3500",
 			"toEntity":"dataset_surveyofhealthageingandretirementineurope",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
@@ -6359,14 +6359,14 @@
 		"entityLink_dataset_6103sharewxweights500":{
 			"fromEntity":"dataset_6103sharewxweights500",
 			"toEntity":"dataset_sharelongitudinalweights",
-			"relation":["version_of"],
+			"entityRelations":["version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
 		},
 		"entityLink_dataset_6103sharew5100":{
 			"fromEntity":"dataset_6103sharew5100",
 			"toEntity":"dataset_surveyofhealthageingandretirementineurope",
-			"relation":["part_of_temporal",
+			"entityRelations":["part_of_temporal",
 			"version_of"],
 			"linkReason":"infolis-ontology",
 			"confidence":1.0
