@@ -634,7 +634,7 @@
 			"reliability": 1.0,
 			"tags": ["infolis-ontology"]
 		},
-		"dataset_share all waves coverscreen": {
+		"dataset_shareallwavescoverscreen":{
 			"name": "SHARE All Waves Coverscreen",
 			"identifier": "",
 			"reliability": 1.0,
@@ -1364,7 +1364,7 @@
 			"reliability": 1.0,
 			"tags": ["infolis-ontology"]
 		},
-		"dataset_share job episodes panel": {
+		"dataset_sharejobepisodespanel":{
 			"name": "SHARE Job Episodes Panel",
 			"identifier": "",
 			"reliability": 1.0,
@@ -1484,7 +1484,7 @@
 			"reliability": 1.0,
 			"tags": ["infolis-ontology"]
 		},
-		"dataset_iabsoep migrationsstichprobe": {
+		"dataset_iabsoepmigrationsstichprobe":{
 			"name": "IAB-SOEP Migrationsstichprobe",
 			"identifier": "",
 			"reliability": 1.0,
@@ -2637,7 +2637,7 @@
 			"reliability": 1.0,
 			"tags": ["infolis-ontology"]
 		},
-		"dataset_share longitudinal weights": {
+		"dataset_sharelongitudinalweights":{
 			"name": "SHARE Longitudinal Weights",
 			"identifier": "",
 			"reliability": 1.0,
@@ -4020,7 +4020,7 @@
 			"confidence": 1.0
 		},
 		"entityLink_dataset_share longitudinal weights": {
-			"fromEntity": "dataset_share longitudinal weights",
+			"fromEntity":"dataset_sharelongitudinalweights",
 			"toEntity": "dataset_surveyofhealthageingandretirementineurope",
 			"entityRelations": ["part-of"],
 			"linkReason": "infolis-ontology",
@@ -4635,7 +4635,7 @@
 			"confidence": 1.0
 		},
 		"entityLink_dataset_share all waves coverscreen": {
-			"fromEntity": "dataset_share all waves coverscreen",
+			"fromEntity":"dataset_shareallwavescoverscreen",
 			"toEntity": "dataset_surveyofhealthageingandretirementineurope",
 			"entityRelations": ["part-of"],
 			"linkReason": "infolis-ontology",
@@ -5160,7 +5160,7 @@
 			"confidence": 1.0
 		},
 		"entityLink_dataset_iabsoep migrationsstichprobe": {
-			"fromEntity": "dataset_iabsoep migrationsstichprobe",
+			"fromEntity":"dataset_iabsoepmigrationsstichprobe",
 			"toEntity": "dataset_soziooekonomischespanel",
 			"entityRelations": ["part_of"],
 			"linkReason": "infolis-ontology",
@@ -6192,7 +6192,7 @@
 			"confidence": 1.0
 		},
 		"entityLink_dataset_share job episodes panel": {
-			"fromEntity": "dataset_share job episodes panel",
+			"fromEntity":"dataset_sharejobepisodespanel",
 			"toEntity": "dataset_surveyofhealthageingandretirementineurope",
 			"entityRelations": ["part-of"],
 			"linkReason": "infolis-ontology",
