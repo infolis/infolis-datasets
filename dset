@@ -1,6 +1,8 @@
 #!/bin/bash
 source ~/.shcolor.sh 2>/dev/null || source <(curl -s https://raw.githubusercontent.com/kba/shcolor/master/shcolor.sh|tee ~/.shcolor.sh)
 
+loginfo () { echo -e "[\e[32minfo\e[0m] $(date +"%T.%N") $*" >&2; }
+
 #
 # Configuration
 #
@@ -249,42 +251,59 @@ cmd_upload() {
 
     # Map UUID -> filename
     declare -A FILES
-    while read -r line;do
-        uuid=$(echo $line|grep -oP '^\s*"[^"]+'|sed 's/^[^"]*"//'|sed 's/"$//')
-        fileName=$(echo $line|grep -oP '"fileName":"[^"]+'|sed 's/"fileName":"//'|sed 's/"$//')
-        echo "$uuid -> $fileName"
+    declare -a fileNames
+    loginfo "Grepping fileNames"
+    local IFS=$'\n'
+    fileNames=($(grep "fileName" "$dbDump"))
+    fileNamesLen=${#fileNames[@]}
+    loginfo "Grepped ${#fileNames[@]} fileNames"
+    loginfo "Transform to Map<UUID,Filename>"
+    i=0
+    for line in "${fileNames[@]}";do
+        uuid=${line#*\"}
+        uuid=${uuid%%\"*}
+        fileName=${line#*fileName\":\"}
+        fileName=${fileName%%\"*}
+        if (( i++ % 1000 == 1 ));then
+            loginfo "[$i / ${#fileNames[@]}] $uuid -> ...${fileName##*/}";
+        fi
         FILES["$uuid"]="$fileName"
-    done < <(grep "fileName" "$dbDump")
+    done
+    loginfo "DoneTransform to Map<UUID,Filename>"
 
+    url="$FRONTEND_BASEURL/json-import"
     curl_args=()
+    curl_args+=("$url")
+    if [[ "$OPT_TIMESTAMP" != true ]];then
+        url+='?no-timestamp=no-timestamp'
+    fi
     curl_args+=("-XPOST")
     curl_args+=("-F" "tags=$TAG")
     curl_args+=("-F" "db=<$dbDump")
     for uuid in "${!FILES[@]}";do
-        echo > /dev/null
         curl_args+=("-F" "$uuid=@${FILES[$uuid]}")
     done
-    local url="$FRONTEND_BASEURL/json-import"
-    if [[ "$OPT_TIMESTAMP" != true ]];then
-        url+='?no-timestamp=no-timestamp'
-    fi
-    curl_args+=("$url")
 
-    curl -s "${curl_args[@]}"
+    curlfile=$(mktemp "/tmp/dset-upload.XXXXXXX.curl")
+    loginfo "Start writing curl args to $curlfile"
+    local IFS=$'\n'
+    printf '%s\n' "${curl_args[@]}" > "$curlfile"
+    loginfo "Finished writing curl args to $curlfile"
+    # curl -s "${curl_args[@]}"
 
     cd_root
 }
 
 debug() {
-    echo "`C 13`#DEBUG>   `C 2`CMD`C`: $CMD"
-    echo "`C 13`#DEBUG>   `C 11`DATASET`C`: $DATASET"
-    echo "`C 13`#DEBUG>   `C 11`SUBSET`C`: $SUBSET"
-    echo "`C 13`#DEBUG>   `C 11`JSON`C`: $JSON"
-    echo "`C 13`#DEBUG>   `C 12`OPT_FORCE`C`: $OPT_FORCE"
-    echo "`C 13`#DEBUG>   `C 12`OPT_TO_TEXT`C`: $OPT_TO_TEXT"
-    echo "`C 13`#DEBUG>   `C 12`OPT_TAG`C`: $OPT_TAG"
-    echo "`C 13`#DEBUG>   `C 12`OPT_DEBUG`C`: $OPT_DEBUG"
-    echo "`C 13`#DEBUG>   `C 14`\$@`C`: $@"
+    loginfo "`C 13`#DEBUG>   `C 2`CMD`C`: $CMD"
+    loginfo "`C 13`#DEBUG>   `C 11`DATASET`C`: $DATASET"
+    loginfo "`C 13`#DEBUG>   `C 11`SUBSET`C`: $SUBSET"
+    loginfo "`C 13`#DEBUG>   `C 11`JSON`C`: $JSON"
+    loginfo "`C 13`#DEBUG>   `C 12`OPT_FORCE`C`: $OPT_FORCE"
+    loginfo "`C 13`#DEBUG>   `C 12`OPT_TO_TEXT`C`: $OPT_TO_TEXT"
+    loginfo "`C 13`#DEBUG>   `C 12`OPT_TAG`C`: $OPT_TAG"
+    loginfo "`C 13`#DEBUG>   `C 12`OPT_DEBUG`C`: $OPT_DEBUG"
+    loginfo "`C 13`#DEBUG>   `C 14`\$@`C`: $@"
 }
 
 CMD="$1" && shift
