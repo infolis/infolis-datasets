@@ -1,6 +1,7 @@
 import ontologyTsv2Json
 import json
 import sys
+import re
 
 class GoldConverter(ontologyTsv2Json.OntoConverter):
 
@@ -13,22 +14,24 @@ class GoldConverter(ontologyTsv2Json.OntoConverter):
                 # for now, ignore them
                 if datasetIds.strip().lower().startswith("kandidaten"):
                     continue
-                        
+                
                 citedDataIdentifier = self.toCitedDataId(reference, numericInfo)
                 citedDataEntity = self.newEntity(reference, "citedData")
-                if numericInfo.strip() != "-":
-                    citedDataEntity["numericInfo"] = numericInfo.strip().split(";")
+                if not numericInfo.strip() == "-":
+                    citedDataEntity["numericInfo"] = re.split("\s*;\s*", numericInfo.strip())
                 self.entities[citedDataIdentifier] = citedDataEntity
-                
+                    
+                for datasetId in re.split("\s*;\s*", datasetIds.strip()):
+                    if datasetId and not datasetId.strip() == "-":
+                        entityIdentifier = self.toDatasetId(datasetId)
+                        self.entities[entityIdentifier] = self.newEntity("", "dataset", [datasetId])
+                        linkIdentifier = self.toLinkId(citedDataIdentifier, entityIdentifier)
+                        # TODO relation not yet contained in gold standard
+                        link = self.newLink(citedDataIdentifier, entityIdentifier)
+                        self.links[linkIdentifier] = link
+    
                 # TODO docs are ignored - no entities created for them
                 
-                for datasetId in datasetIds.strip().split(";"):
-                    entityIdentifier = self.toDatasetId(datasetId)
-                    self.entities[entityIdentifier] = self.newEntity("", "dataset", [datasetId])
-                    linkIdentifier = self.toLinkId(citedDataIdentifier, entityIdentifier)
-                    # TODO relation not yet contained in gold standard
-                    link = self.newLink(citedDataIdentifier, entityIdentifier)
-                    self.links[linkIdentifier] = link
             else:
                 sys.stderr.write("warning, don't know how to process line: '%s'. Ignoring\n" %str(vals))
                 
@@ -43,7 +46,7 @@ class GoldConverter(ontologyTsv2Json.OntoConverter):
         return json.dumps(obj, sort_keys=True, indent=4, ensure_ascii=False).decode('utf-8').encode('utf8')
             
     def toCitedDataId(self, reference, numericInfo):
-        return "citedData_" + reference.strip().replace(".", "").replace("/", "").replace("(", "").replace(")", "").replace(" ", "") + "_".join(numericInfo.split(";")).replace(".", "").replace("/", "").replace("(", "").replace(")", "").replace(" ", "")
+        return "citedData_" + re.sub("\W", "", reference.strip() + "_".join(re.split("\s*;\s*", numericInfo.strip())))
         
     def newEntity(self, name, entityType, identifiers=""):
         entity = { "tags": ["infolis-goldstandard"], "reliability": 1.0, "entityType": entityType }
