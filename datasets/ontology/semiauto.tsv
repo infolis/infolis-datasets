@@ -11,12 +11,12 @@ EVS	EVS - European Values Study 1999 - Kroatien	part_of_spatial	10.4232/1.11165	
 EVS	EVS - European Values Study 1999 - Kroatien	part_of_temporal	10.4232/1.11165	correct
 Eurobarometer	Eurobarometer 47.2OVR: Young Europeans, April-June 1997	part_of_temporal	10.3886/ICPSR02091	correct
 Eurobarometer	Eurobarometer 47.2OVR: Young Europeans, April-June 1997	part_of_supplement	10.3886/ICPSR02091	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2012	version_of	10.4232/1.11753	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2012	part_of_temporal	10.4232/1.11753	correct
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980-1990	version_of	10.3886/ICPSR06101.v1	correct
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980-1990	part_of_temporal	10.3886/ICPSR06101.v1	incorrect
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980-1990	parts_of_temporal	10.3886/ICPSR06101.v1	correct
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980-1990	part_of_translation	10.3886/ICPSR06101.v1	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2012	version_of	10.4232/1.11753	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2012	part_of_temporal	10.4232/1.11753	correct
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980-1990	version_of	10.3886/ICPSR06101.v1	correct
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980-1990	part_of_temporal	10.3886/ICPSR06101.v1	incorrect
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980-1990	parts_of_temporal	10.3886/ICPSR06101.v1	correct
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980-1990	part_of_translation	10.3886/ICPSR06101.v1	correct
 Eurobarometer	Eurobarometer 76.1: Financial and Economic Crisis, Financial Services, Corruption, Development Aid, and Gender Equality, September 2011	part_of_temporal	10.3886/ICPSR34552	correct
 Eurobarometer	Eurobarometer 76.1: Financial and Economic Crisis, Financial Services, Corruption, Development Aid, and Gender Equality, September 2011	part_of	10.3886/ICPSR34552	correct
 Eurobarometer	Flash Eurobarometer 307 (Introduction of the Euro in the New Member States, wave 11)	part_of_temporal	10.4232/1.10742	incorrect
@@ -29,7 +29,7 @@ Eurobarometer	Eurobarometer 74.1 (8-9 2010)	part_of_temporal	10.4232/1.10710	cor
 Eurobarometer	Flash Eurobarometer 235 (Youth and their Rights / Rights of the Child)	part_of_temporal	10.4232/1.4814	incorrect
 Eurobarometer	Flash Eurobarometer 152 (Intergovernmental Conference)	version_of	10.4232/1.10432	incorrect
 Eurobarometer	Flash Eurobarometer 152 (Intergovernmental Conference)	part_of_temporal	10.4232/1.10432	incorrect
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2012	part_of_temporal	10.4232/1.11595	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2012	part_of_temporal	10.4232/1.11595	correct
 Eurobarometer	Eurobarometer 44.0 (Oct-Nov 1995)	version_of	10.4232/1.10916	correct
 Eurobarometer	Eurobarometer 44.0 (Oct-Nov 1995)	part_of_temporal	10.4232/1.10916	correct
 Politbarometer	Politbarometer West (Oktober 1991)	part_of_spatial	10.4232/1.2099	correct
@@ -77,7 +77,7 @@ Eurobarometer	Flash Eurobarometer 251 (Public Attitudes and Perceptions in the E
 Eurobarometer	Eurobarometer 71.2 (2009)	version_of	10.4232/1.10069	correct
 Eurobarometer	Eurobarometer 71.2 (2009)	part_of_temporal	10.4232/1.10069	correct
 Politbarometer	Wahlstudie 1987 (Politbarometer, November 1986)	part_of_temporal	10.4232/1.1529	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1980 - Methodenstudie	part_of_temporal	10.4232/1.11002	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1980 - Methodenstudie	part_of_temporal	10.4232/1.11002	correct
 Eurobarometer	Flash Eurobarometer 41 (Monthly Monitor February 1995)	part_of_temporal	10.4232/1.2573	incorrect
 Eurobarometer	Eurobarometer 72.4 (2009)	version_of	10.4232/1.10236	correct
 Eurobarometer	Eurobarometer 72.4 (2009)	part_of_temporal	10.4232/1.10236	correct
@@ -107,7 +107,7 @@ Eurobarometer	Eurobarometer 51.1: Environmental Issues and Consumer Associations
 Eurobarometer	Flash Eurobarometer 327 (Iceland and the European Union, wave 2)	part_of_spatial	10.4232/1.11155	incorrect
 Eurobarometer	Flash Eurobarometer 327 (Iceland and the European Union, wave 2)	part_of_temporal	10.4232/1.11155	incorrect
 Eurobarometer	Flash Eurobarometer 82/B (Euro Introduction Attitudes, Step 3 - Non-Euro Members)	part_of_temporal	10.4232/1.3491	incorrect
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1984 - Test-Retest-Studie	part_of_temporal	10.4232/1.1601	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1984 - Test-Retest-Studie	part_of_temporal	10.4232/1.1601	correct
 Eurobarometer	Candidate Countries Eurobarometer 2002.2, September-October 2002: Life in the Candidate Countries, Attachment to Nationality and Identification with Europe, Contact with Other Countries and Cultures, and European Union Enlargement	part_of_temporal	10.3886/ICPSR04062	correct
 Eurobarometer	Candidate Countries Eurobarometer 2002.2, September-October 2002: Life in the Candidate Countries, Attachment to Nationality and Identification with Europe, Contact with Other Countries and Cultures, and European Union Enlargement	parts_of_spatial	10.3886/ICPSR04062	correct
 Eurobarometer	Eurobarometer 51.0: The Elderly and Domestic Violence, March-May 1999	version_of	10.3886/ICPSR02864.v1	correct
@@ -255,8 +255,8 @@ Eurobarometer	Eurobarometer 79.4 (2013)	version_of	10.4232/1.11871	correct
 Eurobarometer	Eurobarometer 79.4 (2013)	part_of_temporal	10.4232/1.11871	correct
 Eurobarometer	Eurobarometer 79.4 (2013)	version_of	10.4232/1.11870	correct
 Eurobarometer	Eurobarometer 79.4 (2013)	part_of_temporal	10.4232/1.11870	correct
-allbus	German Social Survey (ALLBUS), 1994	part_of_temporal	10.3886/ICPSR06524	correct
-allbus	German Social Survey (ALLBUS), 1994	part_of_translation	10.3886/ICPSR06524	correct
+ALLBUS	German Social Survey (ALLBUS), 1994	part_of_temporal	10.3886/ICPSR06524	correct
+ALLBUS	German Social Survey (ALLBUS), 1994	part_of_translation	10.3886/ICPSR06524	correct
 Eurobarometer	Flash Eurobarometer 212 (Attitudes towards the planned EU pilot project ´Erasmus for Young Entrepreneurs´ - Young would-be and young existing entrepreneurs)	part_of_temporal	10.4232/1.4894	incorrect
 Politbarometer	Politbarometer West 2010 (Kumulierter Datensatz inkl. Kurzbarometer)	version_of	10.4232/1.12416	correct
 Politbarometer	Politbarometer West 2010 (Kumulierter Datensatz inkl. Kurzbarometer)	part_of_spatial	10.4232/1.12416	correct
@@ -381,11 +381,11 @@ Politbarometer	Politbarometer (Oktober 1985)	part_of_temporal	10.4232/1.1477	cor
 Eurobarometer	Flash Eurobarometer 61 (Managers 12)	part_of_temporal	10.4232/1.3141	incorrect
 Eurobarometer	Flash Eurobarometer 46 (Monthly Monitor July 1995)	part_of_temporal	10.4232/1.2632	incorrect
 Eurobarometer	Eurobarometer 75.1 (2011)	part_of_temporal	10.4232/1.10711	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2004	part_of_temporal	10.4232/1.3762	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2004	part_of_temporal	10.4232/1.3762	correct
 Eurobarometer	Eurobarometer 63.4: European Union Enlargement, the European Constitution, Economic Challenges, Innovative Products and Services, May-June 2005	part_of_temporal	10.3886/ICPSR04564	correct
 Eurobarometer	Eurobarometer 63.4: European Union Enlargement, the European Constitution, Economic Challenges, Innovative Products and Services, May-June 2005	part_of	10.3886/ICPSR04564	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2006	version_of	10.4232/1.10832	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2006	part_of_temporal	10.4232/1.10832	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2006	version_of	10.4232/1.10832	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2006	part_of_temporal	10.4232/1.10832	correct
 Eurobarometer	Eurobarometer 62.2 (2004)	part_of_temporal	10.4232/1.4231	correct
 Eurobarometer	Flash Eurobarometer 373 (Europeans’ Engagement in Participatory Democracy)	part_of_temporal	10.4232/1.11929	incorrect
 Politbarometer	Politbarometer Ost (April 1991)	part_of_spatial	10.4232/1.2106	correct
@@ -494,7 +494,7 @@ Politbarometer	Politbarometer Ost 2010 (Kumulierter Datensatz inkl. Kurzbaromete
 Politbarometer	Politbarometer Ost 2010 (Kumulierter Datensatz inkl. Kurzbarometer)	part_of_spatial	10.4232/1.12415	correct
 Politbarometer	Politbarometer Ost 2010 (Kumulierter Datensatz inkl. Kurzbarometer)	part_of_temporal	10.4232/1.12415	incorrect
 Politbarometer	Politbarometer Ost 2010 (Kumulierter Datensatz inkl. Kurzbarometer)	parts_of_temporal	10.4232/1.12415	correct
-allbus	ALLBUS-Basisumfrage 1991 (Allgemeine Bevölkerungsumfrage der Sozialwissenschaften Basisumfrage 1991)	part_of_temporal	10.4232/1.1990	correct
+ALLBUS	ALLBUS-Basisumfrage 1991 (Allgemeine Bevölkerungsumfrage der Sozialwissenschaften Basisumfrage 1991)	part_of_temporal	10.4232/1.1990	correct
 Eurobarometer	Flash Eurobarometer 285 (The European Emergency Number 112, wave 3)	part_of_temporal	10.4232/1.10743	incorrect
 ISSP	Životní prost?edí (ISSP 2000) - ?eská republika	version_of	10.14473/ISSP00009	correct
 ISSP	Životní prost?edí (ISSP 2000) - ?eská republika	part_of_spatial	10.14473/ISSP00009	correct
@@ -506,12 +506,12 @@ Eurobarometer	Eurobarometer 62.2 (Nov-Dec 2004)	part_of_temporal	10.4232/1.10964
 Eurobarometer	Eurobarometer 54.2: Impact of New Technologies, Employment and Social Affairs, and Disabilities, January-February 2001	part_of_temporal	10.3886/ICPSR03211	correct
 Eurobarometer	Eurobarometer 54.2: Impact of New Technologies, Employment and Social Affairs, and Disabilities, January-February 2001	part_of	10.3886/ICPSR03211	correct
 Eurobarometer	Eurobarometer 44.2 (1995-1996)	part_of_temporal	10.4232/1.2789	correct
-allbus	German Social Survey (ALLBUS), 1986	part_of_temporal	10.3886/ICPSR08897	correct
-allbus	German Social Survey (ALLBUS), 1986	part_of_translation	10.3886/ICPSR08897	correct
+ALLBUS	German Social Survey (ALLBUS), 1986	part_of_temporal	10.3886/ICPSR08897	correct
+ALLBUS	German Social Survey (ALLBUS), 1986	part_of_translation	10.3886/ICPSR08897	correct
 Eurobarometer	Candidate Countries Eurobarometer 2002.1 (Social Situation in the Countries Applying for European Union Membership)	version_of	10.4232/1.12465	correct
 Eurobarometer	Candidate Countries Eurobarometer 2002.1 (Social Situation in the Countries Applying for European Union Membership)	part_of_temporal	10.4232/1.12465	correct
 Eurobarometer	Candidate Countries Eurobarometer 2002.1 (Social Situation in the Countries Applying for European Union Membership)	parts_of_spatial	10.4232/1.12465	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2002	part_of_temporal	10.4232/1.3700	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2002	part_of_temporal	10.4232/1.3700	correct
 Politbarometer	Politbarometer Ost (August 1991)	part_of_spatial	10.4232/1.2109	correct
 Politbarometer	Politbarometer Ost (August 1991)	part_of_temporal	10.4232/1.2109	correct
 EVS	European Values Study 2008: Austria (EVS 2008)	version_of	10.4232/1.10152	correct
@@ -563,8 +563,8 @@ Eurobarometer	Eurobarometer 75.2 (2011)	part_of_temporal	10.4232/1.11767	correct
 ISSP	International Social Survey Programme: Social Inequality IV - ISSP 2009	version_of	10.4232/1.11506	correct
 ISSP	International Social Survey Programme: Social Inequality IV - ISSP 2009	part_of_temporal	10.4232/1.11506	correct
 ISSP	International Social Survey Programme: Social Inequality IV - ISSP 2009	part_of	10.4232/1.11506	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010	part_of_temporal	10.4232/1.11379	incorrect
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010	parts_of_temporal	10.4232/1.11379	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010	part_of_temporal	10.4232/1.11379	incorrect
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010	parts_of_temporal	10.4232/1.11379	correct
 Eurobarometer	Eurobarometer 79.2 (2013)	version_of	10.4232/1.12462	correct
 Eurobarometer	Eurobarometer 79.2 (2013)	part_of_temporal	10.4232/1.12462	correct
 Eurobarometer	Flash Eurobarometer 82/A (Euro Introduction Attitudes, Step 2 - Euro Members)	part_of_temporal	10.4232/1.3287	incorrect
@@ -613,10 +613,10 @@ Eurobarometer	Eurobarometer 50.1 (Nov-Dec 1998)	version_of	10.4232/1.10828	corre
 Eurobarometer	Eurobarometer 50.1 (Nov-Dec 1998)	part_of_temporal	10.4232/1.10828	correct
 Eurobarometer	Flash Eurobarometer 207 (Introduction of the Euro in the New Member States)	part_of_temporal	10.4232/1.4547	incorrect
 Eurobarometer	Eurobarometer 19 (1983)	part_of_temporal	10.4232/1.1318	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010: Sensitive Regionaldaten	version_of	10.4232/1.11565	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010: Sensitive Regionaldaten	part_of_temporal	10.4232/1.11565	incorrect
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010: Sensitive Regionaldaten	parts_of_temporal	10.4232/1.11565	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010: Sensitive Regionaldaten	part_of_confidential	10.4232/1.11565	missing
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010: Sensitive Regionaldaten	version_of	10.4232/1.11565	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010: Sensitive Regionaldaten	part_of_temporal	10.4232/1.11565	incorrect
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010: Sensitive Regionaldaten	parts_of_temporal	10.4232/1.11565	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010: Sensitive Regionaldaten	part_of_confidential	10.4232/1.11565	missing
 Eurobarometer	Flash Eurobarometer 163 (0 employee = One-person-enterprises)	version_of	10.4232/1.12026	incorrect
 Eurobarometer	Flash Eurobarometer 163 (0 employee = One-person-enterprises)	part_of_temporal	10.4232/1.12026	incorrect
 Eurobarometer	Candidate Countries Eurobarometer 2003.5, November-December 2003: Identities and Values, Financial Services and Consumer Protection, and Time Use in the Countries Applying for European Union Membership	version_of	10.3886/ICPSR29581.v1	correct
@@ -641,8 +641,8 @@ Eurobarometer	Flash Eurobarometer 301 (Road Safety in Europe)	part_of_temporal	1
 Eurobarometer	Eurobarometer 60.3: Time Allocation for Job, Learning, Family, and Other Activities, Retirement Preferences, and Product Safety Instructions for 'Do-It-Yourself' Products and Toys and Products for Children, November 2003-January 2004	version_of	10.3886/ICPSR03993.v2	correct
 Eurobarometer	Eurobarometer 60.3: Time Allocation for Job, Learning, Family, and Other Activities, Retirement Preferences, and Product Safety Instructions for 'Do-It-Yourself' Products and Toys and Products for Children, November 2003-January 2004	part_of_temporal	10.3886/ICPSR03993.v2	correct
 Eurobarometer	Eurobarometer 60.3: Time Allocation for Job, Learning, Family, and Other Activities, Retirement Preferences, and Product Safety Instructions for 'Do-It-Yourself' Products and Toys and Products for Children, November 2003-January 2004	part_of	10.3886/ICPSR03993.v2	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2006	part_of_temporal	10.4232/1.4241	incorrect
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2006	parts_of_temporal	10.4232/1.4241	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2006	part_of_temporal	10.4232/1.4241	incorrect
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2006	parts_of_temporal	10.4232/1.4241	correct
 Eurobarometer	Eurobarometer 62.2: Agricultural Policy, Development Aid, Social Capital, and Information and Communication Technology, November-December 2004	part_of_temporal	10.3886/ICPSR04668	correct
 Eurobarometer	Eurobarometer 62.2: Agricultural Policy, Development Aid, Social Capital, and Information and Communication Technology, November-December 2004	part_of	10.3886/ICPSR04668	correct
 Eurobarometer	Eurobarometer 73.2+73.3 (2-3 2010)	version_of	10.4232/1.11473	correct
@@ -754,8 +754,8 @@ Eurobarometer	Eurobarometer 46.1 (Oct-Nov 1996)	part_of_temporal	10.4232/1.10924
 Eurobarometer	Eurobarometer 28.1: Young Europeans -- Life, Interests, Education, Employment, and Knowledge of Foreign Languages, October-November 1987	version_of	10.3886/ICPSR09135.v1	correct
 Eurobarometer	Eurobarometer 28.1: Young Europeans -- Life, Interests, Education, Employment, and Knowledge of Foreign Languages, October-November 1987	part_of_temporal	10.3886/ICPSR09135.v1	correct
 Eurobarometer	Eurobarometer 28.1: Young Europeans -- Life, Interests, Education, Employment, and Knowledge of Foreign Languages, October-November 1987	part_of	10.3886/ICPSR09135.v1	correct
-allbus	General Social Survey [United States] and German Social Survey (ALLBUS) Combined Files, 1982	part_of_spatial	10.3886/ICPSR08365	correct
-allbus	General Social Survey [United States] and German Social Survey (ALLBUS) Combined Files, 1982	part_of_temporal	10.3886/ICPSR08365	correct
+ALLBUS	General Social Survey [United States] and German Social Survey (ALLBUS) Combined Files, 1982	part_of_spatial	10.3886/ICPSR08365	correct
+ALLBUS	General Social Survey [United States] and German Social Survey (ALLBUS) Combined Files, 1982	part_of_temporal	10.3886/ICPSR08365	correct
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Italien	version_of	10.4232/1.3780	correct
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Italien	part_of_spatial	10.4232/1.3780	correct
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Italien	part_of_temporal	10.4232/1.3780	correct
@@ -832,11 +832,11 @@ Eurobarometer	Eurobarometer 10A (1978)	part_of_temporal	10.4232/1.0995	correct
 Eurobarometer	Eurobarometer 80.1: Europe 2020, the Financial and Economic Crisis, European Citizenship and Information on EU Political Matters, November 2013	version_of	10.3886/ICPSR35204.v1	correct
 Eurobarometer	Eurobarometer 80.1: Europe 2020, the Financial and Economic Crisis, European Citizenship and Information on EU Political Matters, November 2013	part_of_temporal	10.3886/ICPSR35204.v1	correct
 Eurobarometer	Eurobarometer 80.1: Europe 2020, the Financial and Economic Crisis, European Citizenship and Information on EU Political Matters, November 2013	part_of	10.3886/ICPSR35204.v1	correct
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980-1996	part_of_temporal	10.3886/ICPSR03066	incorrect
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980-1996	parts_of_temporal	10.3886/ICPSR03066	correct
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980-1996	part_of_translation	10.3886/ICPSR03066	wrong
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2008	version_of	10.4232/1.10834	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2008	part_of_temporal	10.4232/1.10834	correct
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980-1996	part_of_temporal	10.3886/ICPSR03066	incorrect
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980-1996	parts_of_temporal	10.3886/ICPSR03066	correct
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980-1996	part_of_translation	10.3886/ICPSR03066	wrong
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2008	version_of	10.4232/1.10834	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2008	part_of_temporal	10.4232/1.10834	correct
 Eurobarometer	Eurobarometer 63.5 (2005)	part_of_temporal	10.4232/1.10209	correct
 Eurobarometer	Flash Eurobarometer 328 (Survey on the Attitudes of Europeans Towards Tourism, 2011)	part_of_temporal	10.4232/1.10727	incorrect
 Eurobarometer	Flash Eurobarometer 18 (European Economic Policy)	part_of_temporal	10.4232/1.2330	incorrect
@@ -976,9 +976,9 @@ Eurobarometer	Eurobarometer 73.4 (2010)	part_of_temporal	10.4232/1.10197	correct
 Eurobarometer	Eurobarometer 79.4: Social Climate, Development Aid, Cyber Security, Public Transport, Anti-Microbial Resistance and Space Technology, May-June 2013	part_of_temporal	10.3886/ICPSR36038	correct
 Eurobarometer	Eurobarometer 79.4: Social Climate, Development Aid, Cyber Security, Public Transport, Anti-Microbial Resistance and Space Technology, May-June 2013	part_of	10.3886/ICPSR36038	correct
 Eurobarometer	Eurobarometer 65.1 (2006)	part_of_temporal	10.4232/1.4505	correct
-allbus	Angebot von Zusatzvariablen zur ALLBUS Kumulation 1980-2012	part_of_temporal	10.4232/1.12048	incorrect
-allbus	Angebot von Zusatzvariablen zur ALLBUS Kumulation 1980-2012	part_of_supplement	10.4232/1.12048	missing
-allbus	Angebot von Zusatzvariablen zur ALLBUS Kumulation 1980-2012	parts_of_temporal	10.4232/1.12048	correct
+ALLBUS	Angebot von Zusatzvariablen zur ALLBUS Kumulation 1980-2012	part_of_temporal	10.4232/1.12048	incorrect
+ALLBUS	Angebot von Zusatzvariablen zur ALLBUS Kumulation 1980-2012	part_of_supplement	10.4232/1.12048	missing
+ALLBUS	Angebot von Zusatzvariablen zur ALLBUS Kumulation 1980-2012	parts_of_temporal	10.4232/1.12048	correct
 ISSP	International Social Survey Programme: Role of Government I - ISSP 1985	part_of_temporal	10.4232/1.1490	correct
 ISSP	International Social Survey Programme: Role of Government I - ISSP 1985	part_of	10.4232/1.1490	correct
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Ungarn	part_of_spatial	10.4232/1.11174	correct
@@ -991,7 +991,7 @@ Eurobarometer	Eurobarometer 63.2 (2005)	part_of_temporal	10.4232/1.4234	correct
 Eurobarometer	Flash Eurobarometer 314 (The European Emergency Number 112, wave 4)	part_of_temporal	10.4232/1.10746	incorrect
 Eurobarometer	Eurobarometer 70.1 (2008)	version_of	10.4232/1.10123	correct
 Eurobarometer	Eurobarometer 70.1 (2008)	part_of_temporal	10.4232/1.10123	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1986 - Non-Response-Studie	part_of_temporal	10.4232/1.1669	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1986 - Non-Response-Studie	part_of_temporal	10.4232/1.1669	correct
 Eurobarometer	Eurobarometer 57.1 (Mar-May 2002)	version_of	10.4232/1.10949	correct
 Eurobarometer	Eurobarometer 57.1 (Mar-May 2002)	part_of_temporal	10.4232/1.10949	correct
 EVS	EVS - European Values Study 1999 - Rumänien	version_of	10.4232/1.11550	correct
@@ -1021,8 +1021,8 @@ EVS	European Values Study 2008: Slovak Republic (EVS 2008)	part_of_temporal	10.4
 ISSP	International Social Survey Programme: Religion III - ISSP 2008 (Indonesien)	part_of_spatial	10.4232/1.11435	correct
 ISSP	International Social Survey Programme: Religion III - ISSP 2008 (Indonesien)	part_of_temporal	10.4232/1.11435	correct
 ISSP	International Social Survey Programme: Religion III - ISSP 2008 (Indonesien)	part_of	10.4232/1.11435	correct
-allbus	German General Social Survey (ALLBUS) - Cumulation 1980-2010	part_of_temporal	10.4232/1.11488	incorrect
-allbus	German General Social Survey (ALLBUS) - Cumulation 1980-2010	parts_of_temporal	10.4232/1.11488	correct
+ALLBUS	German General Social Survey (ALLBUS) - Cumulation 1980-2010	part_of_temporal	10.4232/1.11488	incorrect
+ALLBUS	German General Social Survey (ALLBUS) - Cumulation 1980-2010	parts_of_temporal	10.4232/1.11488	correct
 Eurobarometer	Flash Eurobarometer 42 (Monthly Monitor March 1995)	part_of_temporal	10.4232/1.2615	incorrect
 Eurobarometer	Eurobarometer 64.2 (Oct-Nov 2005)	version_of	10.4232/1.10970	correct
 Eurobarometer	Eurobarometer 64.2 (Oct-Nov 2005)	part_of_temporal	10.4232/1.10970	correct
@@ -1038,10 +1038,10 @@ Eurobarometer	Eurobarometer 57.0: Agriculture, Energy, and Discrimination Issues
 Eurobarometer	Flash Eurobarometer 197 (Satisfaction with EC Representations in 11 Member States)	part_of_temporal	10.4232/1.4456	incorrect
 Eurobarometer	Flash Eurobarometer 171 (The European Constitution: Post-Referendum in France)	part_of_spatial	10.4232/1.4420	incorrect
 Eurobarometer	Flash Eurobarometer 171 (The European Constitution: Post-Referendum in France)	part_of_temporal	10.4232/1.4420	incorrect
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	version_of	10.3886/ICPSR08453.v1	correct
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	part_of_temporal	10.3886/ICPSR08453.v1	incorrect
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	parts_of_temporal	10.3886/ICPSR08453.v1	correct
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	part_of_translation	10.3886/ICPSR08453.v1	correct
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	version_of	10.3886/ICPSR08453.v1	correct
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	part_of_temporal	10.3886/ICPSR08453.v1	incorrect
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	parts_of_temporal	10.3886/ICPSR08453.v1	correct
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	part_of_translation	10.3886/ICPSR08453.v1	correct
 Eurobarometer	Mannheim Eurobarometer Trend File, 1970-1999	part_of_temporal	10.3886/ICPSR03384	correct
 Eurobarometer	Flash Eurobarometer 215 (Innobarometer 2007)	version_of	10.4232/1.11158	incorrect
 Eurobarometer	Flash Eurobarometer 215 (Innobarometer 2007)	part_of_temporal	10.4232/1.11158	incorrect
@@ -1131,7 +1131,7 @@ EVS	European Values Study 2008: Belarus (EVS 2008)	part_of_spatial	10.4232/1.101
 EVS	European Values Study 2008: Belarus (EVS 2008)	part_of_temporal	10.4232/1.10175	correct
 ISSP	International Social Survey Programme: Social Inequality I-IV - ISSP 1987-1992-1999-2009	part_of_temporal	10.4232/1.11911	correct
 ISSP	International Social Survey Programme: Social Inequality I-IV - ISSP 1987-1992-1999-2009	part_of	10.4232/1.11911	correct
-allbus	German General Social Survey - ALLBUS 2006	part_of_temporal	10.4232/1.10110	correct
+ALLBUS	German General Social Survey - ALLBUS 2006	part_of_temporal	10.4232/1.10110	correct
 Eurobarometer	Flash Eurobarometer 358 (Consumer Attitudes Towards Cross-border Trade and Consumer Protection, wave 3)	part_of_temporal	10.4232/1.11817	incorrect
 Eurobarometer	Flash Eurobarometer 233 (Young People and Drugs)	part_of_temporal	10.4232/1.4813	incorrect
 Eurobarometer	Flash Eurobarometer 276 (Monitoring the Social Impact of the Crisis: Public Perceptions in the European Union, wave 1)	part_of_temporal	10.4232/1.10010	incorrect
@@ -1167,15 +1167,15 @@ EVS	European Values Study 2008: Turkey (EVS 2008)	part_of_spatial	10.4232/1.1002
 EVS	European Values Study 2008: Turkey (EVS 2008)	part_of_temporal	10.4232/1.10020	correct
 Eurobarometer	Eurobarometer 73.3: National and European Identity, and Electromagnetic Fields and Health, March-April 2010	part_of_temporal	10.3886/ICPSR30161	correct
 Eurobarometer	Eurobarometer 73.3: National and European Identity, and Electromagnetic Fields and Health, March-April 2010	part_of	10.3886/ICPSR30161	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1992	part_of_temporal	10.4232/1.2140	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1992	part_of_temporal	10.4232/1.2140	correct
 EVS	EVS - European Values Study 1999 - Italien	part_of_spatial	10.4232/1.11178	correct
 EVS	EVS - European Values Study 1999 - Italien	part_of_temporal	10.4232/1.11178	correct
 Politbarometer	Politbarometer Ost (Juni 1991)	part_of_spatial	10.4232/1.2108	correct
 Politbarometer	Politbarometer Ost (Juni 1991)	part_of_temporal	10.4232/1.2108	correct
-allbus	Angebot von Zusatzvariablen zur ALLBUS Kumulation 1980-2012	version_of	10.4232/1.12051	correct
-allbus	Angebot von Zusatzvariablen zur ALLBUS Kumulation 1980-2012	part_of_temporal	10.4232/1.12051	incorrect
-allbus	Angebot von Zusatzvariablen zur ALLBUS Kumulation 1980-2012	part_of_supplement	10.4232/1.12051	missing
-allbus	Angebot von Zusatzvariablen zur ALLBUS Kumulation 1980-2012	parts_of_temporal	10.4232/1.12051	correct
+ALLBUS	Angebot von Zusatzvariablen zur ALLBUS Kumulation 1980-2012	version_of	10.4232/1.12051	correct
+ALLBUS	Angebot von Zusatzvariablen zur ALLBUS Kumulation 1980-2012	part_of_temporal	10.4232/1.12051	incorrect
+ALLBUS	Angebot von Zusatzvariablen zur ALLBUS Kumulation 1980-2012	part_of_supplement	10.4232/1.12051	missing
+ALLBUS	Angebot von Zusatzvariablen zur ALLBUS Kumulation 1980-2012	parts_of_temporal	10.4232/1.12051	correct
 Eurobarometer	Eurobarometer 76.1 (2011)	version_of	10.4232/1.11695	correct
 Eurobarometer	Eurobarometer 76.1 (2011)	part_of_temporal	10.4232/1.11695	correct
 Eurobarometer	Eurobarometer 60.2 (Nov-Dec 2003)	version_of	10.4232/1.10959	correct
@@ -1336,7 +1336,7 @@ Politbarometer	German Election Study, 1994 (Politbarometer East)	version_of	10.3
 Politbarometer	German Election Study, 1994 (Politbarometer East)	part_of_spatial	10.3886/ICPSR02842.v1	correct
 Politbarometer	German Election Study, 1994 (Politbarometer East)	part_of_temporal	10.3886/ICPSR02842.v1	correct
 Politbarometer	German Election Study, 1994 (Politbarometer East)	part_of_translation	10.3886/ICPSR02842.v1	correct
-allbus	German General Social Survey - ALLBUS 2014	part_of_temporal	10.4232/1.12437	correct
+ALLBUS	German General Social Survey - ALLBUS 2014	part_of_temporal	10.4232/1.12437	correct
 Eurobarometer	Eurobarometer 61 (Feb-Mar 2004)	version_of	10.4232/1.10961	correct
 Eurobarometer	Eurobarometer 61 (Feb-Mar 2004)	part_of_temporal	10.4232/1.10961	correct
 Eurobarometer	Eurobarometer 76.1 (2011)	version_of	10.4232/1.11847	correct
@@ -1349,8 +1349,8 @@ Eurobarometer	Flash Eurobarometer 137 (The United Kingdom and the European Union
 Eurobarometer	Eurobarometer 81.5: Social Climate and Innovation in Science and Technology, June 2014	version_of	10.3886/ICPSR36241.v1	correct
 Eurobarometer	Eurobarometer 81.5: Social Climate and Innovation in Science and Technology, June 2014	part_of_temporal	10.3886/ICPSR36241.v1	correct
 Eurobarometer	Eurobarometer 81.5: Social Climate and Innovation in Science and Technology, June 2014	part_of	10.3886/ICPSR36241.v1	correct
-allbus	German Social Survey (ALLBUS), 1992	part_of_temporal	10.3886/ICPSR06166	correct
-allbus	German Social Survey (ALLBUS), 1992	part_of_translation	10.3886/ICPSR06166	correct
+ALLBUS	German Social Survey (ALLBUS), 1992	part_of_temporal	10.3886/ICPSR06166	correct
+ALLBUS	German Social Survey (ALLBUS), 1992	part_of_translation	10.3886/ICPSR06166	correct
 Eurobarometer	Flash Eurobarometer 319A (Youth on the Move - Respondents Aged 15-30 - Participation)	part_of_temporal	10.4232/1.10705	incorrect
 Politbarometer	Politbarometer (November 1987)	part_of_temporal	10.4232/1.1649	correct
 Eurobarometer	Eurobarometer 44.2bis (1996)	part_of_temporal	10.4232/1.2828	correct
@@ -1420,9 +1420,9 @@ Eurobarometer	Eurobarometer 75.4 (2011)	part_of_temporal	10.4232/1.11769	correct
 EVS	EVS - European Values Study 1999 - Slowenien	version_of	10.4232/1.11553	correct
 EVS	EVS - European Values Study 1999 - Slowenien	part_of_spatial	10.4232/1.11553	correct
 EVS	EVS - European Values Study 1999 - Slowenien	part_of_temporal	10.4232/1.11553	correct
-allbus	German Social Survey (ALLBUS), 1986	version_of	10.3886/ICPSR08897.v1	correct
-allbus	German Social Survey (ALLBUS), 1986	part_of_temporal	10.3886/ICPSR08897.v1	correct
-allbus	German Social Survey (ALLBUS), 1986	part_of_translation	10.3886/ICPSR08897.v1	correct
+ALLBUS	German Social Survey (ALLBUS), 1986	version_of	10.3886/ICPSR08897.v1	correct
+ALLBUS	German Social Survey (ALLBUS), 1986	part_of_temporal	10.3886/ICPSR08897.v1	correct
+ALLBUS	German Social Survey (ALLBUS), 1986	part_of_translation	10.3886/ICPSR08897.v1	correct
 Eurobarometer	Eurobarometer 64.4 (2005-2006)	part_of_temporal	10.4232/1.4416	correct
 Eurobarometer	Eurobarometer 60.0 (2003)	part_of_temporal	10.4232/1.3937	correct
 Politbarometer	Wahlstudie 1987 (Politbarometer, August 1986)	part_of_temporal	10.4232/1.1527	correct
@@ -1430,8 +1430,8 @@ Eurobarometer	Eurobarometer 63.3 (Mar-Apr 2005)	version_of	10.4232/1.10967	corre
 Eurobarometer	Eurobarometer 63.3 (Mar-Apr 2005)	part_of_temporal	10.4232/1.10967	correct
 Eurobarometer	Eurobarometer 51.1: Environmental Issues and Consumer Associations, April-May 1999	part_of_temporal	10.3886/ICPSR02865	correct
 Eurobarometer	Eurobarometer 51.1: Environmental Issues and Consumer Associations, April-May 1999	part_of	10.3886/ICPSR02865	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2012	version_of	10.4232/1.11634	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2012	part_of_temporal	10.4232/1.11634	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2012	version_of	10.4232/1.11634	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2012	part_of_temporal	10.4232/1.11634	correct
 Eurobarometer	Flash Eurobarometer 122 (Small and Medium Enterprises and the Euro)	part_of_temporal	10.4232/1.3669	incorrect
 Eurobarometer	Flash Eurobarometer 273 (The Rights of the Child)	part_of_temporal	10.4232/1.4987	incorrect
 Politbarometer	Wahlstudie 1994: Politbarometer West 1994 (Trenduntersuchungen)	part_of_spatial	10.4232/1.2546	correct
@@ -1442,7 +1442,7 @@ EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Malta	part_of_
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Malta	part_of_temporal	10.4232/1.11183	correct
 Eurobarometer	Eurobarometer 72.5 (Oct-Nov 2009)	version_of	10.4232/1.11351	correct
 Eurobarometer	Eurobarometer 72.5 (Oct-Nov 2009)	part_of_temporal	10.4232/1.11351	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2000 (Integrierte Version)	part_of_temporal	10.4232/1.3450	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2000 (Integrierte Version)	part_of_temporal	10.4232/1.3450	correct
 Eurobarometer	Candidate Countries Eurobarometer 2003.2, May 2003	version_of	10.3886/ICPSR04107.v2	correct
 Eurobarometer	Candidate Countries Eurobarometer 2003.2, May 2003	part_of_temporal	10.3886/ICPSR04107.v2	correct
 Eurobarometer	Candidate Countries Eurobarometer 2003.2, May 2003	parts_of_spatial	10.3886/ICPSR04107.v2	correct
@@ -1454,18 +1454,18 @@ Eurobarometer	Eurobarometer 80.1: Europe 2020, the Financial and Economic Crisis
 EVS	EVS - European Values Study 1981 - Integrated Dataset	version_of	10.4232/1.4438	correct
 EVS	EVS - European Values Study 1981 - Integrated Dataset	part_of_temporal	10.4232/1.4438	correct
 EVS	EVS - European Values Study 1981 - Integrated Dataset	Integrated Dataset (different surveys)	10.4232/1.4438	missing
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2010	version_of	10.4232/1.10760	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2010	part_of_temporal	10.4232/1.10760	correct
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	part_of_temporal	10.3886/ICPSR08453	incorrect
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	parts_of_temporal	10.3886/ICPSR08453	correct
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	part_of_translation	10.3886/ICPSR08453	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2010	version_of	10.4232/1.10760	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2010	part_of_temporal	10.4232/1.10760	correct
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	part_of_temporal	10.3886/ICPSR08453	incorrect
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	parts_of_temporal	10.3886/ICPSR08453	correct
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	part_of_translation	10.3886/ICPSR08453	correct
 Eurobarometer	Flash Eurobarometer 366 (Quality of Life in European Cities)	part_of_temporal	10.4232/1.11916	incorrect
 Eurobarometer	Eurobarometer 35A (1991)	part_of_temporal	10.4232/1.2033	correct
 Eurobarometer	Eurobarometer 7 (1977)	part_of_temporal	10.4232/1.0991	correct
 Politbarometer	Politbarometer Ost 2006 (Kumulierter Datensatz inkl. Kurzbarometer)	part_of_spatial	10.4232/1.4550	correct
 Politbarometer	Politbarometer Ost 2006 (Kumulierter Datensatz inkl. Kurzbarometer)	part_of_temporal	10.4232/1.4550	incorrect
 Politbarometer	Politbarometer Ost 2006 (Kumulierter Datensatz inkl. Kurzbarometer)	parts_of_temporal	10.4232/1.4550	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1986	part_of_temporal	10.4232/1.1500	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1986	part_of_temporal	10.4232/1.1500	correct
 Eurobarometer	Flash Eurobarometer 27 (Monthly Monitor May 1994)	part_of_temporal	10.4232/1.2470	incorrect
 Eurobarometer	Eurobarometer 71.1 (Jan-Feb 2009)	version_of	10.4232/1.11756	correct
 Eurobarometer	Eurobarometer 71.1 (Jan-Feb 2009)	part_of_temporal	10.4232/1.11756	correct
@@ -1555,18 +1555,18 @@ Eurobarometer	Eurobarometer 76.3: The European Parliament, Europe 2020, Financia
 Politbarometer	Politbarometer (April 1987)	part_of_temporal	10.4232/1.1643	correct
 Eurobarometer	Flash Eurobarometer 298 (Citizens’ Awareness and Perceptions of EU Regional Policy, wave 2)	part_of_temporal	10.4232/1.10222	incorrect
 Eurobarometer	Flash Eurobarometer 29 (Monthly Monitor June 1994)	part_of_temporal	10.4232/1.2471	incorrect
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010: Sensitive Regionaldaten	part_of_temporal	10.4232/1.11516	incorrect
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010: Sensitive Regionaldaten	parts_of_temporal	10.4232/1.11516	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010: Sensitive Regionaldaten	part_of_confidential	10.4232/1.11516	missing
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010: Sensitive Regionaldaten	part_of_temporal	10.4232/1.11516	incorrect
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010: Sensitive Regionaldaten	parts_of_temporal	10.4232/1.11516	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010: Sensitive Regionaldaten	part_of_confidential	10.4232/1.11516	missing
 Politbarometer	Politbarometer West 2008 (Kumulierter Datensatz inkl. Kurzbarometer)	part_of_spatial	10.4232/1.5201	correct
 Politbarometer	Politbarometer West 2008 (Kumulierter Datensatz inkl. Kurzbarometer)	part_of_temporal	10.4232/1.5201	incorrect
 Politbarometer	Politbarometer West 2008 (Kumulierter Datensatz inkl. Kurzbarometer)	parts_of_temporal	10.4232/1.5201	correct
 Eurobarometer	Flash Eurobarometer 19 (Single European Market)	part_of_temporal	10.4232/1.2363	incorrect
 Eurobarometer	Eurobarometer 43.1BIS: Regional Development and Consumer and Environmental Issues, May-June 1995	part_of_temporal	10.3886/ICPSR06840	correct
 Eurobarometer	Eurobarometer 43.1BIS: Regional Development and Consumer and Environmental Issues, May-June 1995	part_of	10.3886/ICPSR06840	correct
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980-1992	part_of_temporal	10.3886/ICPSR06523	incorrect
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980-1992	parts_of_temporal	10.3886/ICPSR06523	correct
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980-1992	part_of_translation	10.3886/ICPSR06523	wrong
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980-1992	part_of_temporal	10.3886/ICPSR06523	incorrect
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980-1992	parts_of_temporal	10.3886/ICPSR06523	correct
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980-1992	part_of_translation	10.3886/ICPSR06523	wrong
 Eurobarometer	Eurobarometer 79.5: One year to go to the 2014 European Elections - European Parliament and Institutions, European Identity, and Globalization Challenges, June 2013	version_of	10.3886/ICPSR36243.v1	correct
 Eurobarometer	Eurobarometer 79.5: One year to go to the 2014 European Elections - European Parliament and Institutions, European Identity, and Globalization Challenges, June 2013	part_of_temporal	10.3886/ICPSR36243.v1	correct
 Eurobarometer	Eurobarometer 79.5: One year to go to the 2014 European Elections - European Parliament and Institutions, European Identity, and Globalization Challenges, June 2013	part_of	10.3886/ICPSR36243.v1	correct
@@ -1604,17 +1604,17 @@ Eurobarometer	Eurobarometer 75.1 EP (2011)	part_of_temporal	10.4232/1.11412	corr
 Eurobarometer	Flash Eurobarometer 121/C (Euro Attitudes in May 2002 - Euro Members)	part_of_temporal	10.4232/1.3667	incorrect
 Eurobarometer	Eurobarometer 56.2 (Oct-Nov 2001)	version_of	10.4232/1.10946	correct
 Eurobarometer	Eurobarometer 56.2 (Oct-Nov 2001)	part_of_temporal	10.4232/1.10946	correct
-allbus	German General Social Survey - ALLBUS - Cumulation 1980-2006	part_of_temporal	10.4232/1.4243	incorrect
-allbus	German General Social Survey - ALLBUS - Cumulation 1980-2006	parts_of_temporal	10.4232/1.4243	correct
+ALLBUS	German General Social Survey - ALLBUS - Cumulation 1980-2006	part_of_temporal	10.4232/1.4243	incorrect
+ALLBUS	German General Social Survey - ALLBUS - Cumulation 1980-2006	parts_of_temporal	10.4232/1.4243	correct
 ISSP	International Social Survey Programme: Religion I - ISSP 1991	part_of_temporal	10.4232/1.2150	correct
 ISSP	International Social Survey Programme: Religion I - ISSP 1991	part_of	10.4232/1.2150	correct
 Eurobarometer	Flash Eurobarometer 149 (Post-referendum in Sweden)	part_of_spatial	10.4232/1.4158	incorrect
 Eurobarometer	Flash Eurobarometer 149 (Post-referendum in Sweden)	part_of_temporal	10.4232/1.4158	incorrect
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2014	version_of	10.4232/1.12209	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2014	part_of_temporal	10.4232/1.12209	correct
-allbus	General Social Survey [United States] and German Social Survey (ALLBUS) Combined Files, 1982	version_of	10.3886/ICPSR08365.v1	correct
-allbus	General Social Survey [United States] and German Social Survey (ALLBUS) Combined Files, 1982	part_of_spatial	10.3886/ICPSR08365.v1	correct
-allbus	General Social Survey [United States] and German Social Survey (ALLBUS) Combined Files, 1982	part_of_temporal	10.3886/ICPSR08365.v1	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2014	version_of	10.4232/1.12209	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2014	part_of_temporal	10.4232/1.12209	correct
+ALLBUS	General Social Survey [United States] and German Social Survey (ALLBUS) Combined Files, 1982	version_of	10.3886/ICPSR08365.v1	correct
+ALLBUS	General Social Survey [United States] and German Social Survey (ALLBUS) Combined Files, 1982	part_of_spatial	10.3886/ICPSR08365.v1	correct
+ALLBUS	General Social Survey [United States] and German Social Survey (ALLBUS) Combined Files, 1982	part_of_temporal	10.3886/ICPSR08365.v1	correct
 Eurobarometer	Eurobarometer 47.0: Images of Germany, Consumer Issues, Electronic Information, and Fair Trade Practices, January-February 1997	version_of	10.3886/ICPSR02088.v1	correct
 Eurobarometer	Eurobarometer 47.0: Images of Germany, Consumer Issues, Electronic Information, and Fair Trade Practices, January-February 1997	part_of_spatial	10.3886/ICPSR02088.v1	correct
 Eurobarometer	Eurobarometer 47.0: Images of Germany, Consumer Issues, Electronic Information, and Fair Trade Practices, January-February 1997	part_of_temporal	10.3886/ICPSR02088.v1	correct
@@ -1697,8 +1697,8 @@ Eurobarometer	Eurobarometer 79.2 (2013)	version_of	10.4232/1.11873	correct
 Eurobarometer	Eurobarometer 79.2 (2013)	part_of_temporal	10.4232/1.11873	correct
 Eurobarometer	Flash Eurobarometer 172 (The European Constitution: Post-Referendum in the Netherlands)	part_of_spatial	10.4232/1.4421	incorrect
 Eurobarometer	Flash Eurobarometer 172 (The European Constitution: Post-Referendum in the Netherlands)	part_of_temporal	10.4232/1.4421	incorrect
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2000 (Integrierte Version)	version_of	10.4232/1.11365	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2000 (Integrierte Version)	part_of_temporal	10.4232/1.11365	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2000 (Integrierte Version)	version_of	10.4232/1.11365	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2000 (Integrierte Version)	part_of_temporal	10.4232/1.11365	correct
 Eurobarometer	Eurobarometer 75.3 (2011)	version_of	10.4232/1.11852	correct
 Eurobarometer	Eurobarometer 75.3 (2011)	part_of_temporal	10.4232/1.11852	correct
 Politbarometer	German Election Study, 1997 (Politbarometer)	version_of	10.3886/ICPSR03033.v1	correct
@@ -1712,8 +1712,8 @@ Politbarometer	German Election Study, 1994 (Politbarometer West)	part_of_spatial
 Politbarometer	German Election Study, 1994 (Politbarometer West)	part_of_temporal	10.3886/ICPSR02843.v1	correct
 Politbarometer	German Election Study, 1994 (Politbarometer West)	part_of_translation	10.3886/ICPSR02843.v1	correct
 Eurobarometer	Eurobarometer 17 (1982)	part_of_temporal	10.4232/1.1208	correct
-allbus	German General Social Survey (ALLBUS) - Cumulation 1980-2012	part_of_temporal	10.4232/1.11952	incorrect
-allbus	German General Social Survey (ALLBUS) - Cumulation 1980-2012	parts_of_temporal	10.4232/1.11952	correct
+ALLBUS	German General Social Survey (ALLBUS) - Cumulation 1980-2012	part_of_temporal	10.4232/1.11952	incorrect
+ALLBUS	German General Social Survey (ALLBUS) - Cumulation 1980-2012	parts_of_temporal	10.4232/1.11952	correct
 Eurobarometer	Candidate Countries Eurobarometer 2004.1, February-March 2004	part_of_temporal	10.3886/ICPSR04350	correct
 Eurobarometer	Candidate Countries Eurobarometer 2004.1, February-March 2004	parts_of_spatial	10.3886/ICPSR04350	correct
 Eurobarometer	Eurobarometer 82.4 (2014)	version_of	10.4232/1.12254	correct
@@ -1768,13 +1768,13 @@ Politbarometer	Politbarometer West 2005 (Kumulierter Datensatz, inkl. Kurzbarome
 Politbarometer	Politbarometer West 2005 (Kumulierter Datensatz, inkl. Kurzbarometer)	parts_of_temporal	10.4232/1.4259	correct
 ISSP	Religion Around the World Study of the 2008 International Social Survey Programme (ISSP)	version_of	10.4232/1.11762	correct
 ISSP	Religion Around the World Study of the 2008 International Social Survey Programme (ISSP)	part_of_temporal	10.4232/1.11762	correct
-allbus	German Social Survey (ALLBUS), 1988	part_of_temporal	10.3886/ICPSR09382	correct
-allbus	German Social Survey (ALLBUS), 1988	part_of_translation	10.3886/ICPSR09382	correct
+ALLBUS	German Social Survey (ALLBUS), 1988	part_of_temporal	10.3886/ICPSR09382	correct
+ALLBUS	German Social Survey (ALLBUS), 1988	part_of_translation	10.3886/ICPSR09382	correct
 Eurobarometer	Flash Eurobarometer 163 (0 employee = One-person-enterprises)	version_of	10.4232/1.10439	incorrect
 Eurobarometer	Flash Eurobarometer 163 (0 employee = One-person-enterprises)	part_of_temporal	10.4232/1.10439	incorrect
 Eurobarometer	Flash Eurobarometer 144 (Innobarometer 2003)	version_of	10.4232/1.10429	incorrect
 Eurobarometer	Flash Eurobarometer 144 (Innobarometer 2003)	part_of_temporal	10.4232/1.10429	incorrect
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1982	part_of_temporal	10.4232/1.1160	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1982	part_of_temporal	10.4232/1.1160	correct
 Politbarometer	German Politbarometer East, 1999	part_of_spatial	10.3886/ICPSR03682	correct
 Politbarometer	German Politbarometer East, 1999	part_of_temporal	10.3886/ICPSR03682	correct
 Eurobarometer	Eurobarometer 66.3: Social Reality, E-Communications, Common Agricultural Policy, Discrimination and the Media, and Medical Research, November-December 2006	version_of	10.3886/ICPSR21523.v1	correct
@@ -1831,7 +1831,7 @@ Eurobarometer	Eurobarometer 56.1: Social Exclusion and Modernization of Pension 
 Eurobarometer	Eurobarometer 56.1: Social Exclusion and Modernization of Pension Systems, September-October 2001	version_of	10.3886/ICPSR03475.v1	correct
 Eurobarometer	Eurobarometer 56.1: Social Exclusion and Modernization of Pension Systems, September-October 2001	part_of_temporal	10.3886/ICPSR03475.v1	correct
 Eurobarometer	Eurobarometer 56.1: Social Exclusion and Modernization of Pension Systems, September-October 2001	part_of	10.3886/ICPSR03475.v1	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1998	part_of_temporal	10.4232/1.3000	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1998	part_of_temporal	10.4232/1.3000	correct
 Eurobarometer	Flash Eurobarometer 382 (Rail and Urban Transport Passenger Satisfaction)	part_of_temporal	10.4232/1.12027	incorrect
 Politbarometer	Wahlstudie 1980 (Politbarometer, Juni 1980)	part_of_temporal	10.4232/1.1059	correct
 Eurobarometer	Flash Eurobarometer 201a (Survey Among Enterprises in Slovenia - After the Euro Introduction)	part_of_spatial	10.4232/1.10244	incorrect
@@ -1900,7 +1900,7 @@ Eurobarometer	Eurobarometer 64.2: The European Constitution, Globalization, Ener
 Eurobarometer	Eurobarometer 64.2: The European Constitution, Globalization, Energy Resources, and Agricultural Policy, October-November 2005	version_of	10.3886/ICPSR04580.v1	correct
 Eurobarometer	Eurobarometer 64.2: The European Constitution, Globalization, Energy Resources, and Agricultural Policy, October-November 2005	part_of_temporal	10.3886/ICPSR04580.v1	correct
 Eurobarometer	Eurobarometer 64.2: The European Constitution, Globalization, Energy Resources, and Agricultural Policy, October-November 2005	part_of	10.3886/ICPSR04580.v1	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2014 (PRE-RELEASE)	part_of_temporal	10.4232/1.12119	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2014 (PRE-RELEASE)	part_of_temporal	10.4232/1.12119	correct
 Eurobarometer	Eurobarometer 33 (Spring 1990)	version_of	10.4232/1.10891	correct
 Eurobarometer	Eurobarometer 33 (Spring 1990)	part_of_temporal	10.4232/1.10891	correct
 Eurobarometer	Eurobarometer 73.2 (Feb-Mar 2010)	version_of	10.4232/1.10141	correct
@@ -1927,8 +1927,8 @@ Eurobarometer	Eurobarometer 65.2: The European Constitution, Social and Economic
 Eurobarometer	Eurobarometer 65.2: The European Constitution, Social and Economic Quality of Life, Avian Influenza, and Energy Issues, March-May 2006	part_of	10.3886/ICPSR20322	correct
 Eurobarometer	Eurobarometer 59.1 (Mar-Apr 2003)	version_of	10.4232/1.10955	correct
 Eurobarometer	Eurobarometer 59.1 (Mar-Apr 2003)	part_of_temporal	10.4232/1.10955	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS Kumulierter Datensatz 1980-1986	part_of_temporal	10.4232/1.1335	incorrect
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS Kumulierter Datensatz 1980-1986	parts_of_temporal	10.4232/1.1335	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS Kumulierter Datensatz 1980-1986	part_of_temporal	10.4232/1.1335	incorrect
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS Kumulierter Datensatz 1980-1986	parts_of_temporal	10.4232/1.1335	correct
 Politbarometer	Politbarometer (Juni 1989)	part_of_temporal	10.4232/1.1773	correct
 EVS	European Values Study 2008: Slovak Republic (EVS 2008)	part_of_spatial	10.4232/1.10047	correct
 EVS	European Values Study 2008: Slovak Republic (EVS 2008)	part_of_temporal	10.4232/1.10047	correct
@@ -1968,13 +1968,13 @@ Eurobarometer	Eurobarometer 75.4 (2011)	part_of_temporal	10.4232/1.11851	correct
 Eurobarometer	Eurobarometer 53: Racism, Information Society, General Services, and Food Labeling, April-May 2000	version_of	10.3886/ICPSR03064.v1	correct
 Eurobarometer	Eurobarometer 53: Racism, Information Society, General Services, and Food Labeling, April-May 2000	part_of_temporal	10.3886/ICPSR03064.v1	correct
 Eurobarometer	Eurobarometer 53: Racism, Information Society, General Services, and Food Labeling, April-May 2000	part_of	10.3886/ICPSR03064.v1	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2012	part_of_temporal	10.4232/1.11898	incorrect
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2012	parts_of_temporal	10.4232/1.11898	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2012	part_of_temporal	10.4232/1.11898	incorrect
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2012	parts_of_temporal	10.4232/1.11898	correct
 EVS	European Values Study 2008: Ukraine (EVS 2008)	part_of_spatial	10.4232/1.10057	correct
 EVS	European Values Study 2008: Ukraine (EVS 2008)	part_of_temporal	10.4232/1.10057	correct
 Politbarometer	Wahlstudie 1987 (Politbarometer, Juni 1986)	part_of_temporal	10.4232/1.1525	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2008	version_of	10.4232/1.12345	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2008	part_of_temporal	10.4232/1.12345	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2008	version_of	10.4232/1.12345	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2008	part_of_temporal	10.4232/1.12345	correct
 Eurobarometer	Central and Eastern Eurobarometer 3 (Political Disintegration)	part_of_spatial	10.4232/1.2321	correct
 Eurobarometer	Central and Eastern Eurobarometer 3 (Political Disintegration)	part_of_temporal	10.4232/1.2321	correct
 Eurobarometer	Central and Eastern Eurobarometer 3 (Political Disintegration)	part_of	10.4232/1.2321	correct
@@ -2082,19 +2082,19 @@ EVS	European Values Study 2008: Greece (EVS 2008)	part_of_temporal	10.4232/1.100
 Eurobarometer	Eurobarometer 47.0 (1997)	part_of_temporal	10.4232/1.2935	correct
 Eurobarometer	Eurobarometer 55.0: European Union Enlargement, the Euro, and Dialogue on Europe, March-April 2001	part_of_temporal	10.3886/ICPSR03340	correct
 Eurobarometer	Eurobarometer 55.0: European Union Enlargement, the Euro, and Dialogue on Europe, March-April 2001	part_of	10.3886/ICPSR03340	correct
-allbus	German Social Survey (ALLBUS), 1994	version_of	10.3886/ICPSR06524.v1	correct
-allbus	German Social Survey (ALLBUS), 1994	part_of_temporal	10.3886/ICPSR06524.v1	correct
-allbus	German Social Survey (ALLBUS), 1994	part_of_translation	10.3886/ICPSR06524.v1	correct
+ALLBUS	German Social Survey (ALLBUS), 1994	version_of	10.3886/ICPSR06524.v1	correct
+ALLBUS	German Social Survey (ALLBUS), 1994	part_of_temporal	10.3886/ICPSR06524.v1	correct
+ALLBUS	German Social Survey (ALLBUS), 1994	part_of_translation	10.3886/ICPSR06524.v1	correct
 ISSP	International Social Survey Program (ISSP), 1985-2000	part_of_temporal	10.3886/ICPSR03881	correct
 EVS	European Values Study 2008: Hungary (EVS 2008)	version_of	10.4232/1.10167	correct
 EVS	European Values Study 2008: Hungary (EVS 2008)	part_of_spatial	10.4232/1.10167	correct
 EVS	European Values Study 2008: Hungary (EVS 2008)	part_of_temporal	10.4232/1.10167	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1984	part_of_temporal	10.4232/1.1340	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1984	part_of_temporal	10.4232/1.1340	correct
 Politbarometer	Politbarometer West 2011 (Kumulierter Datensatz inkl. Kurzbarometer)	version_of	10.4232/1.11508	correct
 Politbarometer	Politbarometer West 2011 (Kumulierter Datensatz inkl. Kurzbarometer)	part_of_spatial	10.4232/1.11508	correct
 Politbarometer	Politbarometer West 2011 (Kumulierter Datensatz inkl. Kurzbarometer)	part_of_temporal	10.4232/1.11508	incorrect
 Politbarometer	Politbarometer West 2011 (Kumulierter Datensatz inkl. Kurzbarometer)	parts_of_temporal	10.4232/1.11508	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2008	part_of_temporal	10.4232/1.4600	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2008	part_of_temporal	10.4232/1.4600	correct
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Lettland	version_of	10.4232/1.3792	correct
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Lettland	part_of_spatial	10.4232/1.3792	correct
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Lettland	part_of_temporal	10.4232/1.3792	correct
@@ -2162,10 +2162,10 @@ Eurobarometer	Eurobarometer 5 (May-Jun 1976)	part_of_temporal	10.4232/1.10857	co
 ISSP	International Social Survey Programme: Religion III - ISSP 2008 (Kenia)	part_of_spatial	10.4232/1.11436	correct
 ISSP	International Social Survey Programme: Religion III - ISSP 2008 (Kenia)	part_of_temporal	10.4232/1.11436	correct
 ISSP	International Social Survey Programme: Religion III - ISSP 2008 (Kenia)	part_of	10.4232/1.11436	correct
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	version_of	10.3886/ICPSR08453.v2	correct
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	part_of_temporal	10.3886/ICPSR08453.v2	incorrect
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	parts_of_temporal	10.3886/ICPSR08453.v2	correct
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	part_of_translation	10.3886/ICPSR08453.v2	correct
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	version_of	10.3886/ICPSR08453.v2	correct
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	part_of_temporal	10.3886/ICPSR08453.v2	incorrect
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	parts_of_temporal	10.3886/ICPSR08453.v2	correct
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	part_of_translation	10.3886/ICPSR08453.v2	correct
 Eurobarometer	Flash Eurobarometer 37 (Monthly Monitor December 1994)	part_of_temporal	10.4232/1.2526	incorrect
 Eurobarometer	Flash Eurobarometer 385 (Justice in the EU)	part_of_temporal	10.4232/1.11954	incorrect
 Eurobarometer	Eurobarometer 79.1: E-Communications in the Household and Corruption, February-March 2013	part_of_temporal	10.3886/ICPSR35083	correct
@@ -2191,10 +2191,10 @@ ISSP	International Social Survey Programme 2004: Citizenship (ISSP 2004)	part_of
 Politbarometer	German Election Study, 1995 (Politbarometer East)	part_of_spatial	10.3886/ICPSR03035	correct
 Politbarometer	German Election Study, 1995 (Politbarometer East)	part_of_temporal	10.3886/ICPSR03035	correct
 Politbarometer	German Election Study, 1995 (Politbarometer East)	part_of_translation	10.3886/ICPSR03035	correct
-allbus	German Social Survey (ALLBUS), 1996	part_of_temporal	10.3886/ICPSR02005	correct
-allbus	German Social Survey (ALLBUS), 1996	part_of_translation	10.3886/ICPSR02005	correct
-allbus	German General Social Survey - ALLBUS 2000 - CAPI-PAPI	part_of_temporal	10.4232/1.10106	correct
-allbus	German General Social Survey - ALLBUS 2000 - CAPI-PAPI	part_of	10.4232/1.10106	missing
+ALLBUS	German Social Survey (ALLBUS), 1996	part_of_temporal	10.3886/ICPSR02005	correct
+ALLBUS	German Social Survey (ALLBUS), 1996	part_of_translation	10.3886/ICPSR02005	correct
+ALLBUS	German General Social Survey - ALLBUS 2000 - CAPI-PAPI	part_of_temporal	10.4232/1.10106	correct
+ALLBUS	German General Social Survey - ALLBUS 2000 - CAPI-PAPI	part_of	10.4232/1.10106	missing
 Eurobarometer	Eurobarometer 34.2 (1990)	part_of_temporal	10.4232/1.1962	correct
 Eurobarometer	Flash Eurobarometer 126 (Multimedia Internet Services: General Practitioners)	part_of_temporal	10.4232/1.3673	incorrect
 Eurobarometer	Flash Eurobarometer 267 (Innobarometer 2009)	part_of_temporal	10.4232/1.10075	incorrect
@@ -2203,7 +2203,7 @@ Eurobarometer	Eurobarometer 73.5: Civil Justice, Development Aid, Africa and the
 Eurobarometer	Eurobarometer 73.5: Civil Justice, Development Aid, Africa and the European Union, and Food Risk, June 2010	part_of	10.3886/ICPSR34084	correct
 Eurobarometer	Flash Eurobarometer 146 (Entrepreneurship 2003)	part_of_temporal	10.4232/1.4156	incorrect
 Eurobarometer	Flash Eurobarometer 424 (Possible Obstacles to Using the Euro in International Trade)	part_of_temporal	10.4232/1.12520	incorrect
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1988	part_of_temporal	10.4232/1.1670	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1988	part_of_temporal	10.4232/1.1670	correct
 Eurobarometer	Eurobarometer 45.1 (Apr-May 1996)	version_of	10.4232/1.10922	correct
 Eurobarometer	Eurobarometer 45.1 (Apr-May 1996)	part_of_temporal	10.4232/1.10922	correct
 Eurobarometer	Candidate Countries Eurobarometer 2002.3, October-November 2002: Science and Technology	part_of_temporal	10.3886/ICPSR04139	correct
@@ -2237,8 +2237,8 @@ Politbarometer	Politbarometer Ost 2007 (Kumulierter Datensatz inkl. Kurzbaromete
 ISSP	International Social Survey Programme: Religion I-III ADD ON - ISSP 1991-1998-2008	part_of_temporal	10.4232/1.10995	correct
 ISSP	International Social Survey Programme: Religion I-III ADD ON - ISSP 1991-1998-2008	part_of	10.4232/1.10995	correct
 Eurobarometer	Flash Eurobarometer 226 (Data Protection - Data Controllers’ Perceptions)	part_of_temporal	10.4232/1.4737	incorrect
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2000 (CAPI-Version)	part_of_temporal	10.4232/1.3451	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2000 (CAPI-Version)	part_of	10.4232/1.3451	missing
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2000 (CAPI-Version)	part_of_temporal	10.4232/1.3451	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2000 (CAPI-Version)	part_of	10.4232/1.3451	missing
 Politbarometer	Politbarometer Ost 2009 (Kumulierter Datensatz inkl. Kurzbarometer)	part_of_spatial	10.4232/1.10444	correct
 Politbarometer	Politbarometer Ost 2009 (Kumulierter Datensatz inkl. Kurzbarometer)	part_of_temporal	10.4232/1.10444	incorrect
 Politbarometer	Politbarometer Ost 2009 (Kumulierter Datensatz inkl. Kurzbarometer)	parts_of_temporal	10.4232/1.10444	correct
@@ -2329,9 +2329,9 @@ Politbarometer	German Election Study, 1995 (Politbarometer West)	version_of	10.3
 Politbarometer	German Election Study, 1995 (Politbarometer West)	part_of_spatial	10.3886/ICPSR03036.v1	correct
 Politbarometer	German Election Study, 1995 (Politbarometer West)	part_of_temporal	10.3886/ICPSR03036.v1	correct
 Politbarometer	German Election Study, 1995 (Politbarometer West)	part_of_translation	10.3886/ICPSR03036.v1	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2008	version_of	10.4232/1.10080	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2008	part_of_temporal	10.4232/1.10080	incorrect
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2008	parts_of_temporal	10.4232/1.10080	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2008	version_of	10.4232/1.10080	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2008	part_of_temporal	10.4232/1.10080	incorrect
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2008	parts_of_temporal	10.4232/1.10080	correct
 ISSP	Sociální nerovnosti III (ISSP 2009) - ?eská republika	version_of	10.14473/ISSP00018	correct
 ISSP	Sociální nerovnosti III (ISSP 2009) - ?eská republika	part_of_spatial	10.14473/ISSP00018	correct
 ISSP	Sociální nerovnosti III (ISSP 2009) - ?eská republika	part_of_temporal	10.14473/ISSP00018	correct
@@ -2350,7 +2350,7 @@ Eurobarometer	Mannheim Eurobarometer Trend File, 1970-2002	part_of_temporal	10.3
 EVS	European Values Study 2008: Northern Ireland (EVS 2008)	version_of	10.4232/1.10159	correct
 EVS	European Values Study 2008: Northern Ireland (EVS 2008)	part_of_spatial	10.4232/1.10159	correct
 EVS	European Values Study 2008: Northern Ireland (EVS 2008)	part_of_temporal	10.4232/1.10159	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1996	part_of_temporal	10.4232/1.2800	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1996	part_of_temporal	10.4232/1.2800	correct
 Eurobarometer	Eurobarometer 72.3: Public Health Attitudes, Behavior, and Prevention, October 2009	part_of_temporal	10.3886/ICPSR32441	correct
 Eurobarometer	Eurobarometer 72.3: Public Health Attitudes, Behavior, and Prevention, October 2009	part_of	10.3886/ICPSR32441	correct
 Eurobarometer	Flash Eurobarometer 374 (Businesses´ Attitudes towards Corruption in the EU)	part_of_temporal	10.4232/1.11915	incorrect
@@ -2515,7 +2515,7 @@ Eurobarometer	Eurobarometer 66.2: Nuclear Energy and Safety, and Public Health I
 Eurobarometer	Eurobarometer 60.2 (2003)	part_of_temporal	10.4232/1.3939	correct
 Eurobarometer	Eurobarometer 31A (Jun-Jul 1989)	version_of	10.4232/1.10889	correct
 Eurobarometer	Eurobarometer 31A (Jun-Jul 1989)	part_of_temporal	10.4232/1.10889	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2012: part_of_supplementsatz Berufsklassifikationen	part_of_temporal	10.4232/1.11774	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2012: part_of_supplementsatz Berufsklassifikationen	part_of_temporal	10.4232/1.11774	correct
 Eurobarometer	Flash Eurobarometer 274 (Attitudes towards the EU in the United Kingdom, 2009)	part_of_spatial	10.4232/1.4988	incorrect
 Eurobarometer	Flash Eurobarometer 274 (Attitudes towards the EU in the United Kingdom, 2009)	part_of_temporal	10.4232/1.4988	incorrect
 EVS	EVS - European Values Study 1999 - Malta	version_of	10.4232/1.11546	correct
@@ -2737,8 +2737,8 @@ Politbarometer	Politbarometer DDR (August 1990)	part_of_temporal	10.4232/1.1983	
 Eurobarometer	Eurobarometer 73.4 (May 2010)	version_of	10.4232/1.11479	correct
 Eurobarometer	Eurobarometer 73.4 (May 2010)	part_of_temporal	10.4232/1.11479	correct
 Eurobarometer	Flash Eurobarometer 49 (Information Society)	part_of_temporal	10.4232/1.2634	incorrect
-allbus	German General Social Survey - ALLBUS 2010	version_of	10.4232/1.11782	correct
-allbus	German General Social Survey - ALLBUS 2010	part_of_temporal	10.4232/1.11782	correct
+ALLBUS	German General Social Survey - ALLBUS 2010	version_of	10.4232/1.11782	correct
+ALLBUS	German General Social Survey - ALLBUS 2010	part_of_temporal	10.4232/1.11782	correct
 Eurobarometer	Eurobarometer 72.3 (Oct 2009)	version_of	10.4232/1.11140	correct
 Eurobarometer	Eurobarometer 72.3 (Oct 2009)	part_of_temporal	10.4232/1.11140	correct
 Eurobarometer	Eurobarometer 55.1: Globalization and Humanitarian Aid, April-May 2001	version_of	10.3886/ICPSR03361.v1	correct
@@ -2762,9 +2762,9 @@ Eurobarometer	Eurobarometer 67.2: European Union Enlargement, Personal Data Priv
 Eurobarometer	Eurobarometer 67.2: European Union Enlargement, Personal Data Privacy, the National Economy, and Scientific Research, April-May 2007	part_of	10.3886/ICPSR21160	correct
 Eurobarometer	Eurobarometer 77.2 (2012)	version_of	10.4232/1.11482	correct
 Eurobarometer	Eurobarometer 77.2 (2012)	part_of_temporal	10.4232/1.11482	correct
-allbus	German Social Survey (ALLBUS), 1998	version_of	10.3886/ICPSR02779.v1	correct
-allbus	German Social Survey (ALLBUS), 1998	part_of_temporal	10.3886/ICPSR02779.v1	correct
-allbus	German Social Survey (ALLBUS), 1998	part_of_translation	10.3886/ICPSR02779.v1	correct
+ALLBUS	German Social Survey (ALLBUS), 1998	version_of	10.3886/ICPSR02779.v1	correct
+ALLBUS	German Social Survey (ALLBUS), 1998	part_of_temporal	10.3886/ICPSR02779.v1	correct
+ALLBUS	German Social Survey (ALLBUS), 1998	part_of_translation	10.3886/ICPSR02779.v1	correct
 EVS	EVS - European Values Study 1999 - Nordirland	version_of	10.4232/1.11541	correct
 EVS	EVS - European Values Study 1999 - Nordirland	part_of_spatial	10.4232/1.11541	correct
 EVS	EVS - European Values Study 1999 - Nordirland	part_of_temporal	10.4232/1.11541	correct
@@ -2852,9 +2852,9 @@ Eurobarometer	Flash Eurobarometer 228 (The European Emergency Number 112, wave 1
 Eurobarometer	Eurobarometer 62.1 (2004)	part_of_temporal	10.4232/1.4230	correct
 Eurobarometer	Eurobarometer 47.0 (Jan-Feb 1997)	version_of	10.4232/1.10925	correct
 Eurobarometer	Eurobarometer 47.0 (Jan-Feb 1997)	part_of_temporal	10.4232/1.10925	correct
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980-1990	part_of_temporal	10.3886/ICPSR06101	incorrect
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980-1990	parts_of_temporal	10.3886/ICPSR06101	correct
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980-1990	part_of_translation	10.3886/ICPSR06101	wrong
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980-1990	part_of_temporal	10.3886/ICPSR06101	incorrect
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980-1990	parts_of_temporal	10.3886/ICPSR06101	correct
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980-1990	part_of_translation	10.3886/ICPSR06101	wrong
 Eurobarometer	Flash Eurobarometer 300 (Retailers’ Attitudes Towards Cross-border Trade and Consumer Protection, wave 1)	part_of_temporal	10.4232/1.10738	incorrect
 Eurobarometer	Eurobarometer 9 (May-Jun 1978)	version_of	10.4232/1.10863	correct
 Eurobarometer	Eurobarometer 9 (May-Jun 1978)	part_of_temporal	10.4232/1.10863	correct
@@ -2863,8 +2863,8 @@ Eurobarometer	Flash Eurobarometer 415 (Innobarometer 2015 - The Innovation Trend
 Eurobarometer	Eurobarometer 75.1 (2011)	version_of	10.4232/1.11646	correct
 Eurobarometer	Eurobarometer 75.1 (2011)	part_of_temporal	10.4232/1.11646	correct
 Eurobarometer	Flash Eurobarometer 98/C (Euro Introduction Attitudes, Step 9 - Euro Members)	part_of_temporal	10.4232/1.3582	incorrect
-allbus	German General Social Survey - ALLBUS - Cumulation 1980-2008	part_of_temporal	10.4232/1.11000	incorrect
-allbus	German General Social Survey - ALLBUS - Cumulation 1980-2008	parts_of_temporal	10.4232/1.11000	correct
+ALLBUS	German General Social Survey - ALLBUS - Cumulation 1980-2008	part_of_temporal	10.4232/1.11000	incorrect
+ALLBUS	German General Social Survey - ALLBUS - Cumulation 1980-2008	parts_of_temporal	10.4232/1.11000	correct
 ISSP	International Social Survey Programme: Environment III - ISSP 2010 (Netherlands)	part_of_spatial	10.4232/1.11792	correct
 ISSP	International Social Survey Programme: Environment III - ISSP 2010 (Netherlands)	part_of_temporal	10.4232/1.11792	correct
 ISSP	International Social Survey Programme: Environment III - ISSP 2010 (Netherlands)	part_of	10.4232/1.11792	correct
@@ -2887,9 +2887,9 @@ EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Malta	part_of_
 ISSP	Národní identita (ISSP 2003) - ?eská republika	version_of	10.14473/ISSP00012	correct
 ISSP	Národní identita (ISSP 2003) - ?eská republika	part_of_spatial	10.14473/ISSP00012	correct
 ISSP	Národní identita (ISSP 2003) - ?eská republika	part_of_temporal	10.14473/ISSP00012	correct
-allbus	German Social Survey (ALLBUS), 1991	version_of	10.3886/ICPSR09832.v1	correct
-allbus	German Social Survey (ALLBUS), 1991	part_of_temporal	10.3886/ICPSR09832.v1	correct
-allbus	German Social Survey (ALLBUS), 1991	part_of_translation	10.3886/ICPSR09832.v1	correct
+ALLBUS	German Social Survey (ALLBUS), 1991	version_of	10.3886/ICPSR09832.v1	correct
+ALLBUS	German Social Survey (ALLBUS), 1991	part_of_temporal	10.3886/ICPSR09832.v1	correct
+ALLBUS	German Social Survey (ALLBUS), 1991	part_of_translation	10.3886/ICPSR09832.v1	correct
 Eurobarometer	Flash Eurobarometer 98/A (Euro Introduction Attitudes, Step 7 - Euro Members)	part_of_temporal	10.4232/1.3578	incorrect
 Eurobarometer	Flash Eurobarometer 86 (Farmers and the Common Agricultural Policy Attitudes - Special Target)	part_of_temporal	10.4232/1.3502	incorrect
 Politbarometer	German Politbarometer West, 1999	part_of_spatial	10.3886/ICPSR03684	correct
@@ -2967,9 +2967,9 @@ Eurobarometer	Eurobarometer 54.2: Impact of New Technologies, Employment and Soc
 Eurobarometer	Eurobarometer 54.2: Impact of New Technologies, Employment and Social Affairs, and Disabilities, January-February 2001	version_of	10.3886/ICPSR03211.v1	correct
 Eurobarometer	Eurobarometer 54.2: Impact of New Technologies, Employment and Social Affairs, and Disabilities, January-February 2001	part_of_temporal	10.3886/ICPSR03211.v1	correct
 Eurobarometer	Eurobarometer 54.2: Impact of New Technologies, Employment and Social Affairs, and Disabilities, January-February 2001	part_of	10.3886/ICPSR03211.v1	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010	version_of	10.4232/1.11486	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010	part_of_temporal	10.4232/1.11486	incorrect
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010	parts_of_temporal	10.4232/1.11486	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010	version_of	10.4232/1.11486	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010	part_of_temporal	10.4232/1.11486	incorrect
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010	parts_of_temporal	10.4232/1.11486	correct
 Eurobarometer	Flash Eurobarometer 74 (EOS Managers 18 - Dialogue with Business)	part_of_temporal	10.4232/1.3281	incorrect
 EVS	European Values Study 2008: Ireland (EVS 2008)	version_of	10.4232/1.10160	correct
 EVS	European Values Study 2008: Ireland (EVS 2008)	part_of_spatial	10.4232/1.10160	correct
@@ -3043,8 +3043,8 @@ EVS	EVS - European Values Study 1999 - Spanien	version_of	10.4232/1.11554	correc
 EVS	EVS - European Values Study 1999 - Spanien	part_of_spatial	10.4232/1.11554	correct
 EVS	EVS - European Values Study 1999 - Spanien	part_of_temporal	10.4232/1.11554	correct
 Eurobarometer	Flash Eurobarometer 163 (0 employee = One-person-enterprises)	part_of_temporal	10.4232/1.4187	incorrect
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2004	version_of	10.4232/1.10977	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2004	part_of_temporal	10.4232/1.10977	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2004	version_of	10.4232/1.10977	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2004	part_of_temporal	10.4232/1.10977	correct
 Eurobarometer	Eurobarometer 74.1: Poverty and Social Exclusion, Mobile Phone Use, Economic Crisis, and International Trade, August-September 2010	part_of_temporal	10.3886/ICPSR34222	correct
 Eurobarometer	Eurobarometer 74.1: Poverty and Social Exclusion, Mobile Phone Use, Economic Crisis, and International Trade, August-September 2010	part_of	10.3886/ICPSR34222	correct
 Eurobarometer	Flash Eurobarometer 384 (Citizens’ Awareness and Perceptions of EU Regional Policy, wave 3)	part_of_temporal	10.4232/1.11955	incorrect
@@ -3095,7 +3095,7 @@ Eurobarometer	Eurobarometer 40 (Oct-Nov 1993)	version_of	10.4232/1.10908	correct
 Eurobarometer	Eurobarometer 40 (Oct-Nov 1993)	part_of_temporal	10.4232/1.10908	correct
 Politbarometer	German Politbarometer East, 2000	part_of_spatial	10.3886/ICPSR03683	correct
 Politbarometer	German Politbarometer East, 2000	part_of_temporal	10.3886/ICPSR03683	correct
-allbus	German General Social Survey - ALLBUS 2004	part_of_temporal	10.4232/1.10108	correct
+ALLBUS	German General Social Survey - ALLBUS 2004	part_of_temporal	10.4232/1.10108	correct
 Eurobarometer	Flash Eurobarometer 342 (Small and Medium Enterprises, Resource Efficiency and Green Markets, wave 1)	part_of_temporal	10.4232/1.11879	incorrect
 Eurobarometer	Eurobarometer 52.1 (Nov-Dec 1999)	version_of	10.4232/1.11377	correct
 Eurobarometer	Eurobarometer 52.1 (Nov-Dec 1999)	part_of_temporal	10.4232/1.11377	correct
@@ -3103,8 +3103,8 @@ Eurobarometer	Eurobarometer 79.4: Social Climate, Development Aid, Cyber Securit
 Eurobarometer	Eurobarometer 79.4: Social Climate, Development Aid, Cyber Security, Public Transport, Anti-Microbial Resistance and Space Technology, May-June 2013	part_of_temporal	10.3886/ICPSR36038.v1	correct
 Eurobarometer	Eurobarometer 79.4: Social Climate, Development Aid, Cyber Security, Public Transport, Anti-Microbial Resistance and Space Technology, May-June 2013	part_of	10.3886/ICPSR36038.v1	correct
 Eurobarometer	Flash Eurobarometer 326 (Survey on Passengers’ Satisfaction with Rail Services)	part_of_temporal	10.4232/1.11156	incorrect
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1998	version_of	10.4232/1.11362	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1998	part_of_temporal	10.4232/1.11362	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1998	version_of	10.4232/1.11362	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1998	part_of_temporal	10.4232/1.11362	correct
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Estland	version_of	10.4232/1.3791	correct
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Estland	part_of_spatial	10.4232/1.3791	correct
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Estland	part_of_temporal	10.4232/1.3791	correct
@@ -3129,7 +3129,7 @@ Eurobarometer	Flash Eurobarometer 195b (Preparedness for the changeover to euro 
 Eurobarometer	Flash Eurobarometer 195b (Preparedness for the changeover to euro among banks in Slovenia)	part_of_temporal	10.4232/1.4539	incorrect
 Eurobarometer	Candidate Countries Eurobarometer 2001.1	part_of_temporal	10.4232/1.3978	correct
 Eurobarometer	Candidate Countries Eurobarometer 2001.1	parts_of_spatial	10.4232/1.3978	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1994	part_of_temporal	10.4232/1.2400	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1994	part_of_temporal	10.4232/1.2400	correct
 EVS	European Values Study 2008: Georgia (EVS 2008)	part_of_spatial	10.4232/1.10018	correct
 EVS	European Values Study 2008: Georgia (EVS 2008)	part_of_temporal	10.4232/1.10018	correct
 Eurobarometer	Eurobarometer 72.5 (Oct-Nov 2009)	part_of_temporal	10.4232/1.10133	correct
@@ -3217,7 +3217,7 @@ EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Belgien	part_o
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Deutschland	version_of	10.4232/1.3778	correct
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Deutschland	part_of_spatial	10.4232/1.3778	correct
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Deutschland	part_of_temporal	10.4232/1.3778	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2006	part_of_temporal	10.4232/1.4500	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2006	part_of_temporal	10.4232/1.4500	correct
 Eurobarometer	Eurobarometer 52.0: European Parliament Elections, the Single European Currency, and Financial Services, October-November 1999	part_of_temporal	10.3886/ICPSR02892	correct
 Eurobarometer	Eurobarometer 52.0: European Parliament Elections, the Single European Currency, and Financial Services, October-November 1999	part_of	10.3886/ICPSR02892	correct
 Eurobarometer	Flash Eurobarometer 173 (The European Constitution: Post-Referendum in Luxembourg)	part_of_spatial	10.4232/1.4422	incorrect
@@ -3248,7 +3248,7 @@ Eurobarometer	Central and Eastern Eurobarometer 1 (European USSR)	part_of_tempor
 Eurobarometer	Central and Eastern Eurobarometer 1 (European USSR)	part_of	10.4232/1.2255	correct
 Eurobarometer	Eurobarometer 55.2 (May-Jun 2001)	version_of	10.4232/1.10943	correct
 Eurobarometer	Eurobarometer 55.2 (May-Jun 2001)	part_of_temporal	10.4232/1.10943	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1990	part_of_temporal	10.4232/1.1800	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1990	part_of_temporal	10.4232/1.1800	correct
 Eurobarometer	Flash Eurobarometer 339 (The European Emergency Number 112, wave 5)	part_of_temporal	10.4232/1.11641	incorrect
 Politbarometer	Politbarometer 1978 (Kumulierter Datensatz)	part_of_temporal	10.4232/1.2171	incorrect
 Politbarometer	Politbarometer 1978 (Kumulierter Datensatz)	parts_of_temporal	10.4232/1.2171	correct
@@ -3265,8 +3265,8 @@ Eurobarometer	Central and Eastern Eurobarometer 1 (Greater Moscow)	part_of_spati
 Eurobarometer	Central and Eastern Eurobarometer 1 (Greater Moscow)	part_of_temporal	10.4232/1.2254	correct
 Eurobarometer	Central and Eastern Eurobarometer 1 (Greater Moscow)	part_of	10.4232/1.2254	correct
 Eurobarometer	Eurobarometer 54.2 (Jan-Feb 2001)	part_of_temporal	10.4232/1.3388	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1992	version_of	10.4232/1.11901	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1992	part_of_temporal	10.4232/1.11901	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1992	version_of	10.4232/1.11901	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1992	part_of_temporal	10.4232/1.11901	correct
 Eurobarometer	Flash Eurobarometer 95 (Special Target: Teachers - Internet at School 1)	part_of_temporal	10.4232/1.3575	incorrect
 Eurobarometer	Eurobarometer 54.0: The Euro, Financial Services, and Information Communication Technologies, October-November 2000	version_of	10.3886/ICPSR03208.v2	correct
 Eurobarometer	Eurobarometer 54.0: The Euro, Financial Services, and Information Communication Technologies, October-November 2000	part_of_temporal	10.3886/ICPSR03208.v2	correct
@@ -3281,8 +3281,8 @@ Eurobarometer	Eurobarometer 45.1 (1996)	part_of_temporal	10.4232/1.2831	correct
 Eurobarometer	Eurobarometer 54.0: The Euro, Financial Services, and Information Communication Technologies, October-November 2000	version_of	10.3886/ICPSR03208.v4	correct
 Eurobarometer	Eurobarometer 54.0: The Euro, Financial Services, and Information Communication Technologies, October-November 2000	part_of_temporal	10.3886/ICPSR03208.v4	correct
 Eurobarometer	Eurobarometer 54.0: The Euro, Financial Services, and Information Communication Technologies, October-November 2000	part_of	10.3886/ICPSR03208.v4	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1996	version_of	10.4232/1.11888	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1996	part_of_temporal	10.4232/1.11888	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1996	version_of	10.4232/1.11888	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1996	part_of_temporal	10.4232/1.11888	correct
 Eurobarometer	Eurobarometer 56.2: Radioactive Waste, Demographic Issues, the Euro, and European Union Enlargement, October-November 2001	version_of	10.3886/ICPSR03476.v2	correct
 Eurobarometer	Eurobarometer 56.2: Radioactive Waste, Demographic Issues, the Euro, and European Union Enlargement, October-November 2001	part_of_temporal	10.3886/ICPSR03476.v2	correct
 Eurobarometer	Eurobarometer 56.2: Radioactive Waste, Demographic Issues, the Euro, and European Union Enlargement, October-November 2001	part_of	10.3886/ICPSR03476.v2	correct
@@ -3293,9 +3293,9 @@ Eurobarometer	Eurobarometer 56.2: Radioactive Waste, Demographic Issues, the Eur
 Eurobarometer	Eurobarometer 56.2: Radioactive Waste, Demographic Issues, the Euro, and European Union Enlargement, October-November 2001	part_of_temporal	10.3886/ICPSR03476.v1	correct
 Eurobarometer	Eurobarometer 56.2: Radioactive Waste, Demographic Issues, the Euro, and European Union Enlargement, October-November 2001	part_of	10.3886/ICPSR03476.v1	correct
 Eurobarometer	Flash Eurobarometer 262 (The European Emergency Number 112, wave 2)	part_of_temporal	10.4232/1.10745	incorrect
-allbus	German Social Survey (ALLBUS), 1988	version_of	10.3886/ICPSR09382.v1	correct
-allbus	German Social Survey (ALLBUS), 1988	part_of_temporal	10.3886/ICPSR09382.v1	correct
-allbus	German Social Survey (ALLBUS), 1988	part_of_translation	10.3886/ICPSR09382.v1	correct
+ALLBUS	German Social Survey (ALLBUS), 1988	version_of	10.3886/ICPSR09382.v1	correct
+ALLBUS	German Social Survey (ALLBUS), 1988	part_of_temporal	10.3886/ICPSR09382.v1	correct
+ALLBUS	German Social Survey (ALLBUS), 1988	part_of_translation	10.3886/ICPSR09382.v1	correct
 Eurobarometer	Flash Eurobarometer 71 (Town twinning Mayors/Responsibles)	part_of_temporal	10.4232/1.3194	incorrect
 Eurobarometer	The Mannheim Eurobarometer Trend File 1970-2002 (ed. 2.00)	version_of	10.4232/1.10074	correct
 Eurobarometer	The Mannheim Eurobarometer Trend File 1970-2002 (ed. 2.00)	part_of_temporal	10.4232/1.10074	incorrect
@@ -3304,16 +3304,16 @@ Eurobarometer	Mannheim Eurobarometer Trend File, 1970-2000	parts_of_temporal	10.
 Eurobarometer	Flash Eurobarometer 260 (Students and Higher Education Reform)	part_of_temporal	10.4232/1.4986	incorrect
 EVS	European Values Study 2008: Portugal (EVS 2008)	part_of_spatial	10.4232/1.10033	correct
 EVS	European Values Study 2008: Portugal (EVS 2008)	part_of_temporal	10.4232/1.10033	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2002	version_of	10.4232/1.11138	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2002	part_of_temporal	10.4232/1.11138	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2002	version_of	10.4232/1.11138	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2002	part_of_temporal	10.4232/1.11138	correct
 Eurobarometer	Flash Eurobarometer 211 (General public survey on the European Galileo programme)	part_of_temporal	10.4232/1.4549	incorrect
 EVS	EVS - European Values Study 1990 - Integrated Dataset	version_of	10.4232/1.10790	correct
 EVS	EVS - European Values Study 1990 - Integrated Dataset	part_of_temporal	10.4232/1.10790	correct
 EVS	EVS - European Values Study 1990 - Integrated Dataset	Integrated Dataset (different surveys)	10.4232/1.10790	missing
 Eurobarometer	Flash Eurobarometer 404 (European Citizens´ Digital Health Literacy)	part_of_temporal	10.4232/1.12194	incorrect
-allbus	German Social Survey (ALLBUS), 1996	version_of	10.3886/ICPSR02005.v1	correct
-allbus	German Social Survey (ALLBUS), 1996	part_of_temporal	10.3886/ICPSR02005.v1	correct
-allbus	German Social Survey (ALLBUS), 1996	part_of_translation	10.3886/ICPSR02005.v1	correct
+ALLBUS	German Social Survey (ALLBUS), 1996	version_of	10.3886/ICPSR02005.v1	correct
+ALLBUS	German Social Survey (ALLBUS), 1996	part_of_temporal	10.3886/ICPSR02005.v1	correct
+ALLBUS	German Social Survey (ALLBUS), 1996	part_of_translation	10.3886/ICPSR02005.v1	correct
 Eurobarometer	Eurobarometer 55.1 (Apr-May 2001)	version_of	10.4232/1.10941	correct
 Eurobarometer	Eurobarometer 55.1 (Apr-May 2001)	part_of_temporal	10.4232/1.10941	correct
 Eurobarometer	Eurobarometer 79.2: Internal Market, Cultural Activities, Non-Urban Road Use, Science and Technology, and Undeclared Work and Tax Fraud, April-May 2013	version_of	10.3886/ICPSR35505.v1	correct
@@ -3349,14 +3349,14 @@ Eurobarometer	Flash Eurobarometer 396 (Retailers´ Attitudes Towards Cross-borde
 Eurobarometer	Flash Eurobarometer 30 (Monthly Monitor July 1994)	part_of_temporal	10.4232/1.2483	incorrect
 Eurobarometer	Eurobarometer 65.4: Discrimination in the EU, Organized Crime, Medical Research, Vehicle Intelligence Systems, and Humanitarian Aid, June-July 2006	part_of_temporal	10.3886/ICPSR21442	correct
 Eurobarometer	Eurobarometer 65.4: Discrimination in the EU, Organized Crime, Medical Research, Vehicle Intelligence Systems, and Humanitarian Aid, June-July 2006	part_of	10.3886/ICPSR21442	correct
-allbus	German General Social Survey - ALLBUS 2010	part_of_temporal	10.4232/1.11692	correct
+ALLBUS	German General Social Survey - ALLBUS 2010	part_of_temporal	10.4232/1.11692	correct
 Eurobarometer	Eurobarometer 44.3OVR: Employment, Unemployment, and Gender Equality, February-April 1996	version_of	10.3886/ICPSR02443.v1	correct
 Eurobarometer	Eurobarometer 44.3OVR: Employment, Unemployment, and Gender Equality, February-April 1996	part_of_temporal	10.3886/ICPSR02443.v1	correct
 Eurobarometer	Eurobarometer 44.3OVR: Employment, Unemployment, and Gender Equality, February-April 1996	part_of_supplement	10.3886/ICPSR02443.v1	correct
 Eurobarometer	Eurobarometer 50.0 (1998)	part_of_temporal	10.4232/1.3085	correct
 Eurobarometer	Flash Eurobarometer 208 (General public survey after the introduction of the euro in Slovenia)	part_of_spatial	10.4232/1.4548	incorrect
 Eurobarometer	Flash Eurobarometer 208 (General public survey after the introduction of the euro in Slovenia)	part_of_temporal	10.4232/1.4548	incorrect
-allbus	German General Social Survey - ALLBUS 2002	part_of_temporal	10.4232/1.10104	correct
+ALLBUS	German General Social Survey - ALLBUS 2002	part_of_temporal	10.4232/1.10104	correct
 Eurobarometer	Eurobarometer 64.1 (Sep-Oct 2005)	version_of	10.4232/1.10969	correct
 Eurobarometer	Eurobarometer 64.1 (Sep-Oct 2005)	part_of_temporal	10.4232/1.10969	correct
 Eurobarometer	Flash Eurobarometer 123 (Sustainable Development and Environmental Concerns)	part_of_temporal	10.4232/1.3670	incorrect
@@ -3370,8 +3370,8 @@ Eurobarometer	Eurobarometer 35.0 (Mar 1991)	version_of	10.4232/1.10895	correct
 Eurobarometer	Eurobarometer 35.0 (Mar 1991)	part_of_temporal	10.4232/1.10895	correct
 Politbarometer	Wahlstudie 1980 (Politbarometer, Juli 1980)	part_of_temporal	10.4232/1.1060	correct
 Eurobarometer	Flash Eurobarometer 139 (Euro Attitudes in November 2002 - Euro Members)	part_of_temporal	10.4232/1.3774	incorrect
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2014	part_of_temporal	10.4232/1.12439	incorrect
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2014	parts_of_temporal	10.4232/1.12439	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2014	part_of_temporal	10.4232/1.12439	incorrect
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2014	parts_of_temporal	10.4232/1.12439	correct
 ISSP	International Social Survey Programme: Role of Government III - ISSP 1996	part_of_temporal	10.4232/1.2900	correct
 ISSP	International Social Survey Programme: Role of Government III - ISSP 1996	part_of	10.4232/1.2900	correct
 Eurobarometer	Flash Eurobarometer 201b (Survey Among Banks in Slovenia - After the Euro Introduction)	part_of_spatial	10.4232/1.10245	incorrect
@@ -3380,7 +3380,7 @@ Eurobarometer	Flash Eurobarometer 337 (Croatia and the European Union)	part_of_s
 Eurobarometer	Flash Eurobarometer 337 (Croatia and the European Union)	part_of_temporal	10.4232/1.11621	incorrect
 Eurobarometer	Eurobarometer 16 (Oct-Nov 1981)	version_of	10.4232/1.10871	correct
 Eurobarometer	Eurobarometer 16 (Oct-Nov 1981)	part_of_temporal	10.4232/1.10871	correct
-allbus	German General Social Survey - ALLBUS 1996	part_of_temporal	10.4232/1.3751	correct
+ALLBUS	German General Social Survey - ALLBUS 1996	part_of_temporal	10.4232/1.3751	correct
 Politbarometer	Politbarometer Kurzbefragung 2002 (Kumulierter Datensatz)	part_of_temporal	10.4232/1.3851	incorrect
 Politbarometer	Politbarometer Kurzbefragung 2002 (Kumulierter Datensatz)	parts_of_temporal	10.4232/1.3851	correct
 Politbarometer	Politbarometer Kurzbefragung 2002 (Kumulierter Datensatz)	part_of	10.4232/1.3851	missing
@@ -3396,10 +3396,10 @@ EVS	European Values Study 2008: Northern Cyprus (EVS 2008)	part_of_spatial	10.42
 EVS	European Values Study 2008: Northern Cyprus (EVS 2008)	part_of_temporal	10.4232/1.10017	correct
 Eurobarometer	Eurobarometer 73.2 and 73.3: Consumer Empowerment, February-April 2010	part_of_temporal	10.3886/ICPSR34082	correct
 Eurobarometer	Eurobarometer 73.2 and 73.3: Consumer Empowerment, February-April 2010	part_of	10.3886/ICPSR34082	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2012: Sensitive Regionaldaten	version_of	10.4232/1.11639	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2012: Sensitive Regionaldaten	part_of_temporal	10.4232/1.11639	incorrect
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2012: Sensitive Regionaldaten	parts_of_temporal	10.4232/1.11639	correct
-allbus	German General Social Survey - ALLBUS 1998	part_of_temporal	10.4232/1.3753	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2012: Sensitive Regionaldaten	version_of	10.4232/1.11639	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2012: Sensitive Regionaldaten	part_of_temporal	10.4232/1.11639	incorrect
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2012: Sensitive Regionaldaten	parts_of_temporal	10.4232/1.11639	correct
+ALLBUS	German General Social Survey - ALLBUS 1998	part_of_temporal	10.4232/1.3753	correct
 Eurobarometer	Eurobarometer 78.2 (2012)	part_of_temporal	10.4232/1.11856	correct
 Eurobarometer	Eurobarometer 28 (1987)	part_of_temporal	10.4232/1.1713	correct
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Türkei	part_of_spatial	10.4232/1.11194	correct
@@ -3442,7 +3442,7 @@ Eurobarometer	Eurobarometer 71.3 (2009)	version_of	10.4232/1.10196	correct
 Eurobarometer	Eurobarometer 71.3 (2009)	part_of_temporal	10.4232/1.10196	correct
 Eurobarometer	Eurobarometer 44.1: Education and Training Throughout Life and the Common European Currency, November-December 1995	part_of_temporal	10.3886/ICPSR06723	correct
 Eurobarometer	Eurobarometer 44.1: Education and Training Throughout Life and the Common European Currency, November-December 1995	part_of	10.3886/ICPSR06723	correct
-allbus	German General Social Survey - ALLBUS 2008	part_of_temporal	10.4232/1.11690	correct
+ALLBUS	German General Social Survey - ALLBUS 2008	part_of_temporal	10.4232/1.11690	correct
 Eurobarometer	Flash Eurobarometer 185 (EU Attitudes in UK)	part_of_temporal	10.4232/1.4533	incorrect
 Eurobarometer	Eurobarometer 78.1 (2012)	part_of_temporal	10.4232/1.11706	correct
 Eurobarometer	Flash Eurobarometer 212 (Attitudes towards the planned EU pilot project ´Erasmus for Young Entrepreneurs´ - Trainers and counsellors of start-up organisations)	part_of_temporal	10.4232/1.4893	incorrect
@@ -3486,9 +3486,9 @@ Eurobarometer	Eurobarometer 44.1 (Nov-Dec 1995)	version_of	10.4232/1.10917	corre
 Eurobarometer	Eurobarometer 44.1 (Nov-Dec 1995)	part_of_temporal	10.4232/1.10917	correct
 Eurobarometer	Eurobarometer 59.0 (Jan-Feb 2003)	version_of	10.4232/1.11352	correct
 Eurobarometer	Eurobarometer 59.0 (Jan-Feb 2003)	part_of_temporal	10.4232/1.11352	correct
-allbus	German Social Survey (ALLBUS), 1992	version_of	10.3886/ICPSR06166.v1	correct
-allbus	German Social Survey (ALLBUS), 1992	part_of_temporal	10.3886/ICPSR06166.v1	correct
-allbus	German Social Survey (ALLBUS), 1992	part_of_translation	10.3886/ICPSR06166.v1	correct
+ALLBUS	German Social Survey (ALLBUS), 1992	version_of	10.3886/ICPSR06166.v1	correct
+ALLBUS	German Social Survey (ALLBUS), 1992	part_of_temporal	10.3886/ICPSR06166.v1	correct
+ALLBUS	German Social Survey (ALLBUS), 1992	part_of_translation	10.3886/ICPSR06166.v1	correct
 ISSP	Národní identita (ISSP 1995) - ?eská republika	version_of	10.14473/ISSP00004	correct
 ISSP	Národní identita (ISSP 1995) - ?eská republika	part_of_spatial	10.14473/ISSP00004	correct
 ISSP	Národní identita (ISSP 1995) - ?eská republika	part_of_temporal	10.14473/ISSP00004	correct
@@ -3512,7 +3512,7 @@ ISSP	International Social Survey Programme: Social Inequality IV - ISSP 2009	par
 Eurobarometer	Candidate Countries Eurobarometer 2003.3, June-July 2003	version_of	10.3886/ICPSR04055.v2	correct
 Eurobarometer	Candidate Countries Eurobarometer 2003.3, June-July 2003	part_of_temporal	10.3886/ICPSR04055.v2	correct
 Eurobarometer	Candidate Countries Eurobarometer 2003.3, June-July 2003	parts_of_spatial	10.3886/ICPSR04055.v2	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1980	part_of_temporal	10.4232/1.1000	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1980	part_of_temporal	10.4232/1.1000	correct
 Eurobarometer	Eurobarometer 81.4 (2014)	part_of_temporal	10.4232/1.12170	correct
 Eurobarometer	Flash Eurobarometer 205 (General public survey after the introduction of the euro in Slovenia)	part_of_spatial	10.4232/1.4545	incorrect
 Eurobarometer	Flash Eurobarometer 205 (General public survey after the introduction of the euro in Slovenia)	part_of_temporal	10.4232/1.4545	incorrect
@@ -3531,7 +3531,7 @@ Eurobarometer	Eurobarometer 66.1: European Values and Societal Issues, Mobile Ph
 Eurobarometer	Eurobarometer 66.1: European Values and Societal Issues, Mobile Phone Use, and Farm Animal Welfare, September-October 2006	part_of	10.3886/ICPSR21281.v1	correct
 Eurobarometer	Eurobarometer 42 (Nov-Dec 1994)	version_of	10.4232/1.10911	correct
 Eurobarometer	Eurobarometer 42 (Nov-Dec 1994)	part_of_temporal	10.4232/1.10911	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2010	part_of_temporal	10.4232/1.10445	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2010	part_of_temporal	10.4232/1.10445	correct
 Eurobarometer	Flash Eurobarometer 255 (Dual circulation period in Slovakia) - January 01-15, 2009	part_of_spatial	10.4232/1.4896	incorrect
 Eurobarometer	Flash Eurobarometer 255 (Dual circulation period in Slovakia) - January 01-15, 2009	part_of_temporal	10.4232/1.4896	incorrect
 Eurobarometer	Eurobarometer 73.4: Financial and Economic Crisis, the Future of the European Union, Globalization, and European Citizenship, May 2010	part_of_temporal	10.3886/ICPSR34384	correct
@@ -3541,8 +3541,8 @@ ISSP	International Social Survey Programme 2008: Religion III (ISSP 2008)	part_o
 ISSP	International Social Survey Programme: Work Orientation III - ISSP 2005	part_of_temporal	10.4232/1.4350	correct
 ISSP	International Social Survey Programme: Work Orientation III - ISSP 2005	part_of	10.4232/1.4350	correct
 Eurobarometer	Flash Eurobarometer 399 (The Electronic Customs Implementation in the EU)	part_of_temporal	10.4232/1.12136	incorrect
-allbus	German Social Survey (ALLBUS), 1991	part_of_temporal	10.3886/ICPSR09832	correct
-allbus	German Social Survey (ALLBUS), 1991	part_of_translation	10.3886/ICPSR09832	correct
+ALLBUS	German Social Survey (ALLBUS), 1991	part_of_temporal	10.3886/ICPSR09832	correct
+ALLBUS	German Social Survey (ALLBUS), 1991	part_of_translation	10.3886/ICPSR09832	correct
 Eurobarometer	Eurobarometer 62.1 (Oct-Dec 2004)	version_of	10.4232/1.10963	correct
 Eurobarometer	Eurobarometer 62.1 (Oct-Dec 2004)	part_of_temporal	10.4232/1.10963	correct
 Eurobarometer	Flash Eurobarometer 370 (Attitudes of Europeans towards Tourism, 2013)	part_of_temporal	10.4232/1.11924	incorrect
@@ -3628,8 +3628,8 @@ Politbarometer	Politbarometer (April 1988)	part_of_temporal	10.4232/1.1689	corre
 Eurobarometer	Eurobarometer 43.1BIS: Regional Development and Consumer and Environmental Issues, May-June 1995	version_of	10.3886/ICPSR06840.v1	correct
 Eurobarometer	Eurobarometer 43.1BIS: Regional Development and Consumer and Environmental Issues, May-June 1995	part_of_temporal	10.3886/ICPSR06840.v1	correct
 Eurobarometer	Eurobarometer 43.1BIS: Regional Development and Consumer and Environmental Issues, May-June 1995	part_of	10.3886/ICPSR06840.v1	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2000 (PAPI-Version)	part_of_temporal	10.4232/1.3452	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2000 (PAPI-Version)	part_of	10.4232/1.3452	missing
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2000 (PAPI-Version)	part_of_temporal	10.4232/1.3452	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2000 (PAPI-Version)	part_of	10.4232/1.3452	missing
 Eurobarometer	Eurobarometer 69.2 (Mar-May 2008)	version_of	10.4232/1.10992	correct
 Eurobarometer	Eurobarometer 69.2 (Mar-May 2008)	part_of_temporal	10.4232/1.10992	correct
 Eurobarometer	Central and Eastern Eurobarometer 1 (Czechoslovakia, January 1990)	part_of_spatial	10.4232/1.2252	correct
@@ -3665,10 +3665,10 @@ Eurobarometer	Eurobarometer 43.1bis (May-Jun 1995)	version_of	10.4232/1.11776	co
 Eurobarometer	Eurobarometer 43.1bis (May-Jun 1995)	part_of_temporal	10.4232/1.11776	correct
 Politbarometer	Politbarometer 1981 (Kumulierter Datensatz)	part_of_temporal	10.4232/1.2194	incorrect
 Politbarometer	Politbarometer 1981 (Kumulierter Datensatz)	parts_of_temporal	10.4232/1.2194	correct
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980-1996	version_of	10.3886/ICPSR03066.v1	correct
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980-1996	part_of_temporal	10.3886/ICPSR03066.v1	incorrect
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980-1996	parts_of_temporal	10.3886/ICPSR03066.v1	correct
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980-1996	part_of_translation	10.3886/ICPSR03066.v1	correct
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980-1996	version_of	10.3886/ICPSR03066.v1	correct
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980-1996	part_of_temporal	10.3886/ICPSR03066.v1	incorrect
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980-1996	parts_of_temporal	10.3886/ICPSR03066.v1	correct
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980-1996	part_of_translation	10.3886/ICPSR03066.v1	correct
 Eurobarometer	Flash Eurobarometer 6 (Acceptance of the Baltic States into the EC, Yugoslavia Crisis)	part_of_temporal	10.4232/1.2875	incorrect
 Politbarometer	Politbarometer (Dezember 1989)	part_of_temporal	10.4232/1.1778	correct
 Eurobarometer	Eurobarometer 57.2 (2002)	part_of_temporal	10.4232/1.3640	correct
@@ -3706,7 +3706,7 @@ Eurobarometer	Eurobarometer 57.2: Health Issues, Cross-Border Purchases, and Nat
 Eurobarometer	Eurobarometer 57.2: Health Issues, Cross-Border Purchases, and National Identities, April-June 2002	version_of	10.3886/ICPSR03543.v1	correct
 Eurobarometer	Eurobarometer 57.2: Health Issues, Cross-Border Purchases, and National Identities, April-June 2002	part_of_temporal	10.3886/ICPSR03543.v1	correct
 Eurobarometer	Eurobarometer 57.2: Health Issues, Cross-Border Purchases, and National Identities, April-June 2002	part_of	10.3886/ICPSR03543.v1	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2008: Offene Angaben zu den Begriffen „links“ und „rechts“	part_of_temporal	10.4232/1.11485	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2008: Offene Angaben zu den Begriffen „links“ und „rechts“	part_of_temporal	10.4232/1.11485	correct
 Eurobarometer	Flash Eurobarometer 363 (How Companies Influence Our Society: Citizens’ View)	version_of	10.4232/1.11927	incorrect
 Eurobarometer	Flash Eurobarometer 363 (How Companies Influence Our Society: Citizens’ View)	part_of_temporal	10.4232/1.11927	incorrect
 Eurobarometer	Candidate Countries Eurobarometer 2002.3 (New Europeans, Science and Technology, and the Agriculture)	part_of_temporal	10.4232/1.4235	correct
@@ -3741,8 +3741,8 @@ ISSP	International Social Survey Programme: Family and Changing Gender Roles IV 
 ISSP	International Social Survey Programme: Family and Changing Gender Roles IV - ISSP 2012	part_of_temporal	10.4232/1.12339	correct
 ISSP	International Social Survey Programme: Family and Changing Gender Roles IV - ISSP 2012	part_of	10.4232/1.12339	correct
 Eurobarometer	Flash Eurobarometer 115 (Euro Introduction Attitudes, Step 12 - Non-Euro Members)	part_of_temporal	10.4232/1.3605	incorrect
-allbus	ALLBUS-Basisumfrage 1991 (Allgemeine Bevölkerungsumfrage der Sozialwissenschaften Basisumfrage 1991)	version_of	10.4232/1.11922	correct
-allbus	ALLBUS-Basisumfrage 1991 (Allgemeine Bevölkerungsumfrage der Sozialwissenschaften Basisumfrage 1991)	part_of_temporal	10.4232/1.11922	correct
+ALLBUS	ALLBUS-Basisumfrage 1991 (Allgemeine Bevölkerungsumfrage der Sozialwissenschaften Basisumfrage 1991)	version_of	10.4232/1.11922	correct
+ALLBUS	ALLBUS-Basisumfrage 1991 (Allgemeine Bevölkerungsumfrage der Sozialwissenschaften Basisumfrage 1991)	part_of_temporal	10.4232/1.11922	correct
 Eurobarometer	Flash Eurobarometer 159_2 (Future European Constitution, Wave 2)	version_of	10.4232/1.10437	incorrect
 Eurobarometer	Flash Eurobarometer 159_2 (Future European Constitution, Wave 2)	part_of_temporal	10.4232/1.10437	incorrect
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Luxemburg	version_of	10.4232/1.3804	correct
@@ -3796,9 +3796,9 @@ EVS	European Values Study 2008: Albania (EVS 2008)	part_of_temporal	10.4232/1.10
 Eurobarometer	Eurobarometer 84.2 (2015)	part_of_temporal	10.4232/1.12486	correct
 Eurobarometer	Eurobarometer 2 (Oct-Nov 1974)	version_of	10.4232/1.10854	correct
 Eurobarometer	Eurobarometer 2 (Oct-Nov 1974)	part_of_temporal	10.4232/1.10854	correct
-allbus	Verknüpfte Personen-Betriebsdaten im Anschluss an den ALLBUS 2008	version_of	10.7478/s0001.1.v1	correct
-allbus	Verknüpfte Personen-Betriebsdaten im Anschluss an den ALLBUS 2008	part_of_temporal	10.7478/s0001.1.v1	correct
-allbus	Verknüpfte Personen-Betriebsdaten im Anschluss an den ALLBUS 2008	part_of_supplement	10.7478/s0001.1.v1	missing
+ALLBUS	Verknüpfte Personen-Betriebsdaten im Anschluss an den ALLBUS 2008	version_of	10.7478/s0001.1.v1	correct
+ALLBUS	Verknüpfte Personen-Betriebsdaten im Anschluss an den ALLBUS 2008	part_of_temporal	10.7478/s0001.1.v1	correct
+ALLBUS	Verknüpfte Personen-Betriebsdaten im Anschluss an den ALLBUS 2008	part_of_supplement	10.7478/s0001.1.v1	missing
 Eurobarometer	Eurobarometer 72.2 (2009)	part_of_temporal	10.4232/1.4976	correct
 EVS	European Values Study 2008: France (EVS 2008)	version_of	10.4232/1.10198	correct
 EVS	European Values Study 2008: France (EVS 2008)	part_of_spatial	10.4232/1.10198	correct
@@ -3818,10 +3818,10 @@ Eurobarometer	Eurobarometer 54LAN (Dec 2000)	part_of_temporal	10.4232/1.10939	co
 Eurobarometer	Eurobarometer 54LAN (Dec 2000)	part_of_supplement	10.4232/1.10939	correct
 Eurobarometer	Eurobarometer 65.2 (2006)	part_of_temporal	10.4232/1.4506	correct
 Politbarometer	Politbarometer (März 1990)	part_of_temporal	10.4232/1.1923	correct
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980-1992	version_of	10.3886/ICPSR06523.v1	correct
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980-1992	part_of_temporal	10.3886/ICPSR06523.v1	incorrect
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980-1992	parts_of_temporal	10.3886/ICPSR06523.v1	correct
-allbus	German Social Survey (ALLBUS) Cumulative File, 1980-1992	part_of_translation	10.3886/ICPSR06523.v1	correct
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980-1992	version_of	10.3886/ICPSR06523.v1	correct
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980-1992	part_of_temporal	10.3886/ICPSR06523.v1	incorrect
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980-1992	parts_of_temporal	10.3886/ICPSR06523.v1	correct
+ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980-1992	part_of_translation	10.3886/ICPSR06523.v1	correct
 Eurobarometer	Flash Eurobarometer 96 (Special Target: Registered Unemployed Persons)	part_of_temporal	10.4232/1.3576	incorrect
 Eurobarometer	Eurobarometer 69.1 (2008)	version_of	10.4232/1.10128	correct
 Eurobarometer	Eurobarometer 69.1 (2008)	part_of_temporal	10.4232/1.10128	correct
@@ -3869,8 +3869,8 @@ ISSP	International Social Survey Programme: Social Inequality I-IV ADD ON - ISSP
 ISSP	International Social Survey Programme: Social Inequality I-IV ADD ON - ISSP 1987-1992-1999-2009	part_of_supplement	10.4232/1.11912	missing
 ISSP	International Social Survey Programme: Social Inequality I-IV ADD ON - ISSP 1987-1992-1999-2009	part_of	10.4232/1.11912	correct
 Eurobarometer	Eurobarometer 38.0 (1992)	part_of_temporal	10.4232/1.2294	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2014	version_of	10.4232/1.12288	correct
-allbus	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2014	part_of_temporal	10.4232/1.12288	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2014	version_of	10.4232/1.12288	correct
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2014	part_of_temporal	10.4232/1.12288	correct
 Eurobarometer	Flash Eurobarometer 198 (Perceptions of Higher Education Reforms)	part_of_temporal	10.4232/1.4540	incorrect
 Politbarometer	Politbarometer Ost 2003 (Kumulierter Datensatz, inkl. Kurzbarometer)	part_of_spatial	10.4232/1.4003	correct
 Politbarometer	Politbarometer Ost 2003 (Kumulierter Datensatz, inkl. Kurzbarometer)	part_of_temporal	10.4232/1.4003	incorrect
@@ -3908,8 +3908,8 @@ Eurobarometer	Flash Eurobarometer 261 (Flash eurobarometer on water)	part_of_tem
 EVS	European Values Study 2008: Latvia (EVS 2008)	part_of_spatial	10.4232/1.10043	correct
 EVS	European Values Study 2008: Latvia (EVS 2008)	part_of_temporal	10.4232/1.10043	correct
 Politbarometer	Wahlstudie 1983 (Politbarometer, Januar 1983)	part_of_temporal	10.4232/1.1279	correct
-allbus	German Social Survey (ALLBUS), 1998	part_of_temporal	10.3886/ICPSR02779	correct
-allbus	German Social Survey (ALLBUS), 1998	part_of_translation	10.3886/ICPSR02779	correct
+ALLBUS	German Social Survey (ALLBUS), 1998	part_of_temporal	10.3886/ICPSR02779	correct
+ALLBUS	German Social Survey (ALLBUS), 1998	part_of_translation	10.3886/ICPSR02779	correct
 Politbarometer	Politbarometer 1979 (Kumulierter Datensatz)	part_of_temporal	10.4232/1.2182	incorrect
 Politbarometer	Politbarometer 1979 (Kumulierter Datensatz)	parts_of_temporal	10.4232/1.2182	correct
 Eurobarometer	Eurobarometer 63.3 (2005)	part_of_temporal	10.4232/1.4410	correct

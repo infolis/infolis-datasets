@@ -16709,6 +16709,14 @@
                 "infolis-ontology"
             ]
         }, 
+        "dataset_ALLBUS": {
+            "entityType": "dataset", 
+            "name": "ALLBUS", 
+            "reliability": 1.0, 
+            "tags": [
+                "infolis-ontology"
+            ]
+        }, 
         "dataset_EVS": {
             "entityType": "dataset", 
             "name": "EVS", 
@@ -16736,14 +16744,6 @@
         "dataset_Politbarometer": {
             "entityType": "dataset", 
             "name": "Politbarometer", 
-            "reliability": 1.0, 
-            "tags": [
-                "infolis-ontology"
-            ]
-        }, 
-        "dataset_allbus": {
-            "entityType": "dataset", 
-            "name": "allbus", 
             "reliability": 1.0, 
             "tags": [
                 "infolis-ontology"
@@ -16984,7 +16984,7 @@
             ], 
             "toEntity": "dataset_ISSP"
         }, 
-        "entityLink_dataset_103886ICPSR02005_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR02005_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal", 
@@ -16994,9 +16994,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_103886ICPSR02005v1_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR02005v1_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -17007,7 +17007,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_103886ICPSR02088_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -17264,7 +17264,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_103886ICPSR02779_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR02779_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal", 
@@ -17274,9 +17274,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_103886ICPSR02779v1_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR02779v1_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -17287,7 +17287,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_103886ICPSR02830_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -17856,7 +17856,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_103886ICPSR03066_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR03066_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "parts_of_temporal", 
@@ -17866,9 +17866,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_103886ICPSR03066v1_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR03066v1_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -17879,7 +17879,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_103886ICPSR03208_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -20162,7 +20162,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_103886ICPSR06101_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR06101_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "parts_of_temporal", 
@@ -20172,9 +20172,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_103886ICPSR06101v1_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR06101v1_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -20185,9 +20185,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_103886ICPSR06166_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR06166_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal", 
@@ -20197,9 +20197,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_103886ICPSR06166v1_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR06166v1_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -20210,7 +20210,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_103886ICPSR06193_dataset_Politbarometer": {
             "confidence": 1.0, 
@@ -20347,7 +20347,7 @@
             ], 
             "toEntity": "dataset_Politbarometer"
         }, 
-        "entityLink_dataset_103886ICPSR06523_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR06523_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "parts_of_temporal", 
@@ -20357,9 +20357,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_103886ICPSR06523v1_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR06523v1_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -20370,9 +20370,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_103886ICPSR06524_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR06524_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal", 
@@ -20382,9 +20382,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_103886ICPSR06524v1_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR06524v1_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -20395,7 +20395,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_103886ICPSR06661_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -20787,7 +20787,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_103886ICPSR08365_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR08365_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_spatial", 
@@ -20797,9 +20797,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_103886ICPSR08365v1_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR08365v1_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -20810,9 +20810,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_103886ICPSR08453_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR08453_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "parts_of_temporal", 
@@ -20822,9 +20822,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_103886ICPSR08453v1_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR08453v1_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -20835,9 +20835,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_103886ICPSR08453v2_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR08453v2_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -20848,9 +20848,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_103886ICPSR08897_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR08897_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal", 
@@ -20860,9 +20860,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_103886ICPSR08897v1_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR08897v1_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -20873,7 +20873,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_103886ICPSR09135_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -20900,7 +20900,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_103886ICPSR09382_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR09382_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal", 
@@ -20910,9 +20910,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_103886ICPSR09382v1_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR09382v1_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -20923,7 +20923,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_103886ICPSR09698_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -20950,7 +20950,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_103886ICPSR09832_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR09832_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal", 
@@ -20960,9 +20960,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_103886ICPSR09832v1_dataset_allbus": {
+        "entityLink_dataset_103886ICPSR09832v1_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -20973,7 +20973,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_103886ICPSR20321_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -23157,7 +23157,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_10423211000_dataset_allbus": {
+        "entityLink_dataset_10423211000_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -23166,7 +23166,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232110012_dataset_EVS": {
             "confidence": 1.0, 
@@ -23902,7 +23902,7 @@
             ], 
             "toEntity": "dataset_ISSP"
         }, 
-        "entityLink_dataset_104232110080_dataset_allbus": {
+        "entityLink_dataset_104232110080_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -23912,7 +23912,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232110096_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -23937,7 +23937,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_104232110104_dataset_allbus": {
+        "entityLink_dataset_104232110104_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -23946,9 +23946,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_104232110106_dataset_allbus": {
+        "entityLink_dataset_104232110106_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal", 
@@ -23958,9 +23958,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_104232110108_dataset_allbus": {
+        "entityLink_dataset_104232110108_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -23969,9 +23969,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_104232110110_dataset_allbus": {
+        "entityLink_dataset_104232110110_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -23980,7 +23980,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232110114_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -24957,7 +24957,7 @@
             ], 
             "toEntity": "dataset_Politbarometer"
         }, 
-        "entityLink_dataset_104232110445_dataset_allbus": {
+        "entityLink_dataset_104232110445_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -24966,7 +24966,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_10423211054_dataset_Politbarometer": {
             "confidence": 1.0, 
@@ -25171,7 +25171,7 @@
             ], 
             "toEntity": "dataset_ISSP"
         }, 
-        "entityLink_dataset_104232110760_dataset_allbus": {
+        "entityLink_dataset_104232110760_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -25181,7 +25181,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232110768_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -25269,7 +25269,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_104232110832_dataset_allbus": {
+        "entityLink_dataset_104232110832_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -25279,9 +25279,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_104232110834_dataset_allbus": {
+        "entityLink_dataset_104232110834_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -25291,7 +25291,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232110844_dataset_ISSP": {
             "confidence": 1.0, 
@@ -26740,7 +26740,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_104232110977_dataset_allbus": {
+        "entityLink_dataset_104232110977_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -26750,7 +26750,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232110979_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -26956,7 +26956,7 @@
             ], 
             "toEntity": "dataset_ISSP"
         }, 
-        "entityLink_dataset_104232111000_dataset_allbus": {
+        "entityLink_dataset_104232111000_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "parts_of_temporal"
@@ -26965,9 +26965,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_104232111002_dataset_allbus": {
+        "entityLink_dataset_104232111002_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -26976,7 +26976,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232111003_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -27098,7 +27098,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_104232111138_dataset_allbus": {
+        "entityLink_dataset_104232111138_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -27108,7 +27108,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232111140_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -27701,7 +27701,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_104232111362_dataset_allbus": {
+        "entityLink_dataset_104232111362_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -27711,9 +27711,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_104232111365_dataset_allbus": {
+        "entityLink_dataset_104232111365_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -27723,7 +27723,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232111366_dataset_ISSP": {
             "confidence": 1.0, 
@@ -27820,7 +27820,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_104232111379_dataset_allbus": {
+        "entityLink_dataset_104232111379_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "parts_of_temporal"
@@ -27829,7 +27829,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232111382_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -28157,7 +28157,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_104232111485_dataset_allbus": {
+        "entityLink_dataset_104232111485_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -28166,9 +28166,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_104232111486_dataset_allbus": {
+        "entityLink_dataset_104232111486_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -28178,9 +28178,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_104232111488_dataset_allbus": {
+        "entityLink_dataset_104232111488_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "parts_of_temporal"
@@ -28189,7 +28189,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232111492_dataset_Politbarometer": {
             "confidence": 1.0, 
@@ -28276,7 +28276,7 @@
             ], 
             "toEntity": "dataset_Politbarometer"
         }, 
-        "entityLink_dataset_104232111516_dataset_allbus": {
+        "entityLink_dataset_104232111516_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "parts_of_temporal", 
@@ -28286,7 +28286,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232111523_dataset_EVS": {
             "confidence": 1.0, 
@@ -28753,7 +28753,7 @@
             ], 
             "toEntity": "dataset_ISSP"
         }, 
-        "entityLink_dataset_104232111565_dataset_allbus": {
+        "entityLink_dataset_104232111565_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -28764,7 +28764,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232111587_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -28802,7 +28802,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_104232111595_dataset_allbus": {
+        "entityLink_dataset_104232111595_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -28811,7 +28811,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232111599_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -28886,7 +28886,7 @@
             ], 
             "toEntity": "dataset_Politbarometer"
         }, 
-        "entityLink_dataset_10423211160_dataset_allbus": {
+        "entityLink_dataset_10423211160_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -28895,7 +28895,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232111610_dataset_Politbarometer": {
             "confidence": 1.0, 
@@ -29024,7 +29024,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_104232111634_dataset_allbus": {
+        "entityLink_dataset_104232111634_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -29034,9 +29034,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_104232111639_dataset_allbus": {
+        "entityLink_dataset_104232111639_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -29046,7 +29046,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232111642_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -29097,7 +29097,7 @@
             ], 
             "toEntity": "dataset_ISSP"
         }, 
-        "entityLink_dataset_104232111690_dataset_allbus": {
+        "entityLink_dataset_104232111690_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -29106,9 +29106,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_104232111692_dataset_allbus": {
+        "entityLink_dataset_104232111692_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -29117,7 +29117,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232111695_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -29177,7 +29177,7 @@
             ], 
             "toEntity": "dataset_ISSP"
         }, 
-        "entityLink_dataset_104232111753_dataset_allbus": {
+        "entityLink_dataset_104232111753_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -29187,7 +29187,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232111755_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -29286,7 +29286,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_104232111774_dataset_allbus": {
+        "entityLink_dataset_104232111774_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -29295,7 +29295,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232111776_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -29320,7 +29320,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_104232111782_dataset_allbus": {
+        "entityLink_dataset_104232111782_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -29330,7 +29330,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232111790_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -29618,7 +29618,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_104232111888_dataset_allbus": {
+        "entityLink_dataset_104232111888_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -29628,9 +29628,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_104232111898_dataset_allbus": {
+        "entityLink_dataset_104232111898_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "parts_of_temporal"
@@ -29639,9 +29639,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_104232111901_dataset_allbus": {
+        "entityLink_dataset_104232111901_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -29651,7 +29651,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232111911_dataset_ISSP": {
             "confidence": 1.0, 
@@ -29678,7 +29678,7 @@
             ], 
             "toEntity": "dataset_ISSP"
         }, 
-        "entityLink_dataset_104232111922_dataset_allbus": {
+        "entityLink_dataset_104232111922_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -29688,9 +29688,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_104232111952_dataset_allbus": {
+        "entityLink_dataset_104232111952_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "parts_of_temporal"
@@ -29699,7 +29699,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232111956_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -29823,7 +29823,7 @@
             ], 
             "toEntity": "dataset_ISSP"
         }, 
-        "entityLink_dataset_104232112048_dataset_allbus": {
+        "entityLink_dataset_104232112048_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_supplement", 
@@ -29833,7 +29833,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232112049_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -29859,7 +29859,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_104232112051_dataset_allbus": {
+        "entityLink_dataset_104232112051_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -29870,7 +29870,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232112061_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -30015,7 +30015,7 @@
             ], 
             "toEntity": "dataset_ISSP"
         }, 
-        "entityLink_dataset_104232112119_dataset_allbus": {
+        "entityLink_dataset_104232112119_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -30024,7 +30024,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232112124_dataset_Politbarometer": {
             "confidence": 1.0, 
@@ -30178,7 +30178,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_104232112209_dataset_allbus": {
+        "entityLink_dataset_104232112209_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -30188,7 +30188,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232112215_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -30355,7 +30355,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_104232112288_dataset_allbus": {
+        "entityLink_dataset_104232112288_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -30365,7 +30365,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232112312_dataset_ISSP": {
             "confidence": 1.0, 
@@ -30428,7 +30428,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_104232112345_dataset_allbus": {
+        "entityLink_dataset_104232112345_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -30438,7 +30438,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232112354_dataset_ISSP": {
             "confidence": 1.0, 
@@ -30548,7 +30548,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_104232112437_dataset_allbus": {
+        "entityLink_dataset_104232112437_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -30557,9 +30557,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_104232112439_dataset_allbus": {
+        "entityLink_dataset_104232112439_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "parts_of_temporal"
@@ -30568,7 +30568,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_104232112442_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -30924,7 +30924,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_10423211335_dataset_allbus": {
+        "entityLink_dataset_10423211335_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "parts_of_temporal"
@@ -30933,9 +30933,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_10423211340_dataset_allbus": {
+        "entityLink_dataset_10423211340_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -30944,7 +30944,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_10423211469_dataset_Politbarometer": {
             "confidence": 1.0, 
@@ -31079,7 +31079,7 @@
             ], 
             "toEntity": "dataset_ISSP"
         }, 
-        "entityLink_dataset_10423211500_dataset_allbus": {
+        "entityLink_dataset_10423211500_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -31088,7 +31088,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_10423211520_dataset_Politbarometer": {
             "confidence": 1.0, 
@@ -31277,7 +31277,7 @@
             ], 
             "toEntity": "dataset_Politbarometer"
         }, 
-        "entityLink_dataset_10423211601_dataset_allbus": {
+        "entityLink_dataset_10423211601_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -31286,7 +31286,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_10423211620_dataset_ISSP": {
             "confidence": 1.0, 
@@ -31399,7 +31399,7 @@
             ], 
             "toEntity": "dataset_Politbarometer"
         }, 
-        "entityLink_dataset_10423211669_dataset_allbus": {
+        "entityLink_dataset_10423211669_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -31408,9 +31408,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_10423211670_dataset_allbus": {
+        "entityLink_dataset_10423211670_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -31419,7 +31419,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_10423211677_dataset_Politbarometer": {
             "confidence": 1.0, 
@@ -31797,7 +31797,7 @@
             ], 
             "toEntity": "dataset_Politbarometer"
         }, 
-        "entityLink_dataset_10423211800_dataset_allbus": {
+        "entityLink_dataset_10423211800_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -31806,7 +31806,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_10423211840_dataset_ISSP": {
             "confidence": 1.0, 
@@ -32104,7 +32104,7 @@
             ], 
             "toEntity": "dataset_Politbarometer"
         }, 
-        "entityLink_dataset_10423211990_dataset_allbus": {
+        "entityLink_dataset_10423211990_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -32113,7 +32113,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_10423212003_dataset_ISSP": {
             "confidence": 1.0, 
@@ -32470,7 +32470,7 @@
             ], 
             "toEntity": "dataset_Politbarometer"
         }, 
-        "entityLink_dataset_10423212140_dataset_allbus": {
+        "entityLink_dataset_10423212140_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -32479,7 +32479,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_10423212141_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -32895,7 +32895,7 @@
             ], 
             "toEntity": "dataset_Politbarometer"
         }, 
-        "entityLink_dataset_10423212400_dataset_allbus": {
+        "entityLink_dataset_10423212400_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -32904,7 +32904,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_10423212450_dataset_ISSP": {
             "confidence": 1.0, 
@@ -33140,7 +33140,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_10423212800_dataset_allbus": {
+        "entityLink_dataset_10423212800_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -33149,7 +33149,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_10423212802_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -33335,7 +33335,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_10423213000_dataset_allbus": {
+        "entityLink_dataset_10423213000_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -33344,7 +33344,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_10423213045_dataset_Politbarometer": {
             "confidence": 1.0, 
@@ -33609,7 +33609,7 @@
             ], 
             "toEntity": "dataset_ISSP"
         }, 
-        "entityLink_dataset_10423213450_dataset_allbus": {
+        "entityLink_dataset_10423213450_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -33618,9 +33618,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_10423213451_dataset_allbus": {
+        "entityLink_dataset_10423213451_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal", 
@@ -33630,9 +33630,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_10423213452_dataset_allbus": {
+        "entityLink_dataset_10423213452_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal", 
@@ -33642,7 +33642,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_10423213506_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -33848,7 +33848,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_10423213700_dataset_allbus": {
+        "entityLink_dataset_10423213700_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -33857,9 +33857,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_10423213751_dataset_allbus": {
+        "entityLink_dataset_10423213751_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -33868,9 +33868,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_10423213753_dataset_allbus": {
+        "entityLink_dataset_10423213753_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -33879,9 +33879,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_10423213762_dataset_allbus": {
+        "entityLink_dataset_10423213762_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -33890,7 +33890,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_10423213776_dataset_EVS": {
             "confidence": 1.0, 
@@ -34752,7 +34752,7 @@
             ], 
             "toEntity": "dataset_Eurobarometer"
         }, 
-        "entityLink_dataset_10423214241_dataset_allbus": {
+        "entityLink_dataset_10423214241_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "parts_of_temporal"
@@ -34761,9 +34761,9 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
-        "entityLink_dataset_10423214243_dataset_allbus": {
+        "entityLink_dataset_10423214243_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "parts_of_temporal"
@@ -34772,7 +34772,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_10423214246_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -34938,7 +34938,7 @@
             ], 
             "toEntity": "dataset_EVS"
         }, 
-        "entityLink_dataset_10423214500_dataset_allbus": {
+        "entityLink_dataset_10423214500_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -34947,7 +34947,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_10423214505_dataset_Eurobarometer": {
             "confidence": 1.0, 
@@ -35028,7 +35028,7 @@
             ], 
             "toEntity": "dataset_Politbarometer"
         }, 
-        "entityLink_dataset_10423214600_dataset_allbus": {
+        "entityLink_dataset_10423214600_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "part_of_temporal"
@@ -35037,7 +35037,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }, 
         "entityLink_dataset_10423214700_dataset_ISSP": {
             "confidence": 1.0, 
@@ -35191,7 +35191,7 @@
             ], 
             "toEntity": "dataset_Politbarometer"
         }, 
-        "entityLink_dataset_107478s00011v1_dataset_allbus": {
+        "entityLink_dataset_107478s00011v1_dataset_ALLBUS": {
             "confidence": 1.0, 
             "entityRelations": [
                 "version_of", 
@@ -35202,7 +35202,7 @@
             "tags": [
                 "infolis-ontology"
             ], 
-            "toEntity": "dataset_allbus"
+            "toEntity": "dataset_ALLBUS"
         }
     }
 }
