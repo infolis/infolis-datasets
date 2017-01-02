@@ -3,6 +3,7 @@
 
 import sys
 import os
+import re
 
 def readTxt(filename):
     with open(filename, "r") as f:
@@ -10,12 +11,16 @@ def readTxt(filename):
 
 def convert(lines):
     convertedLines = []
-    for i in range(len(lines)):
-        words = lines[i].split()
+    i = 0
+    for line in lines:
+        if re.match("\s+", line):
+            continue
+        words = line.split()
         newLine = []
         for j in range(len(words)):
             newLine.extend(str(i+1) + "-" + str(j+1) + "\t" + words[j] + "\n")
         convertedLines.append(newLine)
+        i+=1
     return convertedLines
 
 def writeTsv(lines, filename):
