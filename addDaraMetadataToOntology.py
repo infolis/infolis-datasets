@@ -44,6 +44,7 @@ def removeEmpty(list):
     
 def queryDara(datasetId):
     query = "http://www.da-ra.de/solr/dara/select/?q=doi:" + datasetId + "&wt=json"
+    sys.stderr.write(query+"\n")
     return json.load(urllib2.urlopen(query))
     
 def addMetadataToEntities(metadataMap, entities):
