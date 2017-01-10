@@ -1,0 +1,75 @@
+﻿Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008
+Socio-Economic Panel Study (SOEP), data from 1984-2008
+10.5684/soep.v25
+
+Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009
+Socio-Economic Panel Study (SOEP), data from 1984-2009
+10.5684/soep.v26
+
+Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2013
+Socio-Economic Panel (SOEP), data from 1984-2013
+10.5684/soep.v30
+
+Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2013 (internationale Version), Scientific Use File zur internationalen Nutzung (95%-Version)
+Socio-Economic Panel (SOEP), data from 1984-2013 (international Version),
+10.5684/soep.v30i
+
+Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2013 (internationale Version), Scientific Use File zur internationalen Nutzung (95%-Version)
+Socio-Economic Panel (SOEP), data from 1984-2013 (international Version)
+10.5684/soep.v30ibeta
+
+Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2013
+Socio-Economic Panel (SOEP), data from 1984-2013
+10.5684/soep.v30beta
+
+Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2012
+Socio-Economic Panel (SOEP), data from 1984-2012
+10.5684/soep.v29.1
+
+Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011, Scientific Use File zur internationalen Nutzung (95%-Version)
+Socio-Economic Panel Study (SOEP), data from 1984-2011
+10.5684/soep.v28.1i
+
+Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2012
+Socio-Economic Panel (SOEP), data from 1984-2012
+10.5684/soep.v29
+
+Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2014
+Socio-Economic Panel (SOEP), data from 1984-2014
+10.5684/soep.v31.1
+
+Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2014 (internationale Version), Scientific Use File zur internationalen Nutzung (95%-Version)
+Socio-Economic Panel (SOEP), data from 1984-2014 (international Version)
+10.5684/soep.v31.1i
+
+Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2014
+Socio-Economic Panel (SOEP), data from 1984-2014
+10.5684/soep.v31
+
+Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2014 (internationale Version), Scientific Use File zur internationalen Nutzung (95%-Version)
+Socio-Economic Panel (SOEP), data from 1984-2014 (international Version)
+10.5684/soep.v31i
+
+Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010
+Socio-Economic Panel Study (SOEP), data from 1984-2010
+10.5684/soep.v27
+
+Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010
+Socio-Economic Panel Study (SOEP), data from 1984-2010
+10.5684/soep.v27.1
+
+Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010
+Socio-Economic Panel Study (SOEP), data from 1984-2010
+10.5684/soep.v27.2
+
+Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010
+Socio-Economic Panel Study (SOEP), data from 1984-2010
+10.5684/soep.v27.2i
+
+Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011
+Socio-Economic Panel Study (SOEP), data from 1984-2011
+10.5684/soep.v28.1
+
+Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011
+Socio-Economic Panel Study (SOEP), data from 1984-2011
+10.5684/soep.v28

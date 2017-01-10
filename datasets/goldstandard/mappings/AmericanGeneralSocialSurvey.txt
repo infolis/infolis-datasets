@@ -1,0 +1,591 @@
+﻿
+General Social Survey, 1974,Version 1,General Social Survey Series
+10.3886/ICPSR07341.v1
+
+
+General Social Survey, 1975,Archival Version,General Social Survey Series
+10.3886/ICPSR07367
+
+
+General Social Survey, 1975,Version 1,General Social Survey Series
+10.3886/ICPSR07367.v1
+
+
+General Social Survey, 1976,Archival Version,General Social Survey Series
+10.3886/ICPSR07398
+
+
+General Social Survey, 1976,Version 1,General Social Survey Series
+10.3886/ICPSR07398.v1
+
+
+General Social Survey, 1977,Archival Version,General Social Survey Series
+10.3886/ICPSR07573
+
+
+General Social Survey, 1977,Version 1,General Social Survey Series
+10.3886/ICPSR07573.v1
+
+
+General Social Survey, 1972,Archival Version,General Social Survey Series
+10.3886/ICPSR07309
+
+
+General Social Survey, 1972,Version 1,General Social Survey Series
+10.3886/ICPSR07309.v1
+
+
+General Social Survey, 1973,Archival Version,General Social Survey Series
+10.3886/ICPSR07315
+
+
+General Social Survey, 1973,Version 1,General Social Survey Series
+10.3886/ICPSR07315.v1
+
+
+General Social Survey, 1974,Archival Version,General Social Survey Series
+10.3886/ICPSR07341
+
+
+General Social Survey, 1972,Archival Version
+10.3886/ICPSR35300
+
+
+General Social Survey, 1972,Version 1
+10.3886/ICPSR35300.v1
+
+
+General Social Survey, 1973,Archival Version
+10.3886/ICPSR35301
+
+
+General Social Survey, 1973,Version 1
+10.3886/ICPSR35301.v1
+
+
+General Social Survey, 1974,Archival Version
+10.3886/ICPSR35302
+
+
+General Social Survey, 1974,Version 1
+10.3886/ICPSR35302.v1
+
+
+General Social Survey, 1975,Archival Version
+10.3886/ICPSR35303
+
+
+General Social Survey, 1975,Version 1
+10.3886/ICPSR35303.v1
+
+
+General Social Survey, 1976,Archival Version
+10.3886/ICPSR35304
+
+
+General Social Survey, 1976,Version 1
+10.3886/ICPSR35304.v1
+
+
+General Social Survey, 1977,Archival Version
+10.3886/ICPSR35305
+
+
+General Social Survey, 1977,Version 1
+10.3886/ICPSR35305.v1
+
+
+General Social Survey, 1978,Archival Version
+10.3886/ICPSR35307
+
+
+General Social Survey, 1978,Version 1
+10.3886/ICPSR35307.v1
+
+
+General Social Survey, 1980,Archival Version
+10.3886/ICPSR35310
+
+
+General Social Survey, 1980,Version 1
+10.3886/ICPSR35310.v1
+
+
+General Social Survey, 1982,Archival Version
+10.3886/ICPSR35311
+
+
+General Social Survey, 1982,Version 1
+10.3886/ICPSR35311.v1
+
+
+General Social Survey, 1983,Archival Version
+10.3886/ICPSR35312
+
+
+General Social Survey, 1983,Version 1
+10.3886/ICPSR35312.v1
+
+
+General Social Survey, 1984,Archival Version
+10.3886/ICPSR35313
+
+
+General Social Survey, 1984,Version 1
+10.3886/ICPSR35313.v1
+
+
+General Social Survey, 1985,Archival Version
+10.3886/ICPSR35314
+
+
+General Social Survey, 1985,Version 1
+10.3886/ICPSR35314.v1
+
+
+General Social Survey, 1986,Archival Version
+10.3886/ICPSR35315
+
+
+General Social Survey, 1986,Version 1
+10.3886/ICPSR35315.v1
+
+
+General Social Survey, 1987,Archival Version
+10.3886/ICPSR35316
+
+
+General Social Survey, 1987,Version 1
+10.3886/ICPSR35316.v1
+
+
+General Social Survey, 1988,Archival Version
+10.3886/ICPSR35317
+
+
+General Social Survey, 1988,Version 1
+10.3886/ICPSR35317.v1
+
+
+General Social Survey, 1989,Archival Version
+10.3886/ICPSR35318
+
+
+General Social Survey, 1989,Version 1
+10.3886/ICPSR35318.v1
+
+
+General Social Survey, 1990,Archival Version
+10.3886/ICPSR35320
+
+
+General Social Survey, 1990,Version 1
+10.3886/ICPSR35320.v1
+
+
+General Social Survey, 1991,Archival Version
+10.3886/ICPSR35321
+
+
+General Social Survey, 1991,Version 1
+10.3886/ICPSR35321.v1
+
+
+General Social Survey, 1993,Archival Version
+10.3886/ICPSR35322
+
+
+General Social Survey, 1993,Version 1
+10.3886/ICPSR35322.v1
+
+
+General Social Survey, 1994,Archival Version
+10.3886/ICPSR35323
+
+
+General Social Survey, 1994,Version 1
+10.3886/ICPSR35323.v1
+
+
+General Social Survey, 1996,Archival Version
+10.3886/ICPSR35324
+
+
+General Social Survey, 1996,Version 1
+10.3886/ICPSR35324.v1
+
+
+General Social Survey, 1998,Archival Version
+10.3886/ICPSR35325
+
+
+General Social Survey, 1998,Version 1
+10.3886/ICPSR35325.v1
+
+
+General Social Survey, 2000,Archival Version
+10.3886/ICPSR35326
+
+
+General Social Survey, 2000,Version 1
+10.3886/ICPSR35326.v1
+
+
+General Social Survey, 2002,Archival Version
+10.3886/ICPSR35327
+
+
+General Social Survey, 2002,Version 1
+10.3886/ICPSR35327.v1
+
+
+General Social Survey, 2004,Archival Version
+10.3886/ICPSR35328
+
+
+General Social Survey, 2004,Version 1
+10.3886/ICPSR35328.v1
+
+
+General Social Survey, 2006,Archival Version
+10.3886/ICPSR35329
+
+
+General Social Survey, 2006,Version 1
+10.3886/ICPSR35329.v1
+
+
+General Social Survey, 2008,Archival Version
+10.3886/ICPSR35330
+
+
+General Social Survey, 2008,Version 1
+10.3886/ICPSR35330.v1
+
+
+General Social Survey, 2010,Archival Version
+10.3886/ICPSR35331
+
+
+General Social Survey, 2010,Version 1
+10.3886/ICPSR35331.v1
+
+
+General Social Survey, 2012,Archival Version
+10.3886/ICPSR35332
+
+
+General Social Survey, 2012,Version 1
+10.3886/ICPSR35332.v1
+
+
+General Social Survey, 1972,Version 2
+10.3886/ICPSR35300.v2
+
+
+General Social Survey, 1973,Version 2
+10.3886/ICPSR35301.v2
+
+
+General Social Survey, 1974,Version 2
+10.3886/ICPSR35302.v2
+
+
+General Social Survey, 1975,Version 2
+10.3886/ICPSR35303.v2
+
+
+General Social Survey, 1976,Version 2
+10.3886/ICPSR35304.v2
+
+
+General Social Survey, 1977,Version 2
+10.3886/ICPSR35305.v2
+
+
+General Social Survey, 1978,Version 2
+10.3886/ICPSR35307.v2
+
+
+General Social Survey, 1980,Version 2
+10.3886/ICPSR35310.v2
+
+
+General Social Survey, 1982,Version 2
+10.3886/ICPSR35311.v2
+
+
+General Social Survey, 1983,Version 2
+10.3886/ICPSR35312.v2
+
+
+General Social Survey, 1984,Version 2
+10.3886/ICPSR35313.v2
+
+
+General Social Survey, 1985,Version 2
+10.3886/ICPSR35314.v2
+
+
+General Social Survey, 1986,Version 2
+10.3886/ICPSR35315.v2
+
+
+General Social Survey, 1987,Version 2
+10.3886/ICPSR35316.v2
+
+
+General Social Survey, 1988,Version 2
+10.3886/ICPSR35317.v2
+
+
+General Social Survey, 1989,Version 2
+10.3886/ICPSR35318.v2
+
+
+General Social Survey, 1990,Version 2
+10.3886/ICPSR35320.v2
+
+
+General Social Survey, 1991,Version 2
+10.3886/ICPSR35321.v2
+
+
+General Social Survey, 1993,Version 2
+10.3886/ICPSR35322.v2
+
+
+General Social Survey, 1994,Version 2
+10.3886/ICPSR35323.v2
+
+
+General Social Survey, 1996,Version 2
+10.3886/ICPSR35324.v2
+
+
+General Social Survey, 1998,Version 2
+10.3886/ICPSR35325.v2
+
+
+General Social Survey, 2000,Version 2
+10.3886/ICPSR35326.v2
+
+
+General Social Survey, 2002,Version 2
+10.3886/ICPSR35327.v2
+
+
+General Social Survey, 2004,Version 2
+10.3886/ICPSR35328.v2
+
+
+General Social Survey, 2006,Version 2
+10.3886/ICPSR35329.v2
+
+
+General Social Survey, 2008,Version 2
+10.3886/ICPSR35330.v2
+
+
+General Social Survey, 2010,Version 2
+10.3886/ICPSR35331.v2
+
+
+General Social Survey, 2012,Version 2
+10.3886/ICPSR35332.v2
+
+
+General Social Survey, 2002,Version 3
+10.3886/ICPSR35327.v3
+
+
+General Social Survey, 2004,Version 3
+10.3886/ICPSR35328.v3
+
+
+General Social Survey, 2006,Version 3
+10.3886/ICPSR35329.v3
+
+
+General Social Survey, 2008,Version 3
+10.3886/ICPSR35330.v3
+
+
+General Social Survey, 2010,Version 3
+10.3886/ICPSR35331.v3
+
+
+General Social Survey, 2012,Version 3
+10.3886/ICPSR35332.v3
+
+
+General Social Survey, 1972,Version 3
+10.3886/ICPSR35300.v3
+
+
+General Social Survey, 1973,Version 3
+10.3886/ICPSR35301.v3
+
+
+General Social Survey, 1974,Version 3
+10.3886/ICPSR35302.v3
+
+
+General Social Survey, 1975,Version 3
+10.3886/ICPSR35303.v3
+
+
+General Social Survey, 1976,Version 3
+10.3886/ICPSR35304.v3
+
+
+General Social Survey, 1977,Version 3
+10.3886/ICPSR35305.v3
+
+
+General Social Survey, 1978,Version 3
+10.3886/ICPSR35307.v3
+
+
+General Social Survey, 1980,Version 3
+10.3886/ICPSR35310.v3
+
+
+General Social Survey, 1982,Version 3
+10.3886/ICPSR35311.v3
+
+
+General Social Survey, 1983,Version 3
+10.3886/ICPSR35312.v3
+
+
+General Social Survey, 1984,Version 3
+10.3886/ICPSR35313.v3
+
+
+General Social Survey, 1985,Version 3
+10.3886/ICPSR35314.v3
+
+
+General Social Survey, 1986,Version 3
+10.3886/ICPSR35315.v3
+
+
+General Social Survey, 1987,Version 3
+10.3886/ICPSR35316.v3
+
+
+General Social Survey, 1988,Version 3
+10.3886/ICPSR35317.v3
+
+
+General Social Survey, 1989,Version 3
+10.3886/ICPSR35318.v3
+
+
+General Social Survey, 1990,Version 3
+10.3886/ICPSR35320.v3
+
+
+General Social Survey, 1991,Version 3
+10.3886/ICPSR35321.v3
+
+
+General Social Survey, 1993,Version 3
+10.3886/ICPSR35322.v3
+
+
+General Social Survey, 1994,Version 3
+10.3886/ICPSR35323.v3
+
+
+General Social Survey, 1996,Version 3
+10.3886/ICPSR35324.v3
+
+
+General Social Survey, 1998,Version 3
+10.3886/ICPSR35325.v3
+
+
+General Social Survey, 2000,Version 3
+10.3886/ICPSR35326.v3
+
+
+General Social Survey Cumulative File, 1972-1986,Archival Version,General Social Survey Series
+10.3886/ICPSR08609
+
+
+General Social Survey Cumulative File, 1972-1986,Version 1,General Social Survey Series
+10.3886/ICPSR08609.v1
+
+
+General Social Survey of the European USSR, April-May 1991,Archival Version,General Social Survey Series
+10.3886/ICPSR06500
+
+
+General Social Survey of the European USSR, April-May 1991,Version 1,General Social Survey Series
+10.3886/ICPSR06500.v1
+
+
+Occupational Prestige Ratings from the 1989 General Social Survey,Archival Version,General Social Survey Series
+10.3886/ICPSR09593
+
+
+Occupational Prestige Ratings from the 1989 General Social Survey,Version 1,General Social Survey Series
+10.3886/ICPSR09593.v1
+
+
+General Social Survey, 1972-2014 [Cumulative File],Version 1,General Social Survey Series
+10.3886/ICPSR36319.v1
+
+
+General Social Survey, 1972-2014 [Cumulative File],Archival Version,General Social Survey Series
+10.3886/ICPSR36319
+
+
+General Social Survey, 1972-2014 [Cumulative File],Version 2,General Social Survey Series
+10.3886/ICPSR36319.v2
+
+
+General Social Survey [United States] and German Social Survey (ALLBUS) Combined Files, 1982,Archival Version,General Social Survey Series
+10.3886/ICPSR08365
+
+
+General Social Survey [United States] and German Social Survey (ALLBUS) Combined Files, 1982,Version 1,General Social Survey Series
+10.3886/ICPSR08365.v1
+
+
+ICPSR Instructional Subset: General Social Survey, 1975,Archival Version,Instructional Subset Series
+10.3886/ICPSR07527
+
+
+ICPSR Instructional Subset: General Social Survey, 1975,Version 1,Instructional Subset Series
+10.3886/ICPSR07527.v1
+
+
+General Social Survey, 2012 Merged Data, Including a Cultural Module [United States],Archival Version
+10.3886/ICPSR35478
+
+
+General Social Survey, 2012 Merged Data, Including a Cultural Module [United States],Version 1
+10.3886/ICPSR35478.v1
+
+
+General Social Survey, 2012 Merged Data, Including a Cultural Module [United States],Version 4
+10.3886/ICPSR35478.v4
+
+
+General Social Survey, 2012 Merged Data, Including a Cultural Module [United States],Version 3
+10.3886/ICPSR35478.v3
+
+
+General Social Survey, 2012 Merged Data, Including a Cultural Module [United States],Version 2
+10.3886/ICPSR35478.v2
+
+
+General Social Survey, 1993, 1998, 2000, 2002 with Cultural, Information Security, and Freedom Modules [United States],Archival Version
+10.3886/ICPSR35536
+
+
+General Social Survey, 1993, 1998, 2000, 2002 with Cultural, Information Security, and Freedom Modules [United States],Version 1
+10.3886/ICPSR35536.v1

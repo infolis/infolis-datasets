@@ -2,6 +2,7 @@ import ontologyTsv2Json
 import json
 import sys
 import re
+import os.path
 
 class GoldConverter(ontologyTsv2Json.OntoConverter):
 
@@ -10,10 +11,8 @@ class GoldConverter(ontologyTsv2Json.OntoConverter):
             if len(vals) == 5:
                 reference, numericInfo, docs, uncertain, datasetIds = vals
                 
-                # TODO enhance goldstandard to contain links for "kandidaten: ..." entries
-                # for now, ignore them
-                if datasetIds.strip().lower().startswith("kandidaten"):
-                    continue
+                if datasetIds.strip().lower().startswith("<") and datasetIds.strip().lower().endswith(".txt>"):
+                    datasetIds = self.loadIdsFromMappingsFile(datasetIds.strip().replace("<", "").replace(">",""))
                 
                 citedDataIdentifier = self.toCitedDataId(reference, numericInfo)
                 citedDataEntity = self.newEntity(reference, "citedData")
@@ -35,6 +34,15 @@ class GoldConverter(ontologyTsv2Json.OntoConverter):
             else:
                 sys.stderr.write("warning, don't know how to process line: '%s'. Ignoring\n" %str(vals))
                 
+            
+    def loadIdsFromMappingsFile(self, filename):
+        mappingDir = "./datasets/goldstandard/mappings/"
+        with open(os.path.join(mappingDir, filename), "r") as f:
+            content = f.read()
+        
+        return ";".join(re.findall("10\.\S+", content))
+        
+            
     def toJson(self):
         obj = { "entity": {}, "entityLink": {} }
         self.linesToJson()

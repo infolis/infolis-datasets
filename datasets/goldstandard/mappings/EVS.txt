@@ -1,0 +1,803 @@
+﻿EVS - European Values Study 1999 - Niederlande
+EVS - European Values Study 1999 - Netherlands
+10.4232/1.3783
+
+EVS - European Values Study 1999 - Polen
+EVS - European Values Study 1999 - Poland
+10.4232/1.3794
+
+EVS - European Values Study 1999 - Griechenland
+EVS - European Values Study 1999 - Greece
+10.4232/1.3801
+
+EVS - European Values Study 1999 - Slowenien
+EVS - European Values Study 1999 - Slovenia
+10.4232/1.3805
+
+EVS - European Values Study 1999 - Integrierter Datensatz
+EVS - European Values Study 1999 - Integrated Dataset
+10.4232/1.10789
+
+EVS - European Values Study 1981 - Integrated Dataset
+EVS - European Values Study 1981 - Integrated Dataset
+10.4232/1.10791
+
+EVS - European Values Study 1990 - Integrated Dataset
+EVS - European Values Study 1990 - Integrated Dataset
+10.4232/1.10790
+
+European Values Study 2008: Croatia (EVS 2008)
+European Values Study 2008: Croatia (EVS 2008)
+10.4232/1.10051
+
+European Values Study 2008: France (EVS 2008)
+European Values Study 2008: France (EVS 2008)
+10.4232/1.10198
+
+European Values Study 2008: Great Britain (EVS 2008)
+European Values Study 2008: Great Britain (EVS 2008)
+10.4232/1.10028
+
+European Values Study 2008: Germany (EVS 2008)
+European Values Study 2008: Germany (EVS 2008)
+10.4232/1.10151
+
+European Values Study 2008: Austria (EVS 2008)
+European Values Study 2008: Austria (EVS 2008)
+10.4232/1.10152
+
+European Values Study 2008: Italy (EVS 2008)
+European Values Study 2008: Italy (EVS 2008)
+10.4232/1.10031
+
+European Values Study 2008: Spain (EVS 2008)
+European Values Study 2008: Spain (EVS 2008)
+10.4232/1.10153
+
+European Values Study 2008: Portugal (EVS 2008)
+European Values Study 2008: Portugal (EVS 2008)
+10.4232/1.10154
+
+European Values Study 2008: Netherlands (EVS 2008)
+European Values Study 2008: Netherlands (EVS 2008)
+10.4232/1.10155
+
+European Values Study 2008: Belgium (EVS 2008)
+European Values Study 2008: Belgium (EVS 2008)
+10.4232/1.10156
+
+European Values Study 2008: Denmark (EVS 2008)
+European Values Study 2008: Denmark (EVS 2008)
+10.4232/1.10157
+
+European Values Study 2008: Sweden (EVS 2008)
+European Values Study 2008: Sweden (EVS 2008)
+10.4232/1.10037
+
+European Values Study 2008: Finland (EVS 2008)
+European Values Study 2008: Finland (EVS 2008)
+10.4232/1.10158
+
+European Values Study 2008: Iceland (EVS 2008)
+European Values Study 2008: Iceland (EVS 2008)
+10.4232/1.10039
+
+European Values Study 2008: Northern Ireland (EVS 2008)
+European Values Study 2008: Northern Ireland (EVS 2008)
+10.4232/1.10159
+
+European Values Study 2008: Ireland (EVS 2008)
+European Values Study 2008: Ireland (EVS 2008)
+10.4232/1.10160
+
+European Values Study 2008: Estonia (EVS 2008)
+European Values Study 2008: Estonia (EVS 2008)
+10.4232/1.10161
+
+European Values Study 2008: Latvia (EVS 2008)
+European Values Study 2008: Latvia (EVS 2008)
+10.4232/1.10162
+
+European Values Study 2008: Lithuania (EVS 2008)
+European Values Study 2008: Lithuania (EVS 2008)
+10.4232/1.10163
+
+European Values Study 2008: Poland (EVS 2008)
+European Values Study 2008: Poland (EVS 2008)
+10.4232/1.10164
+
+European Values Study 2008: Czech Republic (EVS 2008)
+European Values Study 2008: Czech Republic (EVS 2008)
+10.4232/1.10165
+
+European Values Study 2008: Slovak Republic (EVS 2008)
+European Values Study 2008: Slovak Republic (EVS 2008)
+10.4232/1.10166
+
+European Values Study 2008: Hungary (EVS 2008)
+European Values Study 2008: Hungary (EVS 2008)
+10.4232/1.10167
+
+European Values Study 2008: Romania (EVS 2008)
+European Values Study 2008: Romania (EVS 2008)
+10.4232/1.10168
+
+European Values Study 2008: Bulgaria (EVS 2008)
+European Values Study 2008: Bulgaria (EVS 2008)
+10.4232/1.10169
+
+European Values Study 2008: Greece (EVS 2008)
+European Values Study 2008: Greece (EVS 2008)
+10.4232/1.10148
+
+European Values Study 2008: Russian Federation (EVS 2008)
+European Values Study 2008: Russian Federation (EVS 2008)
+10.4232/1.10170
+
+European Values Study 2008: Malta (EVS 2008)
+European Values Study 2008: Malta (EVS 2008)
+10.4232/1.10171
+
+European Values Study 2008: Luxembourg (EVS 2008)
+European Values Study 2008: Luxembourg (EVS 2008)
+10.4232/1.10172
+
+European Values Study 2008: Slovenia (EVS 2008)
+European Values Study 2008: Slovenia (EVS 2008)
+10.4232/1.10173
+
+European Values Study 2008: Ukraine (EVS 2008)
+European Values Study 2008: Ukraine (EVS 2008)
+10.4232/1.10174
+
+European Values Study 2008: Belarus (EVS 2008)
+European Values Study 2008: Belarus (EVS 2008)
+10.4232/1.10175
+
+European Values Study 2008: Albania (EVS 2008)
+European Values Study 2008: Albania (EVS 2008)
+10.4232/1.10176
+
+European Values Study 2008: Armenia (EVS 2008)
+European Values Study 2008: Armenia (EVS 2008)
+10.4232/1.10177
+
+European Values Study 2008: Azerbaijan (EVS 2008)
+European Values Study 2008: Azerbaijan (EVS 2008)
+10.4232/1.10178
+
+European Values Study 2008: Bosnia-Herzegovina (EVS 2008)
+European Values Study 2008: Bosnia-Herzegovina (EVS 2008)
+10.4232/1.10179
+
+European Values Study 2008: Cyprus (EVS 2008)
+European Values Study 2008: Cyprus (EVS 2008)
+10.4232/1.10180
+
+European Values Study 2008: Northern Cyprus (EVS 2008)
+European Values Study 2008: Northern Cyprus (EVS 2008)
+10.4232/1.10181
+
+European Values Study 2008: Georgia (EVS 2008)
+European Values Study 2008: Georgia (EVS 2008)
+10.4232/1.10182
+
+European Values Study 2008: Kosovo (EVS 2008)
+European Values Study 2008: Kosovo (EVS 2008)
+10.4232/1.10183
+
+European Values Study 2008: Turkey (EVS 2008)
+European Values Study 2008: Turkey (EVS 2008)
+10.4232/1.10020
+
+European Values Study 2008: Norway (EVS 2008)
+European Values Study 2008: Norway (EVS 2008)
+10.4232/1.10024
+
+European Values Study 2008: Serbia (EVS 2008)
+European Values Study 2008: Serbia (EVS 2008)
+10.4232/1.10186
+
+European Values Study 2008: Switzerland (EVS 2008)
+European Values Study 2008: Switzerland (EVS 2008)
+10.4232/1.10187
+
+European Values Study 2008: Integrated Dataset (EVS 2008)
+European Values Study 2008: Integrated Dataset (EVS 2008)
+10.4232/1.11004
+
+EVS - European Values Study 1981 - Integrated Dataset
+EVS - European Values Study 1981 - Integrated Dataset
+10.4232/1.4438
+
+EVS - European Values Study 1990 - Integrated Dataset
+EVS - European Values Study 1990 - Integrated Dataset
+10.4232/1.4460
+
+EVS - European Values Study 1999 - Frankreich
+EVS - European Values Study 1999 - France
+10.4232/1.11533
+
+EVS - European Values Study 1999 - Großbritannien
+EVS - European Values Study 1999 - Great Britain
+10.4232/1.11535
+
+EVS - European Values Study 1999 - Deutschland
+EVS - European Values Study 1999 - Germany
+10.4232/1.11534
+
+EVS - European Values Study 1999 - Österreich
+EVS - European Values Study 1999 - Austria
+10.4232/1.11523
+
+EVS - European Values Study 1999 - Italien
+EVS - European Values Study 1999 - Italy
+10.4232/1.11542
+
+EVS - European Values Study 1999 - Spanien
+EVS - European Values Study 1999 - Spain
+10.4232/1.11554
+
+EVS - European Values Study 1999 - Portugal
+EVS - European Values Study 1999 - Portugal
+10.4232/1.11549
+
+EVS - European Values Study 1999 - Niederlande
+EVS - European Values Study 1999 - Netherlands
+10.4232/1.11547
+
+EVS - European Values Study 1999 - Belgien
+EVS - European Values Study 1999 - Belgium
+10.4232/1.11525
+
+EVS - European Values Study 1999 - Dänemark
+EVS - European Values Study 1999 - Denmark
+10.4232/1.11530
+
+EVS - European Values Study 1999 - Schweden
+EVS - European Values Study 1999 - Sweden
+10.4232/1.11555
+
+EVS - European Values Study 1999 - Finnland
+EVS - European Values Study 1999 - Finland
+10.4232/1.11532
+
+EVS - European Values Study 1999 - Island
+EVS - European Values Study 1999 - Iceland
+10.4232/1.11539
+
+EVS - European Values Study 1999 - Nordirland
+EVS - European Values Study 1999 - Northern Ireland
+10.4232/1.11541
+
+EVS - European Values Study 1999 - Irland
+EVS - European Values Study 1999 - Ireland
+10.4232/1.11540
+
+EVS - European Values Study 1999 - Estland
+EVS - European Values Study 1999 - Estonia
+10.4232/1.11531
+
+EVS - European Values Study 1999 - Lettland
+EVS - European Values Study 1999 - Latvia
+10.4232/1.11543
+
+EVS - European Values Study 1999 - Litauen
+EVS - European Values Study 1999 - Lithuania
+10.4232/1.11544
+
+EVS - European Values Study 1999 - Polen
+EVS - European Values Study 1999 - Poland
+10.4232/1.11548
+
+EVS - European Values Study 1999 - Tschechische Republik
+EVS - European Values Study 1999 - Czech Republic
+10.4232/1.11528
+
+EVS - European Values Study 1999 - Slowakei
+EVS - European Values Study 1999 - Slovakia
+10.4232/1.11552
+
+EVS - European Values Study 1999 - Ungarn
+EVS - European Values Study 1999 - Hungary
+10.4232/1.11537
+
+EVS - European Values Study 1999 - Rumänien
+EVS - European Values Study 1999 - Romania
+10.4232/1.11550
+
+EVS - European Values Study 1999 - Bulgarien
+EVS - European Values Study 1999 - Bulgaria
+10.4232/1.11526
+
+EVS - European Values Study 1999 - Kroatien
+EVS - European Values Study 1999 - Croatia
+10.4232/1.11527
+
+EVS - European Values Study 1999 - Türkei
+EVS - European Values Study 1999 - Turkey
+10.4232/1.11556
+
+EVS - European Values Study 1999 - Weißrussland
+EVS - European Values Study 1999 - Belarus
+10.4232/1.11524
+
+EVS - European Values Study 1999 - Ukraine
+EVS - European Values Study 1999 - Ukraine
+10.4232/1.11557
+
+EVS - European Values Study 1999 - Slowenien
+EVS - European Values Study 1999 - Slovenia
+10.4232/1.11553
+
+EVS - European Values Study 1999 - Luxemburg
+EVS - European Values Study 1999 - Luxembourg
+10.4232/1.11545
+
+EVS - European Values Study 1999 - Malta
+EVS - European Values Study 1999 - Malta
+10.4232/1.11546
+
+EVS - European Values Study 1999 - Russland
+EVS - European Values Study 1999 - Russia
+10.4232/1.11551
+
+EVS - European Values Study 1999 - Griechenland
+EVS - European Values Study 1999 - Greece
+10.4232/1.11536
+
+EVS - European Values Study 1999 - Italien
+EVS - European Values Study 1999 - Italy
+10.4232/1.11178
+
+EVS - European Values Study 1999 - Kroatien
+EVS - European Values Study 1999 - Croatia
+10.4232/1.11165
+
+EVS - European Values Study 1999 - Österreich
+EVS - European Values Study 1999 - Austria
+10.4232/1.11161
+
+European Values Study 2008: Latvia (EVS 2008)
+European Values Study 2008: Latvia (EVS 2008)
+10.4232/1.10043
+
+European Values Study 2008: Lithuania (EVS 2008)
+European Values Study 2008: Lithuania (EVS 2008)
+10.4232/1.10044
+
+European Values Study 2008: Poland (EVS 2008)
+European Values Study 2008: Poland (EVS 2008)
+10.4232/1.10045
+
+European Values Study 2008: Czech Republic (EVS 2008)
+European Values Study 2008: Czech Republic (EVS 2008)
+10.4232/1.10046
+
+European Values Study 2008: Slovak Republic (EVS 2008)
+European Values Study 2008: Slovak Republic (EVS 2008)
+10.4232/1.10047
+
+European Values Study 2008: Hungary (EVS 2008)
+European Values Study 2008: Hungary (EVS 2008)
+10.4232/1.10048
+
+European Values Study 2008: Romania (EVS 2008)
+European Values Study 2008: Romania (EVS 2008)
+10.4232/1.10049
+
+European Values Study 2008: Bulgaria (EVS 2008)
+European Values Study 2008: Bulgaria (EVS 2008)
+10.4232/1.10050
+
+European Values Study 2008: Greece (EVS 2008)
+European Values Study 2008: Greece (EVS 2008)
+10.4232/1.10052
+
+European Values Study 2008: Russian Federation (EVS 2008)
+European Values Study 2008: Russian Federation (EVS 2008)
+10.4232/1.10053
+
+European Values Study 2008: Malta (EVS 2008)
+European Values Study 2008: Malta (EVS 2008)
+10.4232/1.10054
+
+European Values Study 2008: Luxembourg (EVS 2008)
+European Values Study 2008: Luxembourg (EVS 2008)
+10.4232/1.10055
+
+European Values Study 2008: Slovenia (EVS 2008)
+European Values Study 2008: Slovenia (EVS 2008)
+10.4232/1.10056
+
+European Values Study 2008: Ukraine (EVS 2008)
+European Values Study 2008: Ukraine (EVS 2008)
+10.4232/1.10057
+
+European Values Study 2008: Belarus (EVS 2008)
+European Values Study 2008: Belarus (EVS 2008)
+10.4232/1.10058
+
+European Values Study 2008: Albania (EVS 2008)
+European Values Study 2008: Albania (EVS 2008)
+10.4232/1.10012
+
+European Values Study 2008: Armenia (EVS 2008)
+European Values Study 2008: Armenia (EVS 2008)
+10.4232/1.10013
+
+European Values Study 2008: Azerbaijan (EVS 2008)
+European Values Study 2008: Azerbaijan (EVS 2008)
+10.4232/1.10014
+
+European Values Study 2008: Bosnia-Herzegovina (EVS 2008)
+European Values Study 2008: Bosnia-Herzegovina (EVS 2008)
+10.4232/1.10015
+
+European Values Study 2008: Cyprus (EVS 2008)
+European Values Study 2008: Cyprus (EVS 2008)
+10.4232/1.10016
+
+European Values Study 2008: Northern Cyprus (EVS 2008)
+European Values Study 2008: Northern Cyprus (EVS 2008)
+10.4232/1.10017
+
+European Values Study 2008: Georgia (EVS 2008)
+European Values Study 2008: Georgia (EVS 2008)
+10.4232/1.10018
+
+European Values Study 2008: Kosovo (EVS 2008)
+European Values Study 2008: Kosovo (EVS 2008)
+10.4232/1.10019
+
+European Values Study 2008: Serbia (EVS 2008)
+European Values Study 2008: Serbia (EVS 2008)
+10.4232/1.10025
+
+European Values Study 2008: Switzerland (EVS 2008)
+European Values Study 2008: Switzerland (EVS 2008)
+10.4232/1.10026
+
+European Values Study 2008: Integrated Dataset (EVS 2008)
+European Values Study 2008: Integrated Dataset (EVS 2008)
+10.4232/1.10059
+
+European Values Study 2008: Integrated Dataset (EVS 2008)
+European Values Study 2008: Integrated Dataset (EVS 2008)
+10.4232/1.10188
+
+European Values Study 2008: France (EVS 2008)
+European Values Study 2008: France (EVS 2008)
+10.4232/1.10027
+
+European Values Study 2008: Germany (EVS 2008)
+European Values Study 2008: Germany (EVS 2008)
+10.4232/1.10029
+
+European Values Study 2008: Austria (EVS 2008)
+European Values Study 2008: Austria (EVS 2008)
+10.4232/1.10030
+
+European Values Study 2008: Spain (EVS 2008)
+European Values Study 2008: Spain (EVS 2008)
+10.4232/1.10032
+
+European Values Study 2008: Portugal (EVS 2008)
+European Values Study 2008: Portugal (EVS 2008)
+10.4232/1.10033
+
+European Values Study 2008: Netherlands (EVS 2008)
+European Values Study 2008: Netherlands (EVS 2008)
+10.4232/1.10034
+
+European Values Study 2008: Belgium (EVS 2008)
+European Values Study 2008: Belgium (EVS 2008)
+10.4232/1.10035
+
+European Values Study 2008: Denmark (EVS 2008)
+European Values Study 2008: Denmark (EVS 2008)
+10.4232/1.10036
+
+European Values Study 2008: Finland (EVS 2008)
+European Values Study 2008: Finland (EVS 2008)
+10.4232/1.10038
+
+European Values Study 2008: Northern Ireland (EVS 2008)
+European Values Study 2008: Northern Ireland (EVS 2008)
+10.4232/1.10040
+
+European Values Study 2008: Ireland (EVS 2008)
+European Values Study 2008: Ireland (EVS 2008)
+10.4232/1.10041
+
+European Values Study 2008: Estonia (EVS 2008)
+European Values Study 2008: Estonia (EVS 2008)
+10.4232/1.10042
+
+European Values Study 2008: Integrated Dataset (EVS 2008)
+European Values Study 2008: Integrated Dataset (EVS 2008)
+10.4232/1.12458
+
+European Values Study 2008: Republic of Macedonia (EVS 2008)
+European Values Study 2008: Republic of Macedonia (EVS 2008)
+10.4232/1.10021
+
+European Values Study 2008: Republic of Moldova (EVS 2008)
+European Values Study 2008: Republic of Moldova (EVS 2008)
+10.4232/1.10184
+
+European Values Study 2008: Republic of Montenegro (EVS 2008)
+European Values Study 2008: Republic of Montenegro (EVS 2008)
+10.4232/1.10185
+
+European Values Study 2008: Republic of Montenegro (EVS 2008)
+European Values Study 2008: Republic of Montenegro (EVS 2008)
+10.4232/1.10023
+
+EVS - European Values Study 1999 (release 2, Mai 2006) - Niederlande
+EVS - European Values Study 1999 (release 2, May 2006) - Netherlands
+10.4232/1.11184
+
+EVS - European Values Study 1999 (release 2, Mai 2006) - Polen
+EVS - European Values Study 1999 (release 2, May 2006) - Poland
+10.4232/1.11185
+
+EVS - European Values Study 1999 (release 2, Mai 2006) - Griechenland
+EVS - European Values Study 1999 (release 2, May 2006) - Greece
+10.4232/1.11173
+
+EVS - European Values Study 1999 (release 2, Mai 2006) - Slowenien
+EVS - European Values Study 1999 (release 2, May 2006) - Slovenia
+10.4232/1.11191
+
+European Values Study 2008: Republic of Moldova (EVS 2008)
+European Values Study 2008: Republic of Moldova (EVS 2008)
+10.4232/1.10022
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Frankreich
+EVS - European Values Study 1999/2000 (release 2, May 2006) - France
+10.4232/1.3776
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Großbritannien
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Great Britain
+10.4232/1.3777
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Deutschland
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Germany
+10.4232/1.3778
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Österreich
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Austria
+10.4232/1.3779
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Italien
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Italy
+10.4232/1.3780
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Spanien
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Spain
+10.4232/1.3781
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Portugal
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Portugal
+10.4232/1.3782
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Belgien
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Belgium
+10.4232/1.3784
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Dänemark
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Denmark
+10.4232/1.3785
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Schweden
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Sweden
+10.4232/1.3786
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Finnland
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Finland
+10.4232/1.3787
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Island
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Iceland
+10.4232/1.3788
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Nordirland
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Northern Ireland
+10.4232/1.3789
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Irland
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Ireland
+10.4232/1.3790
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Estland
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Estonia
+10.4232/1.3791
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Lettland
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Latvia
+10.4232/1.3792
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Litauen
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Lithuania
+10.4232/1.3793
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Tschechische Republik
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Czech Republic
+10.4232/1.3795
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Slovakei
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Slovakia
+10.4232/1.3796
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Ungarn
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Hungary
+10.4232/1.3797
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Rumänien
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Romania
+10.4232/1.3798
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Bulgarien
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Bulgaria
+10.4232/1.3799
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Kroatien
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Croatia
+10.4232/1.3800
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Russland
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Russia
+10.4232/1.3802
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Malta
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Malta
+10.4232/1.3803
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Luxemburg
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Luxembourg
+10.4232/1.3804
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Ukraine
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Ukraine
+10.4232/1.3806
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Weißrussland
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Belarus
+10.4232/1.3807
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Türkei
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Turkey
+10.4232/1.3808
+
+European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)
+European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)
+10.4232/1.11005
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Frankreich
+EVS - European Values Study 1999/2000 (release 2, May 2006) - France
+10.4232/1.11170
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Großbritannien
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Great Britain
+10.4232/1.11172
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Deutschland
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Germany
+10.4232/1.11171
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Spanien
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Spain
+10.4232/1.11192
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Portugal
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Portugal
+10.4232/1.11186
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Belgien
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Belgium
+10.4232/1.11163
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Dänemark
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Denmark
+10.4232/1.11167
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Schweden
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Sweden
+10.4232/1.11193
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Finnland
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Finland
+10.4232/1.11169
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Island
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Iceland
+10.4232/1.11175
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Nordirland
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Northern Ireland
+10.4232/1.11177
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Irland
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Ireland
+10.4232/1.11176
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Estland
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Estonia
+10.4232/1.11168
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Lettland
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Latvia
+10.4232/1.11179
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Litauen
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Lithuania
+10.4232/1.11180
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Tschechische Republik
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Czech Republic
+,10.4232/1.11166
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Slowakei
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Slovakia
+10.4232/1.11190
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Ungarn
+"EVS - European Values Study 1999/2000 (release 2, May 2006) - Hungary
+10.4232/1.11174
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Rumänien
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Romania
+10.4232/1.11187
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Bulgarien
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Bulgaria
+10.4232/1.11164
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Russland
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Russia
+10.4232/1.11189
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Malta
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Malta
+10.4232/1.11183
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Luxemburg
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Luxembourg
+10.4232/1.11181
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Ukraine
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Ukraine
+10.4232/1.11160
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Weißrussland
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Belarus
+10.4232/1.11162
+
+EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Türkei
+EVS - European Values Study 1999/2000 (release 2, May 2006) - Turkey
+10.4232/1.11194
+
+EVS - European Values Study 1999 (release 3.0.0, 2011) - Integrierter Datensatz
+EVS - European Values Study 1999 (release 3.0.0, 2011) - Integrated Dataset
+10.4232/1.11307
+
+EVS - European Values Study 1999 (release 3.0.0, 2011) - Integrierter Datensatz
+EVS - European Values Study 1999 (release 3.0.0, 2011) - Integrated Dataset
+10.4232/1.3811
+
+European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)
+European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)
+10.4232/1.4804
+
+European Values Study 2008: Integrated Dataset (EVS 2008) - Restricted Use File
+European Values Study 2008: Integrated Dataset (EVS 2008) - Restricted Use File
+10.4232/1.12483
+
+European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)
+European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)
+10.4232/1.12253
+
+European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008) - Restricted Use File
+European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008) - Restricted Use File
+10.4232/1.5174

@@ -1,0 +1,967 @@
+﻿Wahlstudie 1998 (Politbarometer)
+Election Study 1998 (Politbarometer)
+10.4232/1.3160
+
+Politbarometer (Januar 1985)
+Politbarometer (January 1985)
+10.4232/1.1469
+
+Politbarometer (Februar 1985)
+Politbarometer (February 1985)
+10.4232/1.1470
+
+Politbarometer (März 1985)
+Politbarometer (March 1985)
+10.4232/1.1471
+
+Politbarometer (April 1985)
+Politbarometer (April 1985)
+10.4232/1.1472
+
+Politbarometer (Mai 1985)
+Politbarometer (May 1985)
+10.4232/1.1473
+
+Politbarometer (Juni 1985)
+Politbarometer (June 1985)
+10.4232/1.1474
+
+Politbarometer (August 1985)
+Politbarometer (August 1985)
+10.4232/1.1475
+
+Politbarometer (September 1985)
+Politbarometer (September 1985)
+10.4232/1.1476
+
+Politbarometer (Oktober 1985)
+Politbarometer (October 1985)
+10.4232/1.1477
+
+Politbarometer (November 1985)
+Politbarometer (November 1985)
+10.4232/1.1478
+
+Politbarometer (Dezember 1985)
+Politbarometer (December 1985)
+10.4232/1.1479
+
+Politbarometer (Februar 1987)
+Politbarometer (February 1987)
+10.4232/1.1581
+
+Politbarometer (März 1987)
+Politbarometer (March 1987)
+10.4232/1.1642
+
+Politbarometer (April 1987)
+Politbarometer (April 1987)
+10.4232/1.1643
+
+Politbarometer (Mai 1987)
+Politbarometer (May 1987)
+10.4232/1.1644
+
+Politbarometer (Juni 1987)
+Politbarometer (June 1987)
+10.4232/1.1645
+
+Politbarometer (August 1987)
+Politbarometer (August 1987)
+10.4232/1.1646
+
+Politbarometer (September 1987)
+Politbarometer (September 1987)
+10.4232/1.1647
+
+Politbarometer (Oktober 1987)
+Politbarometer (October 1987)
+10.4232/1.1648
+
+Politbarometer (November 1987)
+Politbarometer (November 1987)
+10.4232/1.1649
+
+Politbarometer (Dezember 1987)
+Politbarometer (December 1987)
+10.4232/1.1650
+
+Politbarometer (Februar 1988)
+Politbarometer (February 1988)
+10.4232/1.1677
+
+Politbarometer (Januar 1988)
+Politbarometer (January 1988)
+10.4232/1.1687
+
+Politbarometer (März 1988)
+Politbarometer (March 1988)
+10.4232/1.1688
+
+Politbarometer (April 1988)
+Politbarometer (April 1988)
+10.4232/1.1689
+
+Politbarometer (Mai 1988)
+Politbarometer (May 1988)
+10.4232/1.1690
+
+Politbarometer (Juni 1988)
+Politbarometer (June 1988)
+10.4232/1.1691
+
+Politbarometer (August 1988)
+Politbarometer (August 1988)
+10.4232/1.1692
+
+Politbarometer (September 1988)
+Politbarometer (September 1988)
+10.4232/1.1693
+
+Politbarometer (Oktober 1988)
+Politbarometer (October 1988)
+10.4232/1.1694
+
+Politbarometer (November 1988)
+Politbarometer (November 1988)
+10.4232/1.1695
+
+Politbarometer (Dezember 1988)
+Politbarometer (December 1988)
+10.4232/1.1696
+
+Politbarometer (Januar 1989)
+Politbarometer (January 1989)
+10.4232/1.1768
+
+Politbarometer (Februar 1989)
+Politbarometer (February 1989)
+10.4232/1.1769
+
+Politbarometer (März 1989)
+Politbarometer (March 1989)
+10.4232/1.1770
+
+Politbarometer (April 1989)
+Politbarometer (April 1989)
+10.4232/1.1771
+
+Politbarometer (Mai 1989)
+Politbarometer (May 1989)
+10.4232/1.1772
+
+Politbarometer (Juni 1989)
+Politbarometer (June 1989)
+10.4232/1.1773
+
+Politbarometer (August 1989)
+Politbarometer (August 1989)
+10.4232/1.1774
+
+Politbarometer (September 1989)
+Politbarometer (September 1989)
+10.4232/1.1775
+
+Politbarometer (Oktober 1989)
+Politbarometer (October 1989)
+10.4232/1.1776
+
+Politbarometer (November 1989)
+Politbarometer (November 1989)
+10.4232/1.1777
+
+Politbarometer (Dezember 1989)
+Politbarometer (December 1989)
+10.4232/1.1778
+
+Politbarometer (Januar 1990)
+Politbarometer (January 1990)
+10.4232/1.1921
+
+Politbarometer (Februar 1990)
+Politbarometer (February 1990)
+10.4232/1.1922
+
+Politbarometer (März 1990)
+Politbarometer (March 1990)
+10.4232/1.1923
+
+Politbarometer (April 1990)
+Politbarometer (April 1990)
+10.4232/1.1924
+
+Politbarometer (Mai 1990)
+Politbarometer (May 1990)
+10.4232/1.1925
+
+Politbarometer (Juni 1990)
+Politbarometer (June 1990)
+10.4232/1.1926
+
+Politbarometer (August 1990)
+Politbarometer (August 1990)
+10.4232/1.1927
+
+Politbarometer (September 1990)
+Politbarometer (September 1990)
+10.4232/1.1928
+
+Politbarometer (Oktober 1990)
+Politbarometer (October 1990)
+10.4232/1.1929
+
+Politbarometer (November 1990)
+Politbarometer (November 1990)
+10.4232/1.1930
+
+Politbarometer (Dezember 1990)
+Politbarometer (December 1990)
+10.4232/1.1931
+
+Politbarometer West 2002 (Kumulierter Datensatz)
+Politbarometer West 2002 (Cumulated Dataset)
+10.4232/1.3849
+
+Politbarometer Ost 2002 (Kumulierter Datensatz)
+Politbarometer East 2002 (Cumulated Dataset)
+10.4232/1.3850
+
+Politbarometer Ost 2004 (Kumulierter Datensatz)
+Politbarometer East 2004 (Cumulated Dataset)
+10.4232/1.4221
+
+Politbarometer 1996 (Kumulierter Datensatz)
+Politbarometer 1996 (Cumulated Data Set)
+10.4232/1.2894
+
+Politbarometer 1997 (Kumulierter Datensatz)
+Politbarometer 1997 (Cumulated Data Set)
+10.4232/1.3045
+
+Wahlstudie 1987 (Trenduntersuchungen), Politbarometer
+Election Study 1987 (Trend Investigation), Politbarometer
+10.4232/1.1536
+
+Politbarometer 1988 (Kumulierter Datensatz)
+Politbarometer 1988 (Cumulated Data Set)
+10.4232/1.1762
+
+Politbarometer 1989 (Kumulierter Datensatz)
+Politbarometer 1989 (Cumulated Data Set)
+10.4232/1.1779
+
+Politbarometer 1987 (Kumulierter Datensatz)
+Politbarometer 1987 (Cumulated Data Set)
+10.4232/1.1899
+
+Politbarometer 1985 (Kumulierter Datensatz)
+Politbarometer 1985 (Cumulated Data Set)
+10.4232/1.1901
+
+Wahlstudie 1990 (Trenduntersuchungen), Politbarometer
+Election Study 1990 (Trend Investigation), Politbarometer
+10.4232/1.1920
+
+Politbarometer DDR (April 1990)
+Politbarometer GDR (April 1990)
+10.4232/1.1980
+
+Politbarometer DDR (Mai 1990)
+Politbarometer GDR (May 1990)
+10.4232/1.1981
+
+Politbarometer DDR (Juni 1990)
+Politbarometer GDR (June 1990)
+10.4232/1.1982
+
+Politbarometer DDR (August 1990)
+Politbarometer GDR (August 1990)
+10.4232/1.1983
+
+Politbarometer DDR (September 1990)
+Politbarometer GDR (September 1990)
+10.4232/1.1984
+
+Politbarometer Ost (Oktober-November 1990)
+Politbarometer East (October - November 1990)
+10.4232/1.1985
+
+Politbarometer Ost (Dezember 1990)
+Politbarometer East (December 1990)
+10.4232/1.1986
+
+Wahlstudie 1990 (Politbarometer Ost)
+Election Study 1990 (Politbarometer East)
+10.4232/1.1987
+
+Politbarometer West (Januar 1991)
+Politbarometer West (January 1991)
+10.4232/1.2091
+
+Politbarometer West (Februar 1991)
+Politbarometer West (February 1991)
+10.4232/1.2092
+
+Politbarometer West (März 1991)
+Politbarometer West (March 1991)
+10.4232/1.2093
+
+Politbarometer West (April 1991)
+Politbarometer West (April 1991)
+10.4232/1.2094
+
+Politbarometer West (Mai 1991)
+Politbarometer West (May 1991)
+10.4232/1.2095
+
+Politbarometer West (Juni 1991)
+Politbarometer West (June 1991)
+10.4232/1.2096
+
+Politbarometer West (August 1991)
+Politbarometer West (August 1991)
+10.4232/1.2097
+
+Politbarometer West (September 1991)
+Politbarometer West (September 1991)
+10.4232/1.2098
+
+Politbarometer West (Oktober 1991)
+Politbarometer West (October 1991)
+10.4232/1.2099
+
+Politbarometer West (November 1991)
+Politbarometer West (November 1991)
+10.4232/1.2100
+
+Politbarometer West (Dezember 1991)
+Politbarometer West (December 1991)
+10.4232/1.2101
+
+Politbarometer Ost (Januar 1991)
+Politbarometer East (January 1991)
+10.4232/1.2103
+
+Politbarometer Ost (Februar 1991)
+Politbarometer East (February 1991)
+10.4232/1.2104
+
+Politbarometer Ost (März 1991)
+Politbarometer East (March 1991)
+10.4232/1.2105
+
+Politbarometer Ost (April 1991)
+Politbarometer East (April 1991)
+10.4232/1.2106
+
+Politbarometer Ost (Mai 1991)
+Politbarometer East (May 1991)
+10.4232/1.2107
+
+Politbarometer Ost (Juni 1991)
+Politbarometer East (June 1991)
+10.4232/1.2108
+
+Politbarometer Ost (August 1991)
+Politbarometer East (August 1991)
+10.4232/1.2109
+
+Politbarometer Ost (September 1991)
+Politbarometer East (September 1991)
+10.4232/1.2110
+
+Politbarometer Ost (Oktober 1991)
+Politbarometer East (October 1991)
+10.4232/1.2111
+
+Politbarometer Ost (November 1991)
+Politbarometer East (November 1991)
+10.4232/1.2112
+
+Politbarometer Ost (Dezember 1991)
+Politbarometer East (December 1991)
+10.4232/1.2113
+
+Politbarometer 1977 (Kumulierter Datensatz)
+Politbarometer 1977 (Cumulated Data Set)
+10.4232/1.2160
+
+Politbarometer 1978 (Kumulierter Datensatz)
+Politbarometer 1978 (Cumulated Data Set)
+10.4232/1.2171
+
+Politbarometer 1979 (Kumulierter Datensatz)
+Politbarometer 1979 (Cumulated Data Set)
+10.4232/1.2182
+
+Politbarometer 1981 (Kumulierter Datensatz)
+Politbarometer 1981 (Cumulated Data Set)
+10.4232/1.2194
+
+Politbarometer 1982 (Kumulierter Datensatz)
+Politbarometer 1982 (Cumulated Data Set)
+10.4232/1.2201
+
+Politbarometer 1983 (Kumulierter Datensatz)
+Politbarometer 1983 (Cumulated Data Set)
+10.4232/1.2209
+
+Politbarometer 1984 (Kumulierter Datensatz)
+Politbarometer 1984 (Cumulated Data Set)
+10.4232/1.2220
+
+Wahlstudie 1980 (Datenpool), Politbarometer
+Election Study 1980 (Data Pool), Politbarometer
+10.4232/1.1053
+
+
+German Election Study, 1997 (Politbarometer),Archival Version
+10.3886/ICPSR03033
+
+
+German Election Study, 1997 (Politbarometer),Version 1
+10.3886/ICPSR03033.v1
+
+
+German Election Study, 1996 (Politbarometer),Archival Version
+10.3886/ICPSR03034
+
+
+German Election Study, 1996 (Politbarometer),Version 1
+10.3886/ICPSR03034.v1
+
+
+German Politbarometer West, 2001,Archival Version
+10.3886/ICPSR03914
+
+
+German Politbarometer West, 2001,Version 1
+10.3886/ICPSR03914.v1
+
+
+German Politbarometer East, 2001,Archival Version
+10.3886/ICPSR03915
+
+
+German Politbarometer East, 2001,Version 1
+10.3886/ICPSR03915.v1
+
+
+German Election Study, 1998 (Politbarometer),Archival Version
+10.3886/ICPSR03681
+
+
+German Election Study, 1998 (Politbarometer),Version 1
+10.3886/ICPSR03681.v1
+
+
+German Politbarometer East, 1999,Archival Version
+10.3886/ICPSR03682
+
+
+German Politbarometer East, 1999,Version 1
+10.3886/ICPSR03682.v1
+
+
+German Politbarometer East, 2000,Archival Version
+10.3886/ICPSR03683
+
+
+German Politbarometer East, 2000,Version 1
+10.3886/ICPSR03683.v1
+
+
+German Politbarometer West, 1999,Archival Version
+10.3886/ICPSR03684
+
+
+German Politbarometer West, 1999,Version 1
+10.3886/ICPSR03684.v1
+
+
+German Politbarometer West, 2000,Archival Version
+10.3886/ICPSR03685
+
+
+German Politbarometer West, 2000,Version 1
+10.3886/ICPSR03685.v1
+
+Politbarometer West 2008 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer West 2008 (Cumulated Data Set, incl. Flash)
+10.4232/1.12073
+
+Politbarometer Ost 2008 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer East 2008 (Cumulated Data Set, incl. Flash)
+10.4232/1.12072
+
+Politbarometer Kurzbefragung 2002 (Kumulierter Datensatz)
+Politbarometer Short Inquiry 2002 (Accumulated Dataset)
+10.4232/1.3851
+
+Politbarometer Ost 2003 (Kumulierter Datensatz)
+Politbarometer Eastern Germany 2003 (Accumulated Dataset)
+10.4232/1.4001
+
+Politbarometer West 2003 (Kumulierter Datensatz)
+Politbarometer Western Germany 2003 (Accumulated Dataset)
+10.4232/1.4002
+
+Politbarometer Ost 2003 (Kumulierter Datensatz, inkl. Kurzbarometer)
+Politbarometer East 2003 (Cumulated Data Set, incl. Flash)
+10.4232/1.4003
+
+Politbarometer West 2003 (Kumulierter Datensatz, inkl. Kurzbarometer)
+Politbarometer West 2003 (Cumulated Data Set, incl. Flash)
+10.4232/1.4004
+
+Politbarometer West 2004 (Kumulierter Datensatz)
+Politbarometer Western Germany 2004 (Accumulated Dataset)
+10.4232/1.4222
+
+Politbarometer Ost 2004 (Kumulierter Datensatz, inkl. Kurzbarometer)
+Politbarometer East 2004 (Cumulated Data Set, incl. Flash)
+10.4232/1.4223
+
+Politbarometer West 2004 (Kumulierter Datensatz, inkl. Kurzbarometer)
+Politbarometer West 2004 (Cumulated Data Set, incl. Flash)
+10.4232/1.4224
+
+Politbarometer Ost 2005 (Kumulierter Datensatz)
+Politbarometer East 2005 (Cumulated Data Set)
+10.4232/1.4256
+
+Politbarometer West 2005 (Kumulierter Datensatz)
+Politbarometer West 2005 (Cumulated Data Set)
+10.4232/1.4257
+
+Politbarometer Ost 2005 (Kumulierter Datensatz, inkl. Kurzbarometer)
+Politbarometer East 2005 (Cumulated Data Set, incl. Flash)
+10.4232/1.4258
+
+Politbarometer West 2005 (Kumulierter Datensatz, inkl. Kurzbarometer)
+Politbarometer West 2005 (Cumulated Data Set, incl. Flash)
+10.4232/1.4259
+
+Politbarometer West 1999 (Kumulierter Datensatz)
+Politbarometer West 1999 (Cumulated Data Set)
+10.4232/1.3261
+
+Politbarometer Ost 1999 (Kumulierter Datensatz)
+Politbarometer East 1999 (Cumulated Data Set)
+10.4232/1.3262
+
+Politbarometer West 2000 (Kumulierter Datensatz)
+Politbarometer West 2000 (Cumulated Data Set)
+10.4232/1.3425
+
+Politbarometer Ost 2000 (Kumulierter Datensatz)
+Politbarometer East 2000 (Cumulated Data Set)
+10.4232/1.3426
+
+Politbarometer West 2001 (Kumulierter Datensatz)
+Politbarometer Western Germany 2001 (Accumulated Dataset)
+10.4232/1.3554
+
+Politbarometer Ost 2001 (Kumulierter Datensatz)
+Politbarometer Eastern Germany 2001 (Accumulated Dataset)
+10.4232/1.3555
+
+Wahlstudie 1983 (Politbarometer, August 1982)
+Election Study 1983 (Politbarometer, August 1982)
+10.4232/1.1277
+
+Wahlstudie 1983 (Politbarometer, Oktober 1982)
+Election Study 1983 (Politbarometer, October 1982)
+10.4232/1.1278
+
+Wahlstudie 1983 (Politbarometer, Januar 1983)
+Election Study 1983 (Politbarometer, January 1983)
+10.4232/1.1279
+
+Wahlstudie 1983 (Politbarometer, Februar 1983)
+Election Study 1983 (Politbarometer, February 1983)
+10.4232/1.1280
+
+Wahlstudie 1983 (Politbarometer, März 1983)
+Election Study 1983 (Politbarometer, March 1983)
+10.4232/1.1281
+
+Wahlstudie 1987 (Politbarometer, Januar 1986)
+Election Study 1987 (Politbarometer, January 1986)
+10.4232/1.1520
+
+Wahlstudie 1987 (Politbarometer, Februar 1986)
+Election Study 1987 (Politbarometer, February 1986)
+10.4232/1.1521
+
+Wahlstudie 1987 (Politbarometer, März 1986)
+Election Study 1987 (Politbarometer, March 1986)
+10.4232/1.1522
+
+Wahlstudie 1987 (Politbarometer, April 1986)
+Election Study 1987 (Politbarometer, April 1986)
+10.4232/1.1523
+
+Wahlstudie 1987 (Politbarometer, Mai 1986)
+Election Study 1987 (Politbarometer, May 1986)
+10.4232/1.1524
+
+Wahlstudie 1987 (Politbarometer, Juni 1986)
+Election Study 1987 (Politbarometer, June 1986)
+10.4232/1.1525
+
+Wahlstudie 1987 (Politbarometer, Juli 1986)
+Election Study 1987 (Politbarometer, July 1986)
+10.4232/1.1526
+
+Wahlstudie 1987 (Politbarometer, August 1986)
+Election Study 1987 (Politbarometer, August 1986)
+10.4232/1.1527
+
+Wahlstudie 1987 (Politbarometer, Oktober 1986)
+Election Study 1987 (Politbarometer, October 1986)
+10.4232/1.1528
+
+Wahlstudie 1987 (Politbarometer, November 1986)
+Election Study 1987 (Politbarometer, November 1986)
+10.4232/1.1529
+
+Wahlstudie 1987 (Politbarometer, Dezember 1986)
+Election Study 1987 (Politbarometer, December 1986)
+10.4232/1.1530
+
+Wahlstudie 1987 (Politbarometer, Januar 1987)
+Election Study 1987 (Politbarometer, January 1987)
+10.4232/1.1531
+
+Politbarometer West 1991 (Kumulierter Datensatz)
+Politbarometer West 1991 (Cumulated Data Set)
+10.4232/1.2102
+
+Politbarometer Ost 1991 (Kumulierter Datensatz)
+Politbarometer East 1991 (Cumulated Data Set)
+10.4232/1.2114
+
+Politbarometer West 1992 (Kumulierter Datensatz)
+Politbarometer West 1992 (Cumulated Data Set)
+10.4232/1.2275
+
+Politbarometer Ost 1992 (Kumulierter Datensatz)
+Politbarometer East 1992 (Cumulated Data Set)
+10.4232/1.2287
+
+Politbarometer Ost 1993 (Kumulierter Datensatz)
+Politbarometer East 1993 (Cumulated Data Set)
+10.4232/1.2390
+
+Wahlstudie 1994: Politbarometer West 1994 (Trenduntersuchungen)
+Election Study 1994: Politbarometer West 1994 (Trend Investigations)
+10.4232/1.2546
+
+Wahlstudie 1994: Politbarometer Ost 1994 (Trenduntersuchungen)
+Election Study 1994: Politbarometer East 1994 (Trend Investigations)
+10.4232/1.2559
+
+Politbarometer West 1995 (Kumulierter Datensatz)
+Politbarometer West 1995 (Cumulated Data Set)
+10.4232/1.2765
+
+Politbarometer Ost 1995 (Kumulierter Datensatz)
+Politbarometer East 1995 (Cumulated Data Set)
+10.4232/1.2777
+
+Politbarometer 2013 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer 2013 (Cumulated Data Set, incl. Flash)
+10.4232/1.12062
+
+Politbarometer 2013 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer 2013 (Cumulated Data Set, incl. Flash)
+10.4232/1.12171
+
+Politbarometer Ost 2005 (Kumulierter Datensatz, inkl. Kurzbarometer)
+Politbarometer East 2005 (Cumulated Data Set, incl. Flash)
+10.4232/1.12124
+
+Politbarometer West 2005 (Kumulierter Datensatz, inkl. Kurzbarometer)
+Politbarometer West 2005 (Cumulated Data Set, incl. Flash)
+10.4232/1.12125
+
+Politbarometer 2012 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer 2012 (Cumulated Data Set, incl. Flash)
+10.4232/1.11868
+
+Politbarometer West 1993 (Kumulierter Datensatz)
+Politbarometer West 1993 (Cumulated Data Set)
+10.4232/1.2378
+
+Politbarometer Ost 2006 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer East 2006 (Cumulated Data Set, incl. Flash)
+10.4232/1.4550
+
+Politbarometer West 2006 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer West 2006 (Cumulated Data Set, incl. Flash)
+10.4232/1.4551
+
+Politbarometer Ost 2007 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer East 2007 (Cumulated Data Set, incl. Flash)
+10.4232/1.4802
+
+Politbarometer West 2007 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer West 2007 (Cumulated Data Set, incl. Flash)
+10.4232/1.4803
+
+Politbarometer Ost 2008 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer East 2008 (Cumulated Data Set, incl. Flash)
+10.4232/1.11339
+
+Politbarometer West 2008 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer West 2008 (Cumulated Data Set, incl. Flash)
+10.4232/1.11340
+
+Politbarometer Ost 2009 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer Ost 2009 (Cumulated Data Set, incl. Flash)
+10.4232/1.11345
+
+Politbarometer West 2009 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer West 2009 (Cumulated Data Set, incl. Flash)
+10.4232/1.11344
+
+Politbarometer Ost 2010 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer East 2010 (Cumulated Data Set, incl. Flash)
+10.4232/1.11342
+
+Politbarometer West 2010 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer West 2010 (Cumulated Data Set, incl. Flash)
+10.4232/1.11343
+
+Politbarometer Ost 2011 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer East 2011 (Cumulated Data Set, incl. Flash)
+10.4232/1.11615
+
+Politbarometer Ost 2008 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer East 2008 (Cumulated Data Set, incl. Flash)
+10.4232/1.11609
+
+Politbarometer West 2008 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer West 2008 (Cumulated Data Set, incl. Flash)
+10.4232/1.11610
+
+Politbarometer Ost 2009 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer Ost 2009 (Cumulated Data Set, incl. Flash)
+10.4232/1.11611
+
+Politbarometer West 2009 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer West 2009 (Cumulated Data Set, incl. Flash)
+10.4232/1.11612
+
+Politbarometer Ost 2010 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer East 2010 (Cumulated Data Set, incl. Flash)
+10.4232/1.11613
+
+Politbarometer West 2010 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer West 2010 (Cumulated Data Set, incl. Flash)
+10.4232/1.11614
+
+Politbarometer West 2011 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer West 2011 (Cumulated Data Set, incl. Flash)
+10.4232/1.11616
+
+Wahlstudie 1980 (Politbarometer, November 1980)
+Election Study 1980 (Politbarometer, November 1980)
+10.4232/1.1063
+
+Wahlstudie 1980 (Politbarometer, Januar 1980)
+Election Study 1980 (Politbarometer, January 1980)
+10.4232/1.1054
+
+Wahlstudie 1980 (Politbarometer, Februar 1980)
+Election Study 1980 (Politbarometer, February 1980)
+10.4232/1.1055
+
+Wahlstudie 1980 (Politbarometer, März 1980)
+Election Study 1980 (Politbarometer, March 1980)
+10.4232/1.1056
+
+Wahlstudie 1980 (Politbarometer, April 1980)
+Election Study 1980 (Politbarometer, April 1980)
+10.4232/1.1057
+
+Wahlstudie 1980 (Politbarometer, Mai 1980)
+Election Study 1980 (Politbarometer, May 1980)
+10.4232/1.1058
+
+Wahlstudie 1980 (Politbarometer, Juni 1980)
+Election Study 1980 (Politbarometer, June 1980)
+10.4232/1.1059
+
+Wahlstudie 1980 (Politbarometer, Juli 1980)
+Election Study 1980 (Politbarometer, July 1980)
+10.4232/1.1060
+
+Wahlstudie 1980 (Politbarometer, September 1980)
+Election Study 1980 (Politbarometer, September 1980)
+10.4232/1.1061
+
+Wahlstudie 1980 (Politbarometer, Oktober 1980)
+Election Study 1980 (Politbarometer, October 1980)
+10.4232/1.1062
+
+Politbarometer Ost 2008 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer East 2008 (Cumulated Data Set, incl. Flash)
+10.4232/1.5200
+
+Politbarometer West 2008 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer West 2008 (Cumulated Data Set, incl. Flash)
+10.4232/1.5201
+
+Politbarometer Ost 2009 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer Ost 2009 (Cumulated Data Set, incl. Flash)
+10.4232/1.10444
+
+Politbarometer West 2009 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer West 2009 (Cumulated Data Set, incl. Flash)
+10.4232/1.10443
+
+Politbarometer West 2011 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer West 2011 (Cumulated Data Set, incl. Flash)
+10.4232/1.11493
+
+Politbarometer Ost 2011 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer East 2011 (Cumulated Data Set, incl. Flash)
+10.4232/1.11492
+
+Politbarometer West 2011 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer West 2011 (Cumulated Data Set, incl. Flash)
+10.4232/1.11508
+
+Politbarometer Ost 2011 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer East 2011 (Cumulated Data Set, incl. Flash)
+10.4232/1.11510
+
+Politbarometer 2012 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer 2012 (Cumulated Data Set, incl. Flash)
+10.4232/1.11854
+
+Politbarometer 2014 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer 2014 (Cumulated Data Set, incl. Flash)
+10.4232/1.12372
+
+Politbarometer Ost 2010 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer East 2010 (Cumulated Data Set, incl. Flash)
+10.4232/1.12415
+
+Politbarometer West 2010 (Kumulierter Datensatz inkl. Kurzbarometer)
+Politbarometer West 2010 (Cumulated Data Set, incl. Flash)
+10.4232/1.12416
+
+
+German Election Study, 1994 (Politbarometer East),Archival Version
+10.3886/ICPSR02842
+
+
+German Election Study, 1994 (Politbarometer East),Version 1
+10.3886/ICPSR02842.v1
+
+
+German Election Study, 1994 (Politbarometer West),Archival Version
+10.3886/ICPSR02843
+
+
+German Election Study, 1994 (Politbarometer West),Version 1
+10.3886/ICPSR02843.v1
+
+
+German Election Study, 1995 (Politbarometer East),Archival Version
+10.3886/ICPSR03035
+
+
+German Election Study, 1995 (Politbarometer East),Version 1
+10.3886/ICPSR03035.v1
+
+
+German Election Study, 1995 (Politbarometer West),Archival Version
+10.3886/ICPSR03036
+
+
+German Election Study, 1995 (Politbarometer West),Version 1
+10.3886/ICPSR03036.v1
+
+
+Politbarometer West [Germany], Partial Accumulation, 1977-1998,Version 1
+10.3886/ICPSR06913.v1
+
+
+German Election Study, 1991 (Politbarometer West),Archival Version
+10.3886/ICPSR06390
+
+
+German Election Study, 1991 (Politbarometer West),Version 1
+10.3886/ICPSR06390.v1
+
+
+German Election Study, 1991 (Politbarometer East),Archival Version
+10.3886/ICPSR06391
+
+
+German Election Study, 1991 (Politbarometer East),Version 1
+10.3886/ICPSR06391.v1
+
+
+German Election Study, 1992 (Politbarometer West),Archival Version
+10.3886/ICPSR06392
+
+
+German Election Study, 1992 (Politbarometer West),Version 1
+10.3886/ICPSR06392.v1
+
+
+German Election Study, 1992 (Politbarometer East),Archival Version
+10.3886/ICPSR06393
+
+
+German Election Study, 1992 (Politbarometer East),Version 1
+10.3886/ICPSR06393.v1
+
+
+Politbarometer West [Germany], Partial Accumulation, 1977-1998,Archival Version
+10.3886/ICPSR06913
+
+
+Politbarometer West [Germany], Partial Accumulation, 1977-1998,Version 2
+10.3886/ICPSR06913.v2
+
+
+German Election Study, 1990 (Politbarometer East),Archival Version
+10.3886/ICPSR06193
+
+
+German Election Study, 1990 (Politbarometer East),Version 1
+10.3886/ICPSR06193.v1
+
+Politbarometer 1977-2012 (Partielle Kumulation)
+Partial Cumulation of Politbarometers West 1977-2012
+10.4232/1.12071
+
+Politbarometer 1977-2010 (Partielle Kumulation)
+Partial Cumulation of Politbarometers West 1977-2007
+10.4232/1.11369
+
+Politbarometer 1977-2012 (Partielle Kumulation)
+Partial Cumulation of Politbarometers West 1977-2012
+10.4232/1.11872
+
+Politbarometer 1977-2013 (Partielle Kumulation)
+Partial Cumulation of Politbarometers West 1977-2013
+10.4232/1.12176
+
+Politbarometer 1977-2011 (Partielle Kumulation)
+Partial Cumulation of Politbarometers West 1977-2011
+10.4232/1.11608
+
+Politbarometer 1977-2010 (Partielle Kumulation)
+Partial Cumulation of Politbarometers West 1977-2007
+10.4232/1.2391
+
+Politbarometer 1977-2014 (Partielle Kumulation)
+Partial Cumulation of Politbarometers 1977-2014
+10.4232/1.12512

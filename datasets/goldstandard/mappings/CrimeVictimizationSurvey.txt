@@ -1,0 +1,763 @@
+﻿
+National Crime Victimization Survey, 2005,Archival Version
+10.3886/ICPSR04451
+
+
+National Crime Victimization Survey, 2005,Version 1
+10.3886/ICPSR04451.v1
+
+
+National Crime Victimization Survey, 2004,Archival Version
+10.3886/ICPSR04276
+
+
+National Crime Victimization Survey, 2004,Version 4
+10.3886/ICPSR04276.v4
+
+
+National Crime Victimization Survey, 2004,Version 3
+10.3886/ICPSR04276.v3
+
+
+National Crime Victimization Survey, 2004,Version 2
+10.3886/ICPSR04276.v2
+
+
+National Crime Victimization Survey, 2004,Version 1
+10.3886/ICPSR04276.v1
+
+
+National Crime Victimization Survey: School Crime Supplement, 1999,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR03137
+
+
+National Crime Victimization Survey: School Crime Supplement, 1999,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR03137.v1
+
+
+National Crime Victimization Survey Longitudinal File, 1995-1999,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04414
+
+
+National Crime Victimization Survey Longitudinal File, 1995-1999,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04414.v1
+
+
+National Crime Victimization Survey: School Crime Supplement, 2005,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04429
+
+
+National Crime Victimization Survey: School Crime Supplement, 2005,Version 2,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04429.v2
+
+
+National Crime Victimization Survey: Unbounded Data, 1999,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04444
+
+
+National Crime Victimization Survey: Unbounded Data, 1999,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04444.v1
+
+
+National Crime Victimization Survey: Unbounded Data, 2000,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04445
+
+
+National Crime Victimization Survey: Unbounded Data, 2000,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04445.v1
+
+
+National Crime Victimization Survey: Unbounded Data, 2001,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04446
+
+
+National Crime Victimization Survey: Unbounded Data, 2001,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04446.v1
+
+
+National Crime Victimization Survey: Unbounded Data, 2002,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04447
+
+
+National Crime Victimization Survey: Unbounded Data, 2002,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04447.v1
+
+
+National Crime Victimization Survey: Unbounded Data, 2003,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04448
+
+
+National Crime Victimization Survey: Unbounded Data, 2003,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04448.v1
+
+
+National Crime Victimization Survey: Unbounded Data, 2004,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04449
+
+
+National Crime Victimization Survey: Unbounded Data, 2004,Version 2,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04449.v2
+
+
+National Crime Victimization Survey: MSA Data, 1979-2004,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04576
+
+
+National Crime Victimization Survey: MSA Data, 1979-2004,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04576.v1
+
+
+International Crime Victimization Survey (ICVS), 1989-2000,Archival Version,International Crime Victimization Survey (ICVS) Series
+10.3886/ICPSR03803
+
+
+International Crime Victimization Survey (ICVS), 1989-2000,Version 1,International Crime Victimization Survey (ICVS) Series
+10.3886/ICPSR03803.v1
+
+
+National Crime Victimization Survey: School Crime Supplement, 2001,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR03477
+
+
+National Crime Victimization Survey: School Crime Supplement, 2001,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR03477.v1
+
+
+National Crime Victimization Survey: School Crime Supplement, 2003,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04182
+
+
+National Crime Victimization Survey: School Crime Supplement, 2003,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04182.v1
+
+
+National Crime Victimization Survey, 2006 [Record-Type Files],Version 2,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22560.v2
+
+
+National Crime Victimization Survey, 2006 [Record-Type Files],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22560.v1
+
+
+National Crime Victimization Survey, 2005 [Record-Type Files],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22746.v1
+
+
+National Crime Victimization Survey, 2004 [Record-Type Files],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22900.v1
+
+
+National Crime Victimization Survey, 2003 [Record-Type Files],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22901.v1
+
+
+National Crime Victimization Survey, 2002 [Record-Type Files],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22902.v1
+
+
+National Crime Victimization Survey, 2001 [Record-Type Files],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22920.v1
+
+
+National Crime Victimization Survey: School Crime Supplement, 2005,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04429.v1
+
+
+National Crime Victimization Survey: Unbounded Data, 2004,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04449.v1
+
+
+National Crime Victimization Survey, 2010,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR31202.v1
+
+
+National Crime Victimization Survey: School Crime Supplement, 2013,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR34980
+
+
+National Crime Victimization Survey: School Crime Supplement, 2013,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR34980.v1
+
+
+National Crime Victimization Survey, 2007 [Record-Type Files],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR25141
+
+
+National Crime Victimization Survey, 2007 [Record-Type Files],Version 3,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR25141.v3
+
+
+National Crime Victimization Survey, 2008 [Record-Type Files],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR26382
+
+
+National Crime Victimization Survey, 2008 [Record-Type Files],Version 2,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR26382.v2
+
+
+National Crime Victimization Survey, 2006 [Record-Type Files],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22560
+
+
+National Crime Victimization Survey, 2006 [Record-Type Files],Version 3,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22560.v3
+
+
+National Crime Victimization Survey, 2005 [Record-Type Files],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22746
+
+
+National Crime Victimization Survey, 2005 [Record-Type Files],Version 2,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22746.v2
+
+
+National Crime Victimization Survey, 2004 [Record-Type Files],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22900
+
+
+National Crime Victimization Survey, 2004 [Record-Type Files],Version 2,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22900.v2
+
+
+National Crime Victimization Survey, 2003 [Record-Type Files],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22901
+
+
+National Crime Victimization Survey, 2003 [Record-Type Files],Version 2,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22901.v2
+
+
+National Crime Victimization Survey, 2002 [Record-Type Files],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22902
+
+
+National Crime Victimization Survey, 2002 [Record-Type Files],Version 2,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22902.v2
+
+
+National Crime Victimization Survey, 2001 [Record-Type Files],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22920
+
+
+National Crime Victimization Survey, 2001 [Record-Type Files],Version 2,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22920.v2
+
+
+National Crime Victimization Survey, 2000 [Record-Type Files],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22921
+
+
+National Crime Victimization Survey, 2000 [Record-Type Files],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22921.v1
+
+
+National Crime Victimization Survey, 1999 [Record-Type Files],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22922
+
+
+National Crime Victimization Survey, 1999 [Record-Type Files],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22922.v1
+
+
+National Crime Victimization Survey, 1998 [Record-Type Files],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22923
+
+
+National Crime Victimization Survey, 1998 [Record-Type Files],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22923.v1
+
+
+National Crime Victimization Survey, 1997 [Record-Type Files],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22924
+
+
+National Crime Victimization Survey, 1997 [Record-Type Files],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22924.v1
+
+
+National Crime Victimization Survey, 1996 [Record-Type Files],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22925
+
+
+National Crime Victimization Survey, 1996 [Record-Type Files],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22925.v1
+
+
+National Crime Victimization Survey, 1995 [Record-Type Files],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22926
+
+
+National Crime Victimization Survey, 1995 [Record-Type Files],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22926.v1
+
+
+National Crime Victimization Survey, 1994 [Record-Type Files],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22927
+
+
+National Crime Victimization Survey, 1994 [Record-Type Files],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22927.v1
+
+
+National Crime Victimization Survey, 1993 [Record-Type Files],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22928
+
+
+National Crime Victimization Survey: Stalking Victimization Supplement, 2006,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR20080
+
+
+National Crime Victimization Survey: Stalking Victimization Supplement, 2006,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR20080.v1
+
+
+National Crime Victimization Survey: Workplace Risk Supplement, 2002,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR30581
+
+
+National Crime Victimization Survey: Workplace Risk Supplement, 2002,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR30581.v1
+
+
+National Crime Victimization Survey, 2010,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR31202
+
+
+National Crime Victimization Survey, 2010,Version 2,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR31202.v2
+
+
+National Crime Victimization Survey, 2012,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR34650
+
+
+National Crime Victimization Survey, 2012,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR34650.v1
+
+
+National Crime Victimization Survey: Identity Theft Supplement, 2012,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR34735
+
+
+National Crime Victimization Survey: Identity Theft Supplement, 2012,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR34735.v1
+
+
+National Crime Victimization Survey: Concatenated Files, 1992-2012,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR34907
+
+
+National Crime Victimization Survey: Concatenated Files, 1992-2012,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR34907.v1
+
+
+National Crime Victimization Survey: School Crime Supplement, 2009,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR28201
+
+
+National Crime Victimization Survey: School Crime Supplement, 2009,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR28201.v1
+
+
+National Crime Victimization Survey, 2009,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR28543
+
+
+National Crime Victimization Survey, 2009,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR28543.v1
+
+
+National Crime Victimization Survey: School Crime Supplement, 2007,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR23041
+
+
+National Crime Victimization Survey: School Crime Supplement, 2007,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR23041.v1
+
+
+National Crime Victimization Survey, 2013,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR35164
+
+
+National Crime Victimization Survey, 2013,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR35164.v1
+
+
+National Crime Victimization Survey, Concatenated File, 1992-2013,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR35165
+
+
+National Crime Victimization Survey, Concatenated File, 1992-2013,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR35165.v1
+
+
+National Crime Victimization Survey: School Crime Supplement, 1995,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR06739
+
+
+National Crime Victimization Survey: School Crime Supplement, 1995,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR06739.v1
+
+
+National Crime Victimization Survey, 2007 [Record-Type Files],Version 2,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR25141.v2
+
+
+National Crime Victimization Survey, 2007 [Record-Type Files],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR25141.v1
+
+
+National Crime Victimization Survey, 2008 [Record-Type Files],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR26382.v1
+
+
+National Crime Victimization Survey, 1993 [Record-Type Files],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22928.v1
+
+
+National Crime Victimization Survey, 1992 [Record-Type Files],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22929
+
+
+National Crime Victimization Survey, 1992 [Record-Type Files],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22929.v1
+
+
+National Crime Victimization Survey, 2011,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR34061
+
+
+National Crime Victimization Survey, 2011,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR34061.v1
+
+
+National Crime Victimization Survey, 2014,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR36142.v1
+
+
+National Crime Victimization Survey, 2014,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR36142
+
+
+National Crime Victimization Survey, Concatenated File, 1992-2014,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR36143.v1
+
+
+National Crime Victimization Survey, Concatenated File, 1992-2014,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR36143
+
+
+National Crime Victimization Survey: Identity Theft Supplement, 2008,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR26362.v1
+
+
+National Crime Victimization Survey: Identity Theft Supplement, 2008,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR26362
+
+
+National Crime Victimization Survey: Identity Theft Supplement, 2014,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR36044.v1
+
+
+National Crime Victimization Survey: Identity Theft Supplement, 2014,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR36044
+
+
+National Crime Victimization Survey, 2015,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR36448.v1
+
+
+National Crime Victimization Survey, 2015,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR36448
+
+
+National Crime Victimization Survey, Concatenated File, 1992-2015,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR36456.v1
+
+
+National Crime Victimization Survey, Concatenated File, 1992-2015,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR36456
+
+
+National Crime Victimization Survey, 1992-2000,Archival Version
+10.3886/ICPSR03140
+
+
+National Crime Victimization Survey, 1992-2000,Version 4
+10.3886/ICPSR03140.v4
+
+
+National Crime Victimization Survey, 1992-2003,Archival Version
+10.3886/ICPSR03995
+
+
+National Crime Victimization Survey, 1992-2003,Version 4
+10.3886/ICPSR03995.v4
+
+
+National Crime Victimization Survey, 1992-2001,Archival Version
+10.3886/ICPSR03428
+
+
+National Crime Victimization Survey, 1992-2001,Version 5
+10.3886/ICPSR03428.v5
+
+
+National Crime Victimization Survey, 1992-2002,Archival Version
+10.3886/ICPSR03691
+
+
+National Crime Victimization Survey, 1992-2002,Version 5
+10.3886/ICPSR03691.v5
+
+
+National Crime Victimization Survey, 1992-2000,Version 3
+10.3886/ICPSR03140.v3
+
+
+National Crime Victimization Survey, 1992-2000,Version 2
+10.3886/ICPSR03140.v2
+
+
+National Crime Victimization Survey, 1992-2000,Version 1
+10.3886/ICPSR03140.v1
+
+
+National Crime Victimization Survey, 1992-2001,Version 4
+10.3886/ICPSR03428.v4
+
+
+National Crime Victimization Survey, 1992-2001,Version 3
+10.3886/ICPSR03428.v3
+
+
+National Crime Victimization Survey, 1992-2001,Version 2
+10.3886/ICPSR03428.v2
+
+
+National Crime Victimization Survey, 1992-2001,Version 1
+10.3886/ICPSR03428.v1
+
+
+National Crime Victimization Survey, 1992-2003,Version 3
+10.3886/ICPSR03995.v3
+
+
+National Crime Victimization Survey, 1992-2003,Version 2
+10.3886/ICPSR03995.v2
+
+
+National Crime Victimization Survey, 1992-2003,Version 1
+10.3886/ICPSR03995.v1
+
+
+National Crime Victimization Survey, 1992-1999,Version 11
+10.3886/ICPSR06406.v11
+
+
+National Crime Victimization Survey, 1992-1999,Version 10
+10.3886/ICPSR06406.v10
+
+
+National Crime Victimization Survey, 1992-1999,Version 9
+10.3886/ICPSR06406.v9
+
+
+National Crime Victimization Survey, 1992-1999,Version 8
+10.3886/ICPSR06406.v8
+
+
+National Crime Victimization Survey, 1992-1999,Version 7
+10.3886/ICPSR06406.v7
+
+
+National Crime Victimization Survey, 1992-1999,Version 6
+10.3886/ICPSR06406.v6
+
+
+National Crime Victimization Survey, 1992-1999,Version 5
+10.3886/ICPSR06406.v5
+
+
+National Crime Victimization Survey, 1992-1999,Version 4
+10.3886/ICPSR06406.v4
+
+
+National Crime Victimization Survey, 1992-1999,Version 3
+10.3886/ICPSR06406.v3
+
+
+National Crime Victimization Survey, 1992-1999,Version 2
+10.3886/ICPSR06406.v2
+
+
+National Crime Victimization Survey, 1992-1999,Version 1
+10.3886/ICPSR06406.v1
+
+
+National Crime Victimization Survey, 1992-2002,Version 4
+10.3886/ICPSR03691.v4
+
+
+National Crime Victimization Survey, 1992-2002,Version 3
+10.3886/ICPSR03691.v3
+
+
+National Crime Victimization Survey, 1992-2002,Version 2
+10.3886/ICPSR03691.v2
+
+
+National Crime Victimization Survey, 1992-2002,Version 1
+10.3886/ICPSR03691.v1
+
+
+National Crime Victimization Survey, 1992-1999,Archival Version
+10.3886/ICPSR06406
+
+
+National Crime Victimization Survey, 1992-1999,Version 12
+10.3886/ICPSR06406.v12
+
+
+National Crime Victimization Survey: School Crime Supplement, 2011,Version 1
+10.3886/ICPSR33081.v1
+
+
+National Crime Victimization Survey: School Crime Supplement, 2011,Archival Version
+10.3886/ICPSR33081
+
+
+National Crime Victimization Survey, 1992-2005: Concatenated Incident-Level Files,Version 2,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04699.v2
+
+
+National Crime Victimization Survey, 1992-2005: Concatenated Incident-Level Files,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04699.v1
+
+
+National Crime Victimization Survey, 2008 [Collection Year Record-Type Files],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR25461
+
+
+National Crime Victimization Survey, 2008 [Collection Year Record-Type Files],Version 2,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR25461.v2
+
+
+National Crime Victimization Survey: Unbounded Data, 2005 [Record-Type Files],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22341
+
+
+National Crime Victimization Survey: Unbounded Data, 2005 [Record-Type Files],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR22341.v1
+
+
+National Crime Victimization Survey, 2007 [Collection Year Record-Type Files],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR24741.v1
+
+
+National Crime Victimization Survey, 2008 [Collection Year Record-Type Files],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR25461.v1
+
+
+National Crime Victimization Survey, 1992-2005: Concatenated Incident-Level Files,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04699
+
+
+National Crime Victimization Survey, 1992-2005: Concatenated Incident-Level Files,Version 3,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04699.v3
+
+
+National Crime Victimization Survey: Unbounded Data, 2006 [Record-Type Files],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR24644
+
+
+National Crime Victimization Survey: Unbounded Data, 2006 [Record-Type Files],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR24644.v1
+
+
+National Crime Victimization Survey, 2007 [Collection Year Record-Type Files],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR24741
+
+
+National Crime Victimization Survey, 2007 [Collection Year Record-Type Files],Version 2,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR24741.v2
+
+
+Adjusting the National Crime Victimization Survey's Estimates of Rape and Domestic Violence for Gag Factors, 1986-1990,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR06558
+
+
+Adjusting the National Crime Victimization Survey's Estimates of Rape and Domestic Violence for Gag Factors, 1986-1990,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR06558.v1
+
+
+International Crime Victim Survey (ICVS), 1989-1997,Archival Version,International Crime Victimization Survey (ICVS) Series
+10.3886/ICPSR02973
+
+
+International Crime Victim Survey (ICVS), 1989-1997,Version 1,International Crime Victimization Survey (ICVS) Series
+10.3886/ICPSR02973.v1
+
+
+Police-Public Contact Survey, 1999: [United States],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR03151
+
+
+Police-Public Contact Survey, 1999: [United States],Version 2,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR03151.v2
+
+
+Police-Public Contact Survey, 2002 [United States],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04273
+
+
+Police-Public Contact Survey, 2002 [United States],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR04273.v1
+
+
+Police-Public Contact Survey, 1999: [United States],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR03151.v1
+
+
+Police-Public Contact Survey, 2005 [United States],Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR20020.v1
+
+
+Police-Public Contact Survey, 2005 [United States],Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR20020
+
+
+Police-Public Contact Survey, 2005 [United States],Version 2,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR20020.v2
+
+
+Police-Public Contact Survey, 2008,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR32022
+
+
+Police-Public Contact Survey, 2008,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR32022.v1
+
+
+Police-Public Contact Survey, 2011,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR34276
+
+
+Police-Public Contact Survey, 2011,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR34276.v1
+
+
+International Victimization Survey, 1988 and 1992,Archival Version,International Crime Victimization Survey (ICVS) Series
+10.3886/ICPSR09421
+
+
+International Victimization Survey, 1988 and 1992,Version 1,International Crime Victimization Survey (ICVS) Series
+10.3886/ICPSR09421.v1
+
+
+Protective Behaviors of Student Victims of Bullying: A Rare Events Analysis of the 2009 School Crime Supplement to the National Crime Victimization Survey,Archival Version,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR32741
+
+
+Protective Behaviors of Student Victims of Bullying: A Rare Events Analysis of the 2009 School Crime Supplement to the National Crime Victimization Survey,Version 1,National Crime Victimization Survey (NCVS) Series
+10.3886/ICPSR32741.v1
