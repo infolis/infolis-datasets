@@ -18410,7 +18410,7 @@
             "confidence": 1.0, 
             "entityRelations": [
                 "superset_of_temporal", 
-                "Integrated Dataset (different surveys)"
+                "part_of"
             ], 
             "fromEntity": "citedData_EVS", 
             "tags": [
@@ -18917,7 +18917,7 @@
             "entityRelations": [
                 "superset_of_version", 
                 "superset_of_temporal", 
-                "Integrated Dataset (different surveys)"
+                "part_of"
             ], 
             "fromEntity": "citedData_EVS", 
             "tags": [
@@ -18943,7 +18943,7 @@
             "entityRelations": [
                 "superset_of_version", 
                 "superset_of_temporal", 
-                "Integrated Dataset (different surveys)"
+                "part_of"
             ], 
             "fromEntity": "citedData_EVS", 
             "tags": [
@@ -18956,7 +18956,7 @@
             "entityRelations": [
                 "superset_of_version", 
                 "superset_of_temporal", 
-                "Integrated Dataset (different surveys)"
+                "part_of"
             ], 
             "fromEntity": "citedData_EVS", 
             "tags": [
@@ -18969,7 +18969,7 @@
             "entityRelations": [
                 "superset_of_version", 
                 "superset_of_temporal", 
-                "Integrated Dataset (different surveys)"
+                "part_of"
             ], 
             "fromEntity": "citedData_EVS", 
             "tags": [
@@ -19401,7 +19401,7 @@
             "confidence": 1.0, 
             "entityRelations": [
                 "superset_of_temporal", 
-                "Integrated Dataset (different surveys)"
+                "part_of"
             ], 
             "fromEntity": "citedData_EVS", 
             "tags": [
@@ -19855,7 +19855,7 @@
             "entityRelations": [
                 "superset_of_version", 
                 "superset_of_temporal", 
-                "Integrated Dataset (different surveys)"
+                "part_of"
             ], 
             "fromEntity": "citedData_EVS", 
             "tags": [
@@ -20309,7 +20309,7 @@
             "entityRelations": [
                 "superset_of_version", 
                 "superset_of_temporal", 
-                "Integrated Dataset (different surveys)"
+                "part_of"
             ], 
             "fromEntity": "citedData_EVS", 
             "tags": [
@@ -20322,7 +20322,7 @@
             "entityRelations": [
                 "superset_of_version", 
                 "superset_of_temporal", 
-                "Integrated Dataset (different surveys)"
+                "part_of"
             ], 
             "fromEntity": "citedData_EVS", 
             "tags": [
@@ -20335,7 +20335,7 @@
             "entityRelations": [
                 "superset_of_version", 
                 "superset_of_temporal", 
-                "Integrated Dataset (different surveys)"
+                "part_of"
             ], 
             "fromEntity": "citedData_EVS", 
             "tags": [
@@ -26321,7 +26321,7 @@
         "entityLink_citedData_Eurobarometer_dataset_104232110725": {
             "confidence": 1.0, 
             "entityRelations": [
-                "integrated dataset (different surveys)", 
+                "part_of", 
                 "superset_of_temporal"
             ], 
             "fromEntity": "citedData_Eurobarometer", 
@@ -28218,7 +28218,7 @@
             "confidence": 1.0, 
             "entityRelations": [
                 "superset_of_version", 
-                "integrated dataset (different surveys)", 
+                "part_of", 
                 "superset_of_temporal"
             ], 
             "fromEntity": "citedData_Eurobarometer", 
