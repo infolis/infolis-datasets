@@ -69,4 +69,6 @@ if __name__=="__main__":
     entities = getEntities(data)
     relevantFields = {"geographicCoverage":"spatial_en", "temporalCoverage":"numericInfo", "currentVersion":"versionInfo"}
     enrichedEntities = addMetadataToEntities(getMetadata(getDatasetIds(entities), relevantFields), entities)
-    print outputEnrichedJson(enrichedEntities, links)
+    with open(sys.argv[2], "w") as f:
+        f.write(outputEnrichedJson(enrichedEntities, links))
+    print "wrote " + sys.argv[2]
