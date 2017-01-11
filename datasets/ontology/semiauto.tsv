@@ -41,11 +41,9 @@ ISSP	International Social Survey Programme: National Identity II - ISSP 2003	par
 ISSP	International Social Survey Programme: National Identity II - ISSP 2003	part_of	10.4232/1.11449	correct
 Eurobarometer	Eurobarometer 21 (Apr 1984)	version_of	10.4232/1.10878	correct
 Eurobarometer	Eurobarometer 21 (Apr 1984)	part_of_temporal	10.4232/1.10878	correct
-ISSP	Role vlády III (ISSP 1996) - ?eská republika	version_of	10.14473/ISSP00005	correct
-ISSP	Role vlády III (ISSP 1996) - ?eská republika	part_of_spatial	10.14473/ISSP00005	correct
-ISSP	Role vlády III (ISSP 1996) - ?eská republika	part_of_temporal	10.14473/ISSP00005	correct
 EVS	European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008) – Restricted Use File	part_of_temporal	10.4232/1.5174	incorrect
 EVS	European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008) – Restricted Use File	parts_of_temporal	10.4232/1.5174	missing
+EVS	European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008) – Restricted Use File	parts_of_spatial	10.4232/1.5174	missing
 EVS	European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008) – Restricted Use File	part_of_confidential	10.4232/1.5174	missing
 Politbarometer	Politbarometer West (Dezember 1991)	part_of_spatial	10.4232/1.2101	correct
 Politbarometer	Politbarometer West (Dezember 1991)	part_of_temporal	10.4232/1.2101	correct
@@ -87,8 +85,9 @@ EVS	European Values Study 2008: Bulgaria (EVS 2008)	part_of_spatial	10.4232/1.10
 EVS	European Values Study 2008: Bulgaria (EVS 2008)	part_of_temporal	10.4232/1.10050	correct
 Politbarometer	Wahlstudie 1987 (Politbarometer, Oktober 1986)	part_of_temporal	10.4232/1.1528	correct
 EVS	EVS - European Values Study 1981 - Integrated Dataset	version_of	10.4232/1.10791	correct
-EVS	EVS - European Values Study 1981 - Integrated Dataset	part_of_temporal	10.4232/1.10791	correct
-EVS	EVS - European Values Study 1981 - Integrated Dataset	Integrated Dataset (different surveys)	10.4232/1.10791	missing
+EVS	EVS - European Values Study 1981 - Integrated Dataset	part_of_temporal	10.4232/1.10791	incorrect
+EVS	EVS - European Values Study 1981 - Integrated Dataset	parts_of_temporal	10.4232/1.10791	missing
+EVS	EVS - European Values Study 1981 - Integrated Dataset	parts_of_spatial	10.4232/1.10791	missing
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Frankreich	version_of	10.4232/1.3776	correct
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Frankreich	part_of_spatial	10.4232/1.3776	correct
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Frankreich	part_of_temporal	10.4232/1.3776	correct
@@ -212,6 +211,9 @@ EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Frankreich	par
 Eurobarometer	Eurobarometer 20 (1983)	part_of_temporal	10.4232/1.1319	correct
 Eurobarometer	Flash Eurobarometer 294 (European Union Citizenship)	part_of_temporal	10.4232/1.10220	incorrect
 Politbarometer	Wahlstudie 1987 (Politbarometer, März 1986)	part_of_temporal	10.4232/1.1522	correct
+ISSP	Rodina (ISSP 2002) - Česká republika	version_of	10.14473/ISSP00011	correct
+ISSP	Rodina (ISSP 2002) - Česká republika	part_of_spatial	10.14473/ISSP00011	correct
+ISSP	Rodina (ISSP 2002) - Česká republika	part_of_temporal	10.14473/ISSP00011	correct
 Eurobarometer	Eurobarometer 37.0+37.1 (Mar-May 1992)	version_of	10.4232/1.10900	correct
 Eurobarometer	Eurobarometer 37.0+37.1 (Mar-May 1992)	part_of_temporal	10.4232/1.10900	correct
 Eurobarometer	Eurobarometer 47.1 (1997)	part_of_temporal	10.4232/1.2936	correct
@@ -282,6 +284,9 @@ Eurobarometer	Central and Eastern Eurobarometer 7 (Status of the European Union)
 Eurobarometer	Central and Eastern Eurobarometer 7 (Status of the European Union)	part_of	10.4232/1.2924	correct
 Eurobarometer	Flash Eurobarometer 153 (Euro, second anniversary)	part_of_temporal	10.4232/1.4166	incorrect
 Eurobarometer	Flash Eurobarometer 270 (Introduction of the Euro in the New Member States, wave 8)	part_of_temporal	10.4232/1.10097	incorrect
+ISSP	Pracovní orietace (ISSP 1997) - Česká republika	version_of	10.14473/ISSP00006	correct
+ISSP	Pracovní orietace (ISSP 1997) - Česká republika	part_of_spatial	10.14473/ISSP00006	correct
+ISSP	Pracovní orietace (ISSP 1997) - Česká republika	part_of_temporal	10.14473/ISSP00006	correct
 Eurobarometer	Flash Eurobarometer 190 (Internal Market: Opinion and experiences of Businesses in the 10 New Member States)	part_of_temporal	10.4232/1.4455	incorrect
 Eurobarometer	Eurobarometer 78.1: Europe 2020, the Financial and Economic Crisis, European Citizenship, and Information on European Political Matters, November 2012	version_of	10.3886/ICPSR34793.v1	correct
 Eurobarometer	Eurobarometer 78.1: Europe 2020, the Financial and Economic Crisis, European Citizenship, and Information on European Political Matters, November 2012	part_of_temporal	10.3886/ICPSR34793.v1	correct
@@ -430,6 +435,7 @@ Eurobarometer	Eurobarometer 79.3: Europe 2020, The Financial and Economic Crisis
 Politbarometer	Politbarometer (September 1989)	part_of_temporal	10.4232/1.1775	correct
 EVS	European Values Study 2008: Integrated Dataset (EVS 2008) - Restricted Use File	part_of_temporal	10.4232/1.12483	incorrect
 EVS	European Values Study 2008: Integrated Dataset (EVS 2008) - Restricted Use File	parts_of_temporal	10.4232/1.12483	missing
+EVS	European Values Study 2008: Integrated Dataset (EVS 2008) - Restricted Use File	parts_of_spatial	10.4232/1.12483	missing
 EVS	European Values Study 2008: Integrated Dataset (EVS 2008) - Restricted Use File	part_of_confidential	10.4232/1.12483	missing
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Spanien	version_of	10.4232/1.3781	correct
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Spanien	part_of_spatial	10.4232/1.3781	correct
@@ -457,8 +463,9 @@ Eurobarometer	Eurobarometer 82.4 (2014)	part_of_temporal	10.4232/1.12217	correct
 ISSP	International Social Survey Programme: Work Orientations I - ISSP 1989	part_of_temporal	10.4232/1.1840	correct
 ISSP	International Social Survey Programme: Work Orientations I - ISSP 1989	part_of	10.4232/1.1840	correct
 EVS	European Values Study 2008: Integrated Dataset (EVS 2008)	version_of	10.4232/1.12458	correct
-EVS	European Values Study 2008: Integrated Dataset (EVS 2008)	part_of_temporal	10.4232/1.12458	correct
-EVS	European Values Study 2008: Integrated Dataset (EVS 2008)	Integrated Dataset (different surveys)	10.4232/1.12458	missing
+EVS	European Values Study 2008: Integrated Dataset (EVS 2008)	part_of_temporal	10.4232/1.12458	incorrect
+EVS	European Values Study 2008: Integrated Dataset (EVS 2008)	parts_of_temporal	10.4232/1.12458	missing
+EVS	European Values Study 2008: Integrated Dataset (EVS 2008)	parts_of_spatial	10.4232/1.12458	missing
 EVS	EVS - European Values Study 1999 - Island	version_of	10.4232/1.11539	correct
 EVS	EVS - European Values Study 1999 - Island	part_of_spatial	10.4232/1.11539	correct
 EVS	EVS - European Values Study 1999 - Island	part_of_temporal	10.4232/1.11539	correct
@@ -496,9 +503,6 @@ Politbarometer	Politbarometer Ost 2010 (Kumulierter Datensatz inkl. Kurzbaromete
 Politbarometer	Politbarometer Ost 2010 (Kumulierter Datensatz inkl. Kurzbarometer)	parts_of_temporal	10.4232/1.12415	correct
 ALLBUS	ALLBUS-Basisumfrage 1991 (Allgemeine Bevölkerungsumfrage der Sozialwissenschaften Basisumfrage 1991)	part_of_temporal	10.4232/1.1990	correct
 Eurobarometer	Flash Eurobarometer 285 (The European Emergency Number 112, wave 3)	part_of_temporal	10.4232/1.10743	incorrect
-ISSP	Životní prost?edí (ISSP 2000) - ?eská republika	version_of	10.14473/ISSP00009	correct
-ISSP	Životní prost?edí (ISSP 2000) - ?eská republika	part_of_spatial	10.14473/ISSP00009	correct
-ISSP	Životní prost?edí (ISSP 2000) - ?eská republika	part_of_temporal	10.14473/ISSP00009	correct
 Eurobarometer	Eurobarometer 83.2 (2015)	part_of_temporal	10.4232/1.12342	correct
 Eurobarometer	Flash Eurobarometer 89 (Dialogue with Citizens 3)	part_of_temporal	10.4232/1.3569	incorrect
 Eurobarometer	Eurobarometer 62.2 (Nov-Dec 2004)	version_of	10.4232/1.10964	correct
@@ -529,6 +533,7 @@ Eurobarometer	Eurobarometer 44.2BIS Mega-Survey: Policies and Practices in Build
 Eurobarometer	Eurobarometer 44.2BIS Mega-Survey: Policies and Practices in Building Europe and the European Union, January-March 1996	part_of	10.3886/ICPSR06748	correct
 EVS	European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)	part_of_temporal	10.4232/1.4804	incorrect
 EVS	European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)	parts_of_temporal	10.4232/1.4804	missing
+EVS	European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)	parts_of_spatial	10.4232/1.4804	missing
 Eurobarometer	Eurobarometer 75.2 (2011)	version_of	10.4232/1.11561	correct
 Eurobarometer	Eurobarometer 75.2 (2011)	part_of_temporal	10.4232/1.11561	correct
 Eurobarometer	Eurobarometer 75.1: Energy in the European Union, Citizens' Rights, E-Communications, the Internal Market, and Carbon Dioxide Capture and Storage, February-March 2011	version_of	10.3886/ICPSR34266.v1	correct
@@ -594,8 +599,9 @@ Eurobarometer	Eurobarometer 13 (1980)	part_of_temporal	10.4232/1.1038	correct
 EVS	European Values Study 2008: Poland (EVS 2008)	part_of_spatial	10.4232/1.10045	correct
 EVS	European Values Study 2008: Poland (EVS 2008)	part_of_temporal	10.4232/1.10045	correct
 Eurobarometer	Flash Eurobarometer 219 (Attitudes of Europeans Towards the Issue of Biodiversity, wave 1)	part_of_temporal	10.4232/1.4735	incorrect
-EVS	EVS - European Values Study 1999 (release 3.0.0, 2011) - Integrierter Datensatz	part_of_temporal	10.4232/1.11307	correct
-EVS	EVS - European Values Study 1999 (release 3.0.0, 2011) - Integrierter Datensatz	Integrated Dataset (different surveys)	10.4232/1.11307	missing
+EVS	EVS - European Values Study 1999 (release 3.0.0, 2011) - Integrierter Datensatz	part_of_temporal	10.4232/1.11307	incorrect
+EVS	EVS - European Values Study 1999 (release 3.0.0, 2011) - Integrierter Datensatz	parts_of_temporal	10.4232/1.11307	missing
+EVS	EVS - European Values Study 1999 (release 3.0.0, 2011) - Integrierter Datensatz	parts_of_spatial	10.4232/1.11307	missing
 Eurobarometer	Flash Eurobarometer 355 (Space Activities)	part_of_temporal	10.4232/1.11638	incorrect
 Eurobarometer	Eurobarometer 69.1 (2008)	version_of	10.4232/1.10007	correct
 Eurobarometer	Eurobarometer 69.1 (2008)	part_of_temporal	10.4232/1.10007	correct
@@ -703,8 +709,9 @@ Eurobarometer	Eurobarometer 72.2: Nuclear Energy, Corruption, Gender Equality, H
 Eurobarometer	Flash Eurobarometer 158 (Young people and drugs)	version_of	10.4232/1.10435	incorrect
 Eurobarometer	Flash Eurobarometer 158 (Young people and drugs)	part_of_temporal	10.4232/1.10435	incorrect
 EVS	European Values Study 2008: Integrated Dataset (EVS 2008)	version_of	10.4232/1.10188	correct
-EVS	European Values Study 2008: Integrated Dataset (EVS 2008)	part_of_temporal	10.4232/1.10188	correct
-EVS	European Values Study 2008: Integrated Dataset (EVS 2008)	Integrated Dataset (different surveys)	10.4232/1.10188	missing
+EVS	European Values Study 2008: Integrated Dataset (EVS 2008)	part_of_temporal	10.4232/1.10188	incorrect
+EVS	European Values Study 2008: Integrated Dataset (EVS 2008)	parts_of_temporal	10.4232/1.10188	missing
+EVS	European Values Study 2008: Integrated Dataset (EVS 2008)	parts_of_spatial	10.4232/1.10188	missing
 Eurobarometer	Flash Eurobarometer 43 (Monthly Monitor April 1995)	part_of_temporal	10.4232/1.2616	incorrect
 Eurobarometer	Eurobarometer 74.2 (2010)	version_of	10.4232/1.11626	correct
 Eurobarometer	Eurobarometer 74.2 (2010)	part_of_temporal	10.4232/1.11626	correct
@@ -778,6 +785,8 @@ Eurobarometer	Eurobarometer 52.1: Modern Biotechnology, Quality of Life, and Con
 Politbarometer	Politbarometer West (April 1991)	part_of_spatial	10.4232/1.2094	correct
 Politbarometer	Politbarometer West (April 1991)	part_of_temporal	10.4232/1.2094	correct
 Eurobarometer	Flash Eurobarometer 31 (Monthly Monitor September 1994)	part_of_temporal	10.4232/1.2494	incorrect
+ISSP	Sociální nerovnost II (ISSP 1992) - Československo	version_of	10.14473/ISSP00001	correct
+ISSP	Sociální nerovnost II (ISSP 1992) - Československo	part_of_temporal	10.14473/ISSP00001	correct
 Eurobarometer	Eurobarometer 42 (1994)	part_of_temporal	10.4232/1.2563	correct
 Eurobarometer	Flash Eurobarometer 253 (Survey on tobacco)	part_of_temporal	10.4232/1.4887	incorrect
 Eurobarometer	Mannheim Eurobarometer Trend File, 1970-2001	version_of	10.3886/ICPSR03384.v2	correct
@@ -807,9 +816,6 @@ EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Großbritannie
 Eurobarometer	Flash Eurobarometer 319B (Youth on the Move - Respondents Aged 15-35 - Mobility in Education and Work)	part_of_temporal	10.4232/1.10706	incorrect
 Eurobarometer	Eurobarometer 37.1 (Apr-May 1992)	version_of	10.4232/1.10901	correct
 Eurobarometer	Eurobarometer 37.1 (Apr-May 1992)	part_of_temporal	10.4232/1.10901	correct
-ISSP	Pracovní orietace (ISSP 1997) - ?eská republika	version_of	10.14473/ISSP00006	correct
-ISSP	Pracovní orietace (ISSP 1997) - ?eská republika	part_of_spatial	10.14473/ISSP00006	correct
-ISSP	Pracovní orietace (ISSP 1997) - ?eská republika	part_of_temporal	10.14473/ISSP00006	correct
 Eurobarometer	Eurobarometer 67.3 (May-Jun 2007)	version_of	10.4232/1.10985	correct
 Eurobarometer	Eurobarometer 67.3 (May-Jun 2007)	part_of_temporal	10.4232/1.10985	correct
 Eurobarometer	Flash Eurobarometer 195 (Preparedness for the changeover to euro among enterprises in Slovenia)	part_of_spatial	10.4232/1.4538	incorrect
@@ -943,6 +949,9 @@ Eurobarometer	Eurobarometer 36 (Oct-Nov 1991)	version_of	10.4232/1.10848	correct
 Eurobarometer	Eurobarometer 36 (Oct-Nov 1991)	part_of_temporal	10.4232/1.10848	correct
 Eurobarometer	Flash Eurobarometer 157 (Television and TV-spectators of Europe - 2003)	version_of	10.4232/1.11861	incorrect
 Eurobarometer	Flash Eurobarometer 157 (Television and TV-spectators of Europe - 2003)	part_of_temporal	10.4232/1.11861	incorrect
+ISSP	Rodina a zdraví (ISSP 2011-12) - Česká republika	version_of	10.14473/ISSP00020	correct
+ISSP	Rodina a zdraví (ISSP 2011-12) - Česká republika	part_of_spatial	10.14473/ISSP00020	correct
+ISSP	Rodina a zdraví (ISSP 2011-12) - Česká republika	part_of_temporal	10.14473/ISSP00020	correct
 Eurobarometer	Eurobarometer 75.4: Vocational Education and Training, Social Climate and Family Planning, Internal Security, and Climate Change, June 2011	version_of	10.3886/ICPSR34556.v1	correct
 Eurobarometer	Eurobarometer 75.4: Vocational Education and Training, Social Climate and Family Planning, Internal Security, and Climate Change, June 2011	part_of_temporal	10.3886/ICPSR34556.v1	correct
 Eurobarometer	Eurobarometer 75.4: Vocational Education and Training, Social Climate and Family Planning, Internal Security, and Climate Change, June 2011	part_of	10.3886/ICPSR34556.v1	correct
@@ -954,6 +963,9 @@ EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Ungarn	version
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Ungarn	part_of_spatial	10.4232/1.3797	correct
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Ungarn	part_of_temporal	10.4232/1.3797	correct
 Politbarometer	Politbarometer (August 1989)	part_of_temporal	10.4232/1.1774	correct
+ISSP	Role vlády III (ISSP 1996) - Česká republika	version_of	10.14473/ISSP00005	correct
+ISSP	Role vlády III (ISSP 1996) - Česká republika	part_of_spatial	10.14473/ISSP00005	correct
+ISSP	Role vlády III (ISSP 1996) - Česká republika	part_of_temporal	10.14473/ISSP00005	correct
 Eurobarometer	Eurobarometer 56.1: Social Exclusion and Modernization of Pension Systems, September-October 2001	part_of_temporal	10.3886/ICPSR03475	correct
 Eurobarometer	Eurobarometer 56.1: Social Exclusion and Modernization of Pension Systems, September-October 2001	part_of	10.3886/ICPSR03475	correct
 Politbarometer	Politbarometer Ost 2011 (Kumulierter Datensatz inkl. Kurzbarometer)	version_of	10.4232/1.11615	correct
@@ -1119,9 +1131,6 @@ Eurobarometer	Eurobarometer 82.3 (2014)	part_of_temporal	10.4232/1.12259	correct
 Eurobarometer	Eurobarometer 78.2 (2012)	version_of	10.4232/1.12103	correct
 Eurobarometer	Eurobarometer 78.2 (2012)	part_of_temporal	10.4232/1.12103	correct
 Eurobarometer	Eurobarometer 9 (1978)	part_of_temporal	10.4232/1.0993	correct
-ISSP	Rodina a zdraví (ISSP 2011-12) - ?eská republika	version_of	10.14473/ISSP00020	correct
-ISSP	Rodina a zdraví (ISSP 2011-12) - ?eská republika	part_of_spatial	10.14473/ISSP00020	correct
-ISSP	Rodina a zdraví (ISSP 2011-12) - ?eská republika	part_of_temporal	10.14473/ISSP00020	correct
 Eurobarometer	Flash Eurobarometer 164 (Innobarometer 2004)	part_of_temporal	10.4232/1.4188	incorrect
 Eurobarometer	Eurobarometer 73.1 (Jan-Feb 2010)	version_of	10.4232/1.11428	correct
 Eurobarometer	Eurobarometer 73.1 (Jan-Feb 2010)	part_of_temporal	10.4232/1.11428	correct
@@ -1254,9 +1263,6 @@ Eurobarometer	Flash Eurobarometer 82/C (Euro Introduction Attitudes, Step 4 - No
 Eurobarometer	Eurobarometer 55.2 (2001)	part_of_temporal	10.4232/1.3509	correct
 Eurobarometer	Eurobarometer 63.2 (Feb-Mar 2005)	version_of	10.4232/1.10966	correct
 Eurobarometer	Eurobarometer 63.2 (Feb-Mar 2005)	part_of_temporal	10.4232/1.10966	correct
-ISSP	Sociální sít? (ISSP 2001) - ?eská republika	version_of	10.14473/ISSP00010	correct
-ISSP	Sociální sít? (ISSP 2001) - ?eská republika	part_of_spatial	10.14473/ISSP00010	correct
-ISSP	Sociální sít? (ISSP 2001) - ?eská republika	part_of_temporal	10.14473/ISSP00010	correct
 Eurobarometer	Eurobarometer 74.2 (2010)	version_of	10.4232/1.10707	correct
 Eurobarometer	Eurobarometer 74.2 (2010)	part_of_temporal	10.4232/1.10707	correct
 Eurobarometer	Flash Eurobarometer 347 (Business-to-business Alternative Dispute Resolution in the EU)	part_of_temporal	10.4232/1.11815	incorrect
@@ -1307,6 +1313,9 @@ Eurobarometer	Flash Eurobarometer 313 (User Language Preferences Online)	part_of
 Eurobarometer	Eurobarometer 64.3 (Nov-Dec 2005)	version_of	10.4232/1.10971	correct
 Eurobarometer	Eurobarometer 64.3 (Nov-Dec 2005)	part_of_temporal	10.4232/1.10971	correct
 Eurobarometer	Eurobarometer 84.4 (2015)	part_of_temporal	10.4232/1.12489	correct
+ISSP	Životní prostředí (ISSP 2010) - Česká republika	version_of	10.14473/ISSP00019	correct
+ISSP	Životní prostředí (ISSP 2010) - Česká republika	part_of_spatial	10.14473/ISSP00019	correct
+ISSP	Životní prostředí (ISSP 2010) - Česká republika	part_of_temporal	10.14473/ISSP00019	correct
 Eurobarometer	Eurobarometer 72.3: Public Health Attitudes, Behavior, and Prevention, October 2009	version_of	10.3886/ICPSR32441.v1	correct
 Eurobarometer	Eurobarometer 72.3: Public Health Attitudes, Behavior, and Prevention, October 2009	part_of_temporal	10.3886/ICPSR32441.v1	correct
 Eurobarometer	Eurobarometer 72.3: Public Health Attitudes, Behavior, and Prevention, October 2009	part_of	10.3886/ICPSR32441.v1	correct
@@ -1353,6 +1362,9 @@ ALLBUS	German Social Survey (ALLBUS), 1992	part_of_temporal	10.3886/ICPSR06166	c
 ALLBUS	German Social Survey (ALLBUS), 1992	part_of_translation	10.3886/ICPSR06166	correct
 Eurobarometer	Flash Eurobarometer 319A (Youth on the Move - Respondents Aged 15-30 - Participation)	part_of_temporal	10.4232/1.10705	incorrect
 Politbarometer	Politbarometer (November 1987)	part_of_temporal	10.4232/1.1649	correct
+ISSP	Pracovní orientace (ISSP 2005) - Česká republika	version_of	10.14473/ISSP00014	correct
+ISSP	Pracovní orientace (ISSP 2005) - Česká republika	part_of_spatial	10.14473/ISSP00014	correct
+ISSP	Pracovní orientace (ISSP 2005) - Česká republika	part_of_temporal	10.14473/ISSP00014	correct
 Eurobarometer	Eurobarometer 44.2bis (1996)	part_of_temporal	10.4232/1.2828	correct
 ISSP	International Social Survey Programme: National Identity III - ISSP 2013	part_of_temporal	10.4232/1.12195	correct
 ISSP	International Social Survey Programme: National Identity III - ISSP 2013	part_of	10.4232/1.12195	correct
@@ -1366,6 +1378,9 @@ EVS	European Values Study 2008: Azerbaijan (EVS 2008)	part_of_spatial	10.4232/1.
 EVS	European Values Study 2008: Azerbaijan (EVS 2008)	part_of_temporal	10.4232/1.10014	correct
 Eurobarometer	Eurobarometer 78.1: Europe 2020, the Financial and Economic Crisis, European Citizenship, and Information on European Political Matters, November 2012	part_of_temporal	10.3886/ICPSR34793	correct
 Eurobarometer	Eurobarometer 78.1: Europe 2020, the Financial and Economic Crisis, European Citizenship, and Information on European Political Matters, November 2012	part_of	10.3886/ICPSR34793	correct
+ISSP	Životní prostředí (ISSP 2000) - Česká republika	version_of	10.14473/ISSP00009	correct
+ISSP	Životní prostředí (ISSP 2000) - Česká republika	part_of_spatial	10.14473/ISSP00009	correct
+ISSP	Životní prostředí (ISSP 2000) - Česká republika	part_of_temporal	10.14473/ISSP00009	correct
 EVS	European Values Study 2008: Russian Federation (EVS 2008)	version_of	10.4232/1.10170	correct
 EVS	European Values Study 2008: Russian Federation (EVS 2008)	part_of_spatial	10.4232/1.10170	correct
 EVS	European Values Study 2008: Russian Federation (EVS 2008)	part_of_temporal	10.4232/1.10170	correct
@@ -1398,9 +1413,6 @@ Eurobarometer	Flash Eurobarometer 186 (Business attitudes towards cross-border s
 Eurobarometer	Eurobarometer 43.1: International Trade and Radiation Protection, April-May 1995	version_of	10.3886/ICPSR06839.v1	correct
 Eurobarometer	Eurobarometer 43.1: International Trade and Radiation Protection, April-May 1995	part_of_temporal	10.3886/ICPSR06839.v1	correct
 Eurobarometer	Eurobarometer 43.1: International Trade and Radiation Protection, April-May 1995	part_of	10.3886/ICPSR06839.v1	correct
-ISSP	Rodina II (ISSP 1994) - ?eská republika	version_of	10.14473/ISSP00003	correct
-ISSP	Rodina II (ISSP 1994) - ?eská republika	part_of_spatial	10.14473/ISSP00003	correct
-ISSP	Rodina II (ISSP 1994) - ?eská republika	part_of_temporal	10.14473/ISSP00003	correct
 Eurobarometer	Eurobarometer 69.2: National and European Identity, European Elections, European Values, and Climate Change, March-May 2008	part_of_temporal	10.3886/ICPSR25021	correct
 Eurobarometer	Eurobarometer 69.2: National and European Identity, European Elections, European Values, and Climate Change, March-May 2008	part_of	10.3886/ICPSR25021	correct
 Eurobarometer	Flash Eurobarometer 333 (Consumer Rights in Romania, wave 3)	part_of_spatial	10.4232/1.12001	incorrect
@@ -1452,8 +1464,9 @@ Eurobarometer	Candidate Countries Eurobarometer 2003.2, May 2003	parts_of_spatia
 Eurobarometer	Eurobarometer 80.1: Europe 2020, the Financial and Economic Crisis, European Citizenship and Information on EU Political Matters, November 2013	part_of_temporal	10.3886/ICPSR35204	correct
 Eurobarometer	Eurobarometer 80.1: Europe 2020, the Financial and Economic Crisis, European Citizenship and Information on EU Political Matters, November 2013	part_of	10.3886/ICPSR35204	correct
 EVS	EVS - European Values Study 1981 - Integrated Dataset	version_of	10.4232/1.4438	correct
-EVS	EVS - European Values Study 1981 - Integrated Dataset	part_of_temporal	10.4232/1.4438	correct
-EVS	EVS - European Values Study 1981 - Integrated Dataset	Integrated Dataset (different surveys)	10.4232/1.4438	missing
+EVS	EVS - European Values Study 1981 - Integrated Dataset	part_of_temporal	10.4232/1.4438	incorrect
+EVS	EVS - European Values Study 1981 - Integrated Dataset	parts_of_temporal	10.4232/1.4438	missing
+EVS	EVS - European Values Study 1981 - Integrated Dataset	parts_of_spatial	10.4232/1.4438	missing
 ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2010	version_of	10.4232/1.10760	correct
 ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2010	part_of_temporal	10.4232/1.10760	correct
 ALLBUS	German Social Survey (ALLBUS) Cumulative File, 1980, 1982, 1984, 1986	part_of_temporal	10.3886/ICPSR08453	incorrect
@@ -1579,8 +1592,10 @@ EVS	European Values Study 2008: Croatia (EVS 2008)	part_of_temporal	10.4232/1.10
 Eurobarometer	Eurobarometer 50.0: European Parliament and Radioactive Waste, October-November 1998	part_of_temporal	10.3886/ICPSR02830	correct
 Eurobarometer	Eurobarometer 50.0: European Parliament and Radioactive Waste, October-November 1998	part_of	10.3886/ICPSR02830	correct
 EVS	EVS - European Values Study 1990 - Integrated Dataset	version_of	10.4232/1.4460	correct
-EVS	EVS - European Values Study 1990 - Integrated Dataset	part_of_temporal	10.4232/1.4460	correct
-EVS	EVS - European Values Study 1990 - Integrated Dataset	Integrated Dataset (different surveys)	10.4232/1.4460	missing
+EVS	EVS - European Values Study 1990 - Integrated Dataset	part_of_temporal	10.4232/1.4460	incorrect
+EVS	EVS - European Values Study 1990 - Integrated Dataset	parts_of_temporal	10.4232/1.4460	missing
+EVS	EVS - European Values Study 1990 - Integrated Dataset	parts_of_spatial	10.4232/1.4460	missing
+EVS	EVS - European Values Study 1990 - Integrated Dataset	version_of	10.4232/1.4460	missing
 Eurobarometer	Flash Eurobarometer 351 (The Cooperation and Verification Mechanism for Bulgaria and Romania)	part_of_spatial	10.4232/1.11827	incorrect
 Eurobarometer	Flash Eurobarometer 351 (The Cooperation and Verification Mechanism for Bulgaria and Romania)	part_of_temporal	10.4232/1.11827	incorrect
 Eurobarometer	Eurobarometer 66.3: Social Reality, E-Communications, Common Agricultural Policy, Discrimination and the Media, and Medical Research, November-December 2006	version_of	10.3886/ICPSR21523.v2	correct
@@ -1666,9 +1681,6 @@ Eurobarometer	Flash Eurobarometer 183 (Introduction of the Euro in the New Membe
 Eurobarometer	Flash Eurobarometer 282 (Attitudes Towards Cross-border Sales and Consumer Protection)	part_of_temporal	10.4232/1.10089	incorrect
 Eurobarometer	Candidate Countries Eurobarometer 2003.3	part_of_temporal	10.4232/1.3984	correct
 Eurobarometer	Candidate Countries Eurobarometer 2003.3	parts_of_spatial	10.4232/1.3984	correct
-ISSP	Volný ?as a sport (ISSP 2007) - ?eská republika	version_of	10.14473/ISSP00016	correct
-ISSP	Volný ?as a sport (ISSP 2007) - ?eská republika	part_of_spatial	10.14473/ISSP00016	correct
-ISSP	Volný ?as a sport (ISSP 2007) - ?eská republika	part_of_temporal	10.14473/ISSP00016	correct
 Politbarometer	German Election Study, 1992 (Politbarometer East)	part_of_spatial	10.3886/ICPSR06393	correct
 Politbarometer	German Election Study, 1992 (Politbarometer East)	part_of_temporal	10.3886/ICPSR06393	correct
 Politbarometer	German Election Study, 1992 (Politbarometer East)	part_of_translation	10.3886/ICPSR06393	correct
@@ -1787,6 +1799,9 @@ Eurobarometer	Eurobarometer 60.3 (Nov-Dec 2003)	version_of	10.4232/1.10960	corre
 Eurobarometer	Eurobarometer 60.3 (Nov-Dec 2003)	part_of_temporal	10.4232/1.10960	correct
 Eurobarometer	Eurobarometer 44.3 (Feb-Apr 1996)	version_of	10.4232/1.10920	correct
 Eurobarometer	Eurobarometer 44.3 (Feb-Apr 1996)	part_of_temporal	10.4232/1.10920	correct
+ISSP	Náboženství (ISSP 2008) - Česká republika	version_of	10.14473/ISSP00017	correct
+ISSP	Náboženství (ISSP 2008) - Česká republika	part_of_spatial	10.14473/ISSP00017	correct
+ISSP	Náboženství (ISSP 2008) - Česká republika	part_of_temporal	10.14473/ISSP00017	correct
 Eurobarometer	Flash Eurobarometer 258 (Survey on the Attitudes of Europeans Towards Tourism, Spring 2009)	part_of_temporal	10.4232/1.4889	incorrect
 Eurobarometer	Eurobarometer 64.2 (2005)	part_of_temporal	10.4232/1.4414	correct
 Eurobarometer	Flash Eurobarometer 140 (European Union enlargement)	version_of	10.4232/1.10424	incorrect
@@ -2039,6 +2054,9 @@ EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Luxemburg	part
 Politbarometer	Wahlstudie 1980 (Politbarometer, Februar 1980)	part_of_temporal	10.4232/1.1055	correct
 Eurobarometer	Flash Eurobarometer 245 (Post-referendum Survey in Ireland: Preliminary Results)	part_of_spatial	10.4232/1.4818	incorrect
 Eurobarometer	Flash Eurobarometer 245 (Post-referendum Survey in Ireland: Preliminary Results)	part_of_temporal	10.4232/1.4818	incorrect
+ISSP	Sociální nerovnosti a spravedlnost (ISSP 1999) - Česká republika	version_of	10.14473/ISSP00008	correct
+ISSP	Sociální nerovnosti a spravedlnost (ISSP 1999) - Česká republika	part_of_spatial	10.14473/ISSP00008	correct
+ISSP	Sociální nerovnosti a spravedlnost (ISSP 1999) - Česká republika	part_of_temporal	10.14473/ISSP00008	correct
 Eurobarometer	Flash Eurobarometer 23 (Monthly Monitor January 1994)	part_of_temporal	10.4232/1.2401	incorrect
 ISSP	International Social Survey Programme: Social Inequality IV - ISSP 2009 (Netherlands)	part_of_spatial	10.4232/1.12338	correct
 ISSP	International Social Survey Programme: Social Inequality IV - ISSP 2009 (Netherlands)	part_of_temporal	10.4232/1.12338	correct
@@ -2067,6 +2085,7 @@ Eurobarometer	The Mannheim Eurobarometer Trend File, 1970-2002	part_of_temporal	
 EVS	European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)	version_of	10.4232/1.11005	correct
 EVS	European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)	part_of_temporal	10.4232/1.11005	incorrect
 EVS	European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)	parts_of_temporal	10.4232/1.11005	missing
+EVS	European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)	parts_of_spatial	10.4232/1.11005	missing
 Eurobarometer	Flash Eurobarometer 249 (Introduction of the euro in Slovakia)	part_of_spatial	10.4232/1.4885	incorrect
 Eurobarometer	Flash Eurobarometer 249 (Introduction of the euro in Slovakia)	part_of_temporal	10.4232/1.4885	incorrect
 Eurobarometer	Flash Eurobarometer 120 (The Working Conditions)	part_of_temporal	10.4232/1.3662	incorrect
@@ -2159,6 +2178,9 @@ EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Russland	part_
 Eurobarometer	Eurobarometer 26 (1986)	part_of_temporal	10.4232/1.1544	correct
 Eurobarometer	Eurobarometer 5 (May-Jun 1976)	version_of	10.4232/1.10857	correct
 Eurobarometer	Eurobarometer 5 (May-Jun 1976)	part_of_temporal	10.4232/1.10857	correct
+ISSP	Národní identita (ISSP 1995) - Česká republika	version_of	10.14473/ISSP00004	correct
+ISSP	Národní identita (ISSP 1995) - Česká republika	part_of_spatial	10.14473/ISSP00004	correct
+ISSP	Národní identita (ISSP 1995) - Česká republika	part_of_temporal	10.14473/ISSP00004	correct
 ISSP	International Social Survey Programme: Religion III - ISSP 2008 (Kenia)	part_of_spatial	10.4232/1.11436	correct
 ISSP	International Social Survey Programme: Religion III - ISSP 2008 (Kenia)	part_of_temporal	10.4232/1.11436	correct
 ISSP	International Social Survey Programme: Religion III - ISSP 2008 (Kenia)	part_of	10.4232/1.11436	correct
@@ -2194,7 +2216,10 @@ Politbarometer	German Election Study, 1995 (Politbarometer East)	part_of_transla
 ALLBUS	German Social Survey (ALLBUS), 1996	part_of_temporal	10.3886/ICPSR02005	correct
 ALLBUS	German Social Survey (ALLBUS), 1996	part_of_translation	10.3886/ICPSR02005	correct
 ALLBUS	German General Social Survey - ALLBUS 2000 - CAPI-PAPI	part_of_temporal	10.4232/1.10106	correct
-ALLBUS	German General Social Survey - ALLBUS 2000 - CAPI-PAPI	part_of	10.4232/1.10106	missing
+ALLBUS	German General Social Survey - ALLBUS 2000 - CAPI-PAPI	part_of_methodical	10.4232/1.10106	missing
+ISSP	Volný čas a sport (ISSP 2007) - Česká republika	version_of	10.14473/ISSP00016	correct
+ISSP	Volný čas a sport (ISSP 2007) - Česká republika	part_of_spatial	10.14473/ISSP00016	correct
+ISSP	Volný čas a sport (ISSP 2007) - Česká republika	part_of_temporal	10.14473/ISSP00016	correct
 Eurobarometer	Eurobarometer 34.2 (1990)	part_of_temporal	10.4232/1.1962	correct
 Eurobarometer	Flash Eurobarometer 126 (Multimedia Internet Services: General Practitioners)	part_of_temporal	10.4232/1.3673	incorrect
 Eurobarometer	Flash Eurobarometer 267 (Innobarometer 2009)	part_of_temporal	10.4232/1.10075	incorrect
@@ -2229,6 +2254,9 @@ Eurobarometer	Eurobarometer 58.2 (2002)	part_of_temporal	10.4232/1.3886	correct
 Eurobarometer	Flash Eurobarometer 278 (Business Attitudes Towards Enforcement and Redress in the Internal Market)	part_of_temporal	10.4232/1.10090	incorrect
 Eurobarometer	Eurobarometer 71.1 (2009)	version_of	10.4232/1.10004	correct
 Eurobarometer	Eurobarometer 71.1 (2009)	part_of_temporal	10.4232/1.10004	correct
+ISSP	Sociální nerovnosti III (ISSP 2009) - Česká republika	version_of	10.14473/ISSP00018	correct
+ISSP	Sociální nerovnosti III (ISSP 2009) - Česká republika	part_of_spatial	10.14473/ISSP00018	correct
+ISSP	Sociální nerovnosti III (ISSP 2009) - Česká republika	part_of_temporal	10.14473/ISSP00018	correct
 Eurobarometer	Eurobarometer 77.4 (2012)	version_of	10.4232/1.12049	correct
 Eurobarometer	Eurobarometer 77.4 (2012)	part_of_temporal	10.4232/1.12049	correct
 Politbarometer	Politbarometer Ost 2007 (Kumulierter Datensatz inkl. Kurzbarometer)	part_of_spatial	10.4232/1.4802	correct
@@ -2238,7 +2266,7 @@ ISSP	International Social Survey Programme: Religion I-III ADD ON - ISSP 1991-19
 ISSP	International Social Survey Programme: Religion I-III ADD ON - ISSP 1991-1998-2008	part_of	10.4232/1.10995	correct
 Eurobarometer	Flash Eurobarometer 226 (Data Protection - Data Controllers’ Perceptions)	part_of_temporal	10.4232/1.4737	incorrect
 ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2000 (CAPI-Version)	part_of_temporal	10.4232/1.3451	correct
-ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2000 (CAPI-Version)	part_of	10.4232/1.3451	missing
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2000 (CAPI-Version)	part_of_methodical	10.4232/1.3451	missing
 Politbarometer	Politbarometer Ost 2009 (Kumulierter Datensatz inkl. Kurzbarometer)	part_of_spatial	10.4232/1.10444	correct
 Politbarometer	Politbarometer Ost 2009 (Kumulierter Datensatz inkl. Kurzbarometer)	part_of_temporal	10.4232/1.10444	incorrect
 Politbarometer	Politbarometer Ost 2009 (Kumulierter Datensatz inkl. Kurzbarometer)	parts_of_temporal	10.4232/1.10444	correct
@@ -2320,9 +2348,6 @@ Eurobarometer	Eurobarometer 72.5: E-Communications, Agriculture, Geographical an
 Eurobarometer	Eurobarometer 72.5: E-Communications, Agriculture, Geographical and Labor Market Mobility, and Knowledge of Antibiotic Use, November-December 2009	part_of	10.3886/ICPSR29842	correct
 Eurobarometer	Flash Eurobarometer 63 (Managers 13 - Small and Medium Enterprises and their Information Requirements)	part_of_temporal	10.4232/1.3143	incorrect
 Eurobarometer	Flash Eurobarometer 141 (UK and the enlargement of the European Union)	part_of_temporal	10.4232/1.3934	incorrect
-ISSP	Sociální nerovnosti a spravedlnost (ISSP 1999) - ?eská republika	version_of	10.14473/ISSP00008	correct
-ISSP	Sociální nerovnosti a spravedlnost (ISSP 1999) - ?eská republika	part_of_spatial	10.14473/ISSP00008	correct
-ISSP	Sociální nerovnosti a spravedlnost (ISSP 1999) - ?eská republika	part_of_temporal	10.14473/ISSP00008	correct
 Eurobarometer	Eurobarometer 74.3 (2010)	version_of	10.4232/1.11627	correct
 Eurobarometer	Eurobarometer 74.3 (2010)	part_of_temporal	10.4232/1.11627	correct
 Politbarometer	German Election Study, 1995 (Politbarometer West)	version_of	10.3886/ICPSR03036.v1	correct
@@ -2332,9 +2357,6 @@ Politbarometer	German Election Study, 1995 (Politbarometer West)	part_of_transla
 ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2008	version_of	10.4232/1.10080	correct
 ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2008	part_of_temporal	10.4232/1.10080	incorrect
 ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2008	parts_of_temporal	10.4232/1.10080	correct
-ISSP	Sociální nerovnosti III (ISSP 2009) - ?eská republika	version_of	10.14473/ISSP00018	correct
-ISSP	Sociální nerovnosti III (ISSP 2009) - ?eská republika	part_of_spatial	10.14473/ISSP00018	correct
-ISSP	Sociální nerovnosti III (ISSP 2009) - ?eská republika	part_of_temporal	10.14473/ISSP00018	correct
 Eurobarometer	Eurobarometer 44.2 (Nov 1995- Jan 1996)	version_of	10.4232/1.10918	correct
 Eurobarometer	Eurobarometer 44.2 (Nov 1995- Jan 1996)	part_of_temporal	10.4232/1.10918	correct
 Eurobarometer	Flash Eurobarometer 429 (The Euro Area, October 2015)	part_of_temporal	10.4232/1.12519	incorrect
@@ -2372,6 +2394,9 @@ Eurobarometer	Flash Eurobarometer 159 (Future European Constitution)	part_of_tem
 Eurobarometer	Eurobarometer 48.0 (1997)	part_of_temporal	10.4232/1.2959	correct
 Eurobarometer	Flash Eurobarometer 82/E (Euro Introduction Attitudes, Step 6 - Non-Euro Members)	part_of_temporal	10.4232/1.3497	incorrect
 Eurobarometer	Flash Eurobarometer 124 (European Union Enlargement)	part_of_temporal	10.4232/1.3671	incorrect
+ISSP	Role vlády IV. (ISSP 2006) - Česká republika	version_of	10.14473/ISSP00015	correct
+ISSP	Role vlády IV. (ISSP 2006) - Česká republika	part_of_spatial	10.14473/ISSP00015	correct
+ISSP	Role vlády IV. (ISSP 2006) - Česká republika	part_of_temporal	10.14473/ISSP00015	correct
 Eurobarometer	Eurobarometer 47.2OVR: Young Europeans, April-June 1997	version_of	10.3886/ICPSR02091.v1	correct
 Eurobarometer	Eurobarometer 47.2OVR: Young Europeans, April-June 1997	part_of_temporal	10.3886/ICPSR02091.v1	correct
 Eurobarometer	Eurobarometer 47.2OVR: Young Europeans, April-June 1997	part_of_supplement	10.3886/ICPSR02091.v1	correct
@@ -2609,6 +2634,7 @@ Eurobarometer	Eurobarometer 75.1 (2011)	part_of_temporal	10.4232/1.11413	correct
 EVS	European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)	version_of	10.4232/1.12253	correct
 EVS	European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)	part_of_temporal	10.4232/1.12253	incorrect
 EVS	European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)	parts_of_temporal	10.4232/1.12253	missing
+EVS	European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)	parts_of_spatial	10.4232/1.12253	missing
 Politbarometer	Politbarometer West 2004 (Kumulierter Datensatz)	part_of_spatial	10.4232/1.4222	correct
 Politbarometer	Politbarometer West 2004 (Kumulierter Datensatz)	part_of_temporal	10.4232/1.4222	incorrect
 Politbarometer	Politbarometer West 2004 (Kumulierter Datensatz)	parts_of_temporal	10.4232/1.4222	correct
@@ -2672,6 +2698,9 @@ Eurobarometer	Eurobarometer 47.1: Images of Switzerland, Education Throughout Li
 Eurobarometer	Eurobarometer 46.1 (1996)	part_of_temporal	10.4232/1.2899	correct
 Eurobarometer	Eurobarometer 74.1 (8-9 2010)	version_of	10.4232/1.11587	correct
 Eurobarometer	Eurobarometer 74.1 (8-9 2010)	part_of_temporal	10.4232/1.11587	correct
+ISSP	Sociální sítě (ISSP 2001) - Česká republika	version_of	10.14473/ISSP00010	correct
+ISSP	Sociální sítě (ISSP 2001) - Česká republika	part_of_spatial	10.14473/ISSP00010	correct
+ISSP	Sociální sítě (ISSP 2001) - Česká republika	part_of_temporal	10.14473/ISSP00010	correct
 Eurobarometer	Flash Eurobarometer 333 (Consumer Rights in Romania, wave 1)	part_of_spatial	10.4232/1.11961	incorrect
 Eurobarometer	Flash Eurobarometer 333 (Consumer Rights in Romania, wave 1)	part_of_temporal	10.4232/1.11961	incorrect
 Eurobarometer	Flash Eurobarometer 392 (Preferences of Europeans towards Tourism, 2014)	part_of_temporal	10.4232/1.12005	incorrect
@@ -2817,9 +2846,6 @@ Eurobarometer	Flash Eurobarometer 101 (Special Target: Headteachers - Computer a
 Eurobarometer	Eurobarometer 49: Food Product Safety, Child Sex Tourism, Health Care, and Cancer, April-May 1998	version_of	10.3886/ICPSR02559.v1	correct
 Eurobarometer	Eurobarometer 49: Food Product Safety, Child Sex Tourism, Health Care, and Cancer, April-May 1998	part_of_temporal	10.3886/ICPSR02559.v1	correct
 Eurobarometer	Eurobarometer 49: Food Product Safety, Child Sex Tourism, Health Care, and Cancer, April-May 1998	part_of	10.3886/ICPSR02559.v1	correct
-ISSP	Role vlády IV. (ISSP 2006) - ?eská republika	version_of	10.14473/ISSP00015	correct
-ISSP	Role vlády IV. (ISSP 2006) - ?eská republika	part_of_spatial	10.14473/ISSP00015	correct
-ISSP	Role vlády IV. (ISSP 2006) - ?eská republika	part_of_temporal	10.14473/ISSP00015	correct
 Politbarometer	Politbarometer 1997 (Kumulierter Datensatz)	part_of_temporal	10.4232/1.3045	incorrect
 Politbarometer	Politbarometer 1997 (Kumulierter Datensatz)	parts_of_temporal	10.4232/1.3045	correct
 EVS	European Values Study 2008: Lithuania (EVS 2008)	part_of_spatial	10.4232/1.10044	correct
@@ -2884,9 +2910,6 @@ Eurobarometer	Eurobarometer 47.2OVR (Apr-Jun 1997)	part_of_supplement	10.4232/1.
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Malta	version_of	10.4232/1.3803	correct
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Malta	part_of_spatial	10.4232/1.3803	correct
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Malta	part_of_temporal	10.4232/1.3803	correct
-ISSP	Národní identita (ISSP 2003) - ?eská republika	version_of	10.14473/ISSP00012	correct
-ISSP	Národní identita (ISSP 2003) - ?eská republika	part_of_spatial	10.14473/ISSP00012	correct
-ISSP	Národní identita (ISSP 2003) - ?eská republika	part_of_temporal	10.14473/ISSP00012	correct
 ALLBUS	German Social Survey (ALLBUS), 1991	version_of	10.3886/ICPSR09832.v1	correct
 ALLBUS	German Social Survey (ALLBUS), 1991	part_of_temporal	10.3886/ICPSR09832.v1	correct
 ALLBUS	German Social Survey (ALLBUS), 1991	part_of_translation	10.3886/ICPSR09832.v1	correct
@@ -2928,9 +2951,6 @@ Eurobarometer	Candidate Countries Eurobarometer 2003.4	part_of_temporal	10.4232/
 Eurobarometer	Candidate Countries Eurobarometer 2003.4	parts_of_spatial	10.4232/1.3986	correct
 Eurobarometer	Eurobarometer 79.2: Internal Market, Cultural Activities, Non-Urban Road Use, Science and Technology, and Undeclared Work and Tax Fraud, April-May 2013	part_of_temporal	10.3886/ICPSR35505	correct
 Eurobarometer	Eurobarometer 79.2: Internal Market, Cultural Activities, Non-Urban Road Use, Science and Technology, and Undeclared Work and Tax Fraud, April-May 2013	part_of	10.3886/ICPSR35505	correct
-ISSP	Pracovní orientace (ISSP 2005) - ?eská republika	version_of	10.14473/ISSP00014	correct
-ISSP	Pracovní orientace (ISSP 2005) - ?eská republika	part_of_spatial	10.14473/ISSP00014	correct
-ISSP	Pracovní orientace (ISSP 2005) - ?eská republika	part_of_temporal	10.14473/ISSP00014	correct
 Eurobarometer	Flash Eurobarometer 14 (Ratification of the Maastricht Treaty)	part_of_temporal	10.4232/1.2296	incorrect
 ISSP	International Social Survey Programme: Role of Government I-IV ADD ON (ISSP 1985-1990-1996-2006)	part_of_temporal	10.4232/1.4748	correct
 ISSP	International Social Survey Programme: Role of Government I-IV ADD ON (ISSP 1985-1990-1996-2006)	part_of_supplement	10.4232/1.4748	missing
@@ -3011,8 +3031,9 @@ Eurobarometer	Eurobarometer 73.2: Humanitarian Aid, Domestic Violence Against Wo
 Eurobarometer	Eurobarometer 73.2: Humanitarian Aid, Domestic Violence Against Women, and Mental Well-Being, February-March 2010	part_of_temporal	10.3886/ICPSR29761.v1	correct
 Eurobarometer	Eurobarometer 73.2: Humanitarian Aid, Domestic Violence Against Women, and Mental Well-Being, February-March 2010	part_of	10.3886/ICPSR29761.v1	correct
 EVS	EVS - European Values Study 1999 (release 3.0.0, 2011) - Integrierter Datensatz	version_of	10.4232/1.3811	correct
-EVS	EVS - European Values Study 1999 (release 3.0.0, 2011) - Integrierter Datensatz	part_of_temporal	10.4232/1.3811	correct
-EVS	EVS - European Values Study 1999 (release 3.0.0, 2011) - Integrierter Datensatz	Integrated Dataset (different surveys)	10.4232/1.3811	missing
+EVS	EVS - European Values Study 1999 (release 3.0.0, 2011) - Integrierter Datensatz	part_of_temporal	10.4232/1.3811	incorrect
+EVS	EVS - European Values Study 1999 (release 3.0.0, 2011) - Integrierter Datensatz	parts_of_temporal	10.4232/1.3811	missing
+EVS	EVS - European Values Study 1999 (release 3.0.0, 2011) - Integrierter Datensatz	parts_of_spatial	10.4232/1.3811	missing
 Eurobarometer	Candidate Countries Eurobarometer 2002.1 (Social Situation in the Countries Applying for European Union Membership)	part_of_temporal	10.4232/1.4153	correct
 Eurobarometer	Candidate Countries Eurobarometer 2002.1 (Social Situation in the Countries Applying for European Union Membership)	parts_of_spatial	10.4232/1.4153	correct
 EVS	European Values Study 2008: Hungary (EVS 2008)	part_of_spatial	10.4232/1.10048	correct
@@ -3045,6 +3066,9 @@ EVS	EVS - European Values Study 1999 - Spanien	part_of_temporal	10.4232/1.11554	
 Eurobarometer	Flash Eurobarometer 163 (0 employee = One-person-enterprises)	part_of_temporal	10.4232/1.4187	incorrect
 ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2004	version_of	10.4232/1.10977	correct
 ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2004	part_of_temporal	10.4232/1.10977	correct
+ISSP	Národní identita (ISSP 2003) - Česká republika	version_of	10.14473/ISSP00012	correct
+ISSP	Národní identita (ISSP 2003) - Česká republika	part_of_spatial	10.14473/ISSP00012	correct
+ISSP	Národní identita (ISSP 2003) - Česká republika	part_of_temporal	10.14473/ISSP00012	correct
 Eurobarometer	Eurobarometer 74.1: Poverty and Social Exclusion, Mobile Phone Use, Economic Crisis, and International Trade, August-September 2010	part_of_temporal	10.3886/ICPSR34222	correct
 Eurobarometer	Eurobarometer 74.1: Poverty and Social Exclusion, Mobile Phone Use, Economic Crisis, and International Trade, August-September 2010	part_of	10.3886/ICPSR34222	correct
 Eurobarometer	Flash Eurobarometer 384 (Citizens’ Awareness and Perceptions of EU Regional Policy, wave 3)	part_of_temporal	10.4232/1.11955	incorrect
@@ -3111,12 +3135,12 @@ EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Estland	part_o
 EVS	European Values Study 2008: Albania (EVS 2008)	version_of	10.4232/1.10176	correct
 EVS	European Values Study 2008: Albania (EVS 2008)	part_of_spatial	10.4232/1.10176	correct
 EVS	European Values Study 2008: Albania (EVS 2008)	part_of_temporal	10.4232/1.10176	correct
-ISSP	Životní prost?edí (ISSP 2010) - ?eská republika	version_of	10.14473/ISSP00019	correct
-ISSP	Životní prost?edí (ISSP 2010) - ?eská republika	part_of_spatial	10.14473/ISSP00019	correct
-ISSP	Životní prost?edí (ISSP 2010) - ?eská republika	part_of_temporal	10.14473/ISSP00019	correct
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Kroatien	version_of	10.4232/1.3800	correct
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Kroatien	part_of_spatial	10.4232/1.3800	correct
 EVS	EVS - European Values Study 1999/2000 (release 2, Mai 2006) - Kroatien	part_of_temporal	10.4232/1.3800	correct
+ISSP	Životní prostředí a postoje k lokální politice I (ISSP 1993) - Česká republika	version_of	10.14473/ISSP00002	correct
+ISSP	Životní prostředí a postoje k lokální politice I (ISSP 1993) - Česká republika	part_of_spatial	10.14473/ISSP00002	correct
+ISSP	Životní prostředí a postoje k lokální politice I (ISSP 1993) - Česká republika	part_of_temporal	10.14473/ISSP00002	correct
 EVS	EVS - European Values Study 1999 - Niederlande	version_of	10.4232/1.3783	correct
 EVS	EVS - European Values Study 1999 - Niederlande	part_of_spatial	10.4232/1.3783	correct
 EVS	EVS - European Values Study 1999 - Niederlande	part_of_temporal	10.4232/1.3783	correct
@@ -3292,6 +3316,9 @@ Eurobarometer	Eurobarometer 56.2: Radioactive Waste, Demographic Issues, the Eur
 Eurobarometer	Eurobarometer 56.2: Radioactive Waste, Demographic Issues, the Euro, and European Union Enlargement, October-November 2001	version_of	10.3886/ICPSR03476.v1	correct
 Eurobarometer	Eurobarometer 56.2: Radioactive Waste, Demographic Issues, the Euro, and European Union Enlargement, October-November 2001	part_of_temporal	10.3886/ICPSR03476.v1	correct
 Eurobarometer	Eurobarometer 56.2: Radioactive Waste, Demographic Issues, the Euro, and European Union Enlargement, October-November 2001	part_of	10.3886/ICPSR03476.v1	correct
+ISSP	Rodina II (ISSP 1994) - Česká republika	version_of	10.14473/ISSP00003	correct
+ISSP	Rodina II (ISSP 1994) - Česká republika	part_of_spatial	10.14473/ISSP00003	correct
+ISSP	Rodina II (ISSP 1994) - Česká republika	part_of_temporal	10.14473/ISSP00003	correct
 Eurobarometer	Flash Eurobarometer 262 (The European Emergency Number 112, wave 2)	part_of_temporal	10.4232/1.10745	incorrect
 ALLBUS	German Social Survey (ALLBUS), 1988	version_of	10.3886/ICPSR09382.v1	correct
 ALLBUS	German Social Survey (ALLBUS), 1988	part_of_temporal	10.3886/ICPSR09382.v1	correct
@@ -3308,8 +3335,9 @@ ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2002	vers
 ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2002	part_of_temporal	10.4232/1.11138	correct
 Eurobarometer	Flash Eurobarometer 211 (General public survey on the European Galileo programme)	part_of_temporal	10.4232/1.4549	incorrect
 EVS	EVS - European Values Study 1990 - Integrated Dataset	version_of	10.4232/1.10790	correct
-EVS	EVS - European Values Study 1990 - Integrated Dataset	part_of_temporal	10.4232/1.10790	correct
-EVS	EVS - European Values Study 1990 - Integrated Dataset	Integrated Dataset (different surveys)	10.4232/1.10790	missing
+EVS	EVS - European Values Study 1990 - Integrated Dataset	part_of_temporal	10.4232/1.10790	incorrect
+EVS	EVS - European Values Study 1990 - Integrated Dataset	parts_of_temporal	10.4232/1.10790	missing
+EVS	EVS - European Values Study 1990 - Integrated Dataset	parts_of_spatial	10.4232/1.10790	missing
 Eurobarometer	Flash Eurobarometer 404 (European Citizens´ Digital Health Literacy)	part_of_temporal	10.4232/1.12194	incorrect
 ALLBUS	German Social Survey (ALLBUS), 1996	version_of	10.3886/ICPSR02005.v1	correct
 ALLBUS	German Social Survey (ALLBUS), 1996	part_of_temporal	10.3886/ICPSR02005.v1	correct
@@ -3332,9 +3360,6 @@ Eurobarometer	Eurobarometer 59.1: The Euro and Parental Leave, March-April 2003	
 Eurobarometer	Eurobarometer 71.2: European Employment and Social Policy, Discrimination, Development Aid, and Air Transport Services, May-June 2009	version_of	10.3886/ICPSR28183.v2	correct
 Eurobarometer	Eurobarometer 71.2: European Employment and Social Policy, Discrimination, Development Aid, and Air Transport Services, May-June 2009	part_of_temporal	10.3886/ICPSR28183.v2	correct
 Eurobarometer	Eurobarometer 71.2: European Employment and Social Policy, Discrimination, Development Aid, and Air Transport Services, May-June 2009	part_of	10.3886/ICPSR28183.v2	correct
-ISSP	Rodina (ISSP 2002) - ?eská republika	version_of	10.14473/ISSP00011	correct
-ISSP	Rodina (ISSP 2002) - ?eská republika	part_of_spatial	10.14473/ISSP00011	correct
-ISSP	Rodina (ISSP 2002) - ?eská republika	part_of_temporal	10.14473/ISSP00011	correct
 Eurobarometer	Flash Eurobarometer 147 (Data Protection)	version_of	10.4232/1.10430	incorrect
 Eurobarometer	Flash Eurobarometer 147 (Data Protection)	part_of_temporal	10.4232/1.10430	incorrect
 Eurobarometer	Central and Eastern Eurobarometer 8	part_of_spatial	10.4232/1.3068	correct
@@ -3362,8 +3387,9 @@ Eurobarometer	Eurobarometer 64.1 (Sep-Oct 2005)	part_of_temporal	10.4232/1.10969
 Eurobarometer	Flash Eurobarometer 123 (Sustainable Development and Environmental Concerns)	part_of_temporal	10.4232/1.3670	incorrect
 Politbarometer	Politbarometer West (Januar 1991)	part_of_spatial	10.4232/1.2091	correct
 Politbarometer	Politbarometer West (Januar 1991)	part_of_temporal	10.4232/1.2091	correct
-EVS	European Values Study 2008: Integrated Dataset (EVS 2008)	part_of_temporal	10.4232/1.10059	correct
-EVS	European Values Study 2008: Integrated Dataset (EVS 2008)	Integrated Dataset (different surveys)	10.4232/1.10059	missing
+EVS	European Values Study 2008: Integrated Dataset (EVS 2008)	part_of_temporal	10.4232/1.10059	incorrect
+EVS	European Values Study 2008: Integrated Dataset (EVS 2008)	parts_of_temporal	10.4232/1.10059	missing
+EVS	European Values Study 2008: Integrated Dataset (EVS 2008)	parts_of_spatial	10.4232/1.10059	missing
 Eurobarometer	Eurobarometer 73.2 (Feb-Mar 2010)	version_of	10.4232/1.11429	correct
 Eurobarometer	Eurobarometer 73.2 (Feb-Mar 2010)	part_of_temporal	10.4232/1.11429	correct
 Eurobarometer	Eurobarometer 35.0 (Mar 1991)	version_of	10.4232/1.10895	correct
@@ -3489,9 +3515,6 @@ Eurobarometer	Eurobarometer 59.0 (Jan-Feb 2003)	part_of_temporal	10.4232/1.11352
 ALLBUS	German Social Survey (ALLBUS), 1992	version_of	10.3886/ICPSR06166.v1	correct
 ALLBUS	German Social Survey (ALLBUS), 1992	part_of_temporal	10.3886/ICPSR06166.v1	correct
 ALLBUS	German Social Survey (ALLBUS), 1992	part_of_translation	10.3886/ICPSR06166.v1	correct
-ISSP	Národní identita (ISSP 1995) - ?eská republika	version_of	10.14473/ISSP00004	correct
-ISSP	Národní identita (ISSP 1995) - ?eská republika	part_of_spatial	10.14473/ISSP00004	correct
-ISSP	Národní identita (ISSP 1995) - ?eská republika	part_of_temporal	10.14473/ISSP00004	correct
 Eurobarometer	Eurobarometer 73.5 (2010)	part_of_temporal	10.4232/1.10266	correct
 Politbarometer	Politbarometer (Mai 1987)	part_of_temporal	10.4232/1.1644	correct
 Eurobarometer	Flash Eurobarometer 209 (Consumer Protection Hungary, Wave 1-3)	part_of_spatial	10.4232/1.10240	incorrect
@@ -3600,9 +3623,6 @@ EVS	EVS - European Values Study 1999 - Irland	part_of_spatial	10.4232/1.11540	co
 EVS	EVS - European Values Study 1999 - Irland	part_of_temporal	10.4232/1.11540	correct
 Eurobarometer	Eurobarometer 73.1: The European Parliament, Biotechnology, and Science and Technology, January-February 2010	part_of_temporal	10.3886/ICPSR31483	correct
 Eurobarometer	Eurobarometer 73.1: The European Parliament, Biotechnology, and Science and Technology, January-February 2010	part_of	10.3886/ICPSR31483	correct
-ISSP	Životní prost?edí a postoje k lokální politice I (ISSP 1993) - ?eská republika	version_of	10.14473/ISSP00002	correct
-ISSP	Životní prost?edí a postoje k lokální politice I (ISSP 1993) - ?eská republika	part_of_spatial	10.14473/ISSP00002	correct
-ISSP	Životní prost?edí a postoje k lokální politice I (ISSP 1993) - ?eská republika	part_of_temporal	10.14473/ISSP00002	correct
 Eurobarometer	Eurobarometer 15 (1981)	part_of_temporal	10.4232/1.1206	correct
 Eurobarometer	Flash Eurobarometer 111 (Small and Medium Enterprises and the Euro 6)	part_of_temporal	10.4232/1.3600	incorrect
 Eurobarometer	Eurobarometer 44.1: Education and Training Throughout Life and the Common European Currency, November-December 1995	version_of	10.3886/ICPSR06723.v1	correct
@@ -3629,7 +3649,7 @@ Eurobarometer	Eurobarometer 43.1BIS: Regional Development and Consumer and Envir
 Eurobarometer	Eurobarometer 43.1BIS: Regional Development and Consumer and Environmental Issues, May-June 1995	part_of_temporal	10.3886/ICPSR06840.v1	correct
 Eurobarometer	Eurobarometer 43.1BIS: Regional Development and Consumer and Environmental Issues, May-June 1995	part_of	10.3886/ICPSR06840.v1	correct
 ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2000 (PAPI-Version)	part_of_temporal	10.4232/1.3452	correct
-ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2000 (PAPI-Version)	part_of	10.4232/1.3452	missing
+ALLBUS	Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2000 (PAPI-Version)	part_of_methodical	10.4232/1.3452	missing
 Eurobarometer	Eurobarometer 69.2 (Mar-May 2008)	version_of	10.4232/1.10992	correct
 Eurobarometer	Eurobarometer 69.2 (Mar-May 2008)	part_of_temporal	10.4232/1.10992	correct
 Eurobarometer	Central and Eastern Eurobarometer 1 (Czechoslovakia, January 1990)	part_of_spatial	10.4232/1.2252	correct
@@ -3693,8 +3713,6 @@ Eurobarometer	Eurobarometer 77.3 (2012)	part_of_temporal	10.4232/1.12050	correct
 Eurobarometer	Flash Eurobarometer 418 (Introduction of the Euro in the Member States That Have Not Yet Adopted the Common Currency)	version_of	10.4232/1.12350	incorrect
 Eurobarometer	Flash Eurobarometer 418 (Introduction of the Euro in the Member States That Have Not Yet Adopted the Common Currency)	part_of_temporal	10.4232/1.12350	incorrect
 Eurobarometer	Flash Eurobarometer 420 (Attitudes of Citizens towards Shale Gas in Selected European Regions)	part_of_temporal	10.4232/1.12377	incorrect
-ISSP	Sociální nerovnost II (ISSP 1992) - ?eskoslovensko	version_of	10.14473/ISSP00001	correct
-ISSP	Sociální nerovnost II (ISSP 1992) - ?eskoslovensko	part_of_temporal	10.14473/ISSP00001	correct
 Eurobarometer	Flash Eurobarometer 345 (Accessibility)	part_of_temporal	10.4232/1.11622	incorrect
 Eurobarometer	Flash Eurobarometer 159_2 (Future European Constitution, Wave 2)	part_of_temporal	10.4232/1.4173	incorrect
 Eurobarometer	Eurobarometer 57.2: Health Issues, Cross-Border Purchases, and National Identities, April-June 2002	version_of	10.3886/ICPSR03543.v3	correct
@@ -3805,11 +3823,11 @@ EVS	European Values Study 2008: France (EVS 2008)	part_of_spatial	10.4232/1.1019
 EVS	European Values Study 2008: France (EVS 2008)	part_of_temporal	10.4232/1.10198	correct
 Eurobarometer	Public understanding of science in Europe 1989-2005. A Eurobarometer trend file.	version_of	10.4232/1.11382	correct
 Eurobarometer	Public understanding of science in Europe 1989-2005. A Eurobarometer trend file.	part_of_temporal	10.4232/1.11382	incorrect
-Eurobarometer	Public understanding of science in Europe 1989-2005. A Eurobarometer trend file.	integrated dataset (different surveys)	10.4232/1.11382	missing
 Eurobarometer	Public understanding of science in Europe 1989-2005. A Eurobarometer trend file.	parts_of_temporal	10.4232/1.11382	missing
 EVS	EVS - European Values Study 1999 - Integrierter Datensatz	version_of	10.4232/1.10789	correct
-EVS	EVS - European Values Study 1999 - Integrierter Datensatz	part_of_temporal	10.4232/1.10789	correct
-EVS	EVS - European Values Study 1999 - Integrierter Datensatz	Integrated Dataset (different surveys)	10.4232/1.10789	missing
+EVS	EVS - European Values Study 1999 - Integrierter Datensatz	part_of_temporal	10.4232/1.10789	incorrect
+EVS	EVS - European Values Study 1999 - Integrierter Datensatz	parts_of_temporal	10.4232/1.10789	missing
+EVS	EVS - European Values Study 1999 - Integrierter Datensatz	parts_of_spatial	10.4232/1.10789	missing
 Eurobarometer	Flash Eurobarometer 81 EOS Managers 20 - Small and Medium Enterprises and the Euro)	part_of_temporal	10.4232/1.3286	incorrect
 Eurobarometer	Flash Eurobarometer 53 (Monthly Monitor December 1995)	part_of_temporal	10.4232/1.2744	incorrect
 Eurobarometer	Flash Eurobarometer 365 (European Union Citizenship)	part_of_temporal	10.4232/1.11921	incorrect
@@ -3877,7 +3895,6 @@ Politbarometer	Politbarometer Ost 2003 (Kumulierter Datensatz, inkl. Kurzbaromet
 Politbarometer	Politbarometer Ost 2003 (Kumulierter Datensatz, inkl. Kurzbarometer)	parts_of_temporal	10.4232/1.4003	correct
 Eurobarometer	Flash Eurobarometer 338 (Monitoring the Social Impact of the Crisis: Public Perceptions in the European Union, wave 6)	part_of_temporal	10.4232/1.11582	incorrect
 Eurobarometer	Public understanding of science in Europe 1989-2005. A Eurobarometer trend file.	part_of_temporal	10.4232/1.10725	incorrect
-Eurobarometer	Public understanding of science in Europe 1989-2005. A Eurobarometer trend file.	integrated dataset (different surveys)	10.4232/1.10725	missing
 Eurobarometer	Public understanding of science in Europe 1989-2005. A Eurobarometer trend file.	parts_of_temporal	10.4232/1.10725	missing
 EVS	European Values Study 2008: Georgia (EVS 2008)	version_of	10.4232/1.10182	correct
 EVS	European Values Study 2008: Georgia (EVS 2008)	part_of_spatial	10.4232/1.10182	correct
@@ -3899,9 +3916,6 @@ EVS	European Values Study 2008: Romania (EVS 2008)	part_of_temporal	10.4232/1.10
 Eurobarometer	Flash Eurobarometer 379 (Attitudes of Europeans Towards the Issue of Biodiversity, wave 3)	part_of_temporal	10.4232/1.11789	incorrect
 Eurobarometer	Eurobarometer 50.1: Information Society Services, Food Quality, the Family, and Aid to Development, November-December 1998	part_of_temporal	10.3886/ICPSR02831	correct
 Eurobarometer	Eurobarometer 50.1: Information Society Services, Food Quality, the Family, and Aid to Development, November-December 1998	part_of	10.3886/ICPSR02831	correct
-ISSP	Náboženství (ISSP 2008) - ?eská republika	version_of	10.14473/ISSP00017	correct
-ISSP	Náboženství (ISSP 2008) - ?eská republika	part_of_spatial	10.14473/ISSP00017	correct
-ISSP	Náboženství (ISSP 2008) - ?eská republika	part_of_temporal	10.14473/ISSP00017	correct
 Eurobarometer	Flash Eurobarometer 363 (How Companies Influence Our Society: Citizens’ View)	part_of_temporal	10.4232/1.11914	incorrect
 Politbarometer	Politbarometer (Juni 1985)	part_of_temporal	10.4232/1.1474	correct
 Eurobarometer	Flash Eurobarometer 261 (Flash eurobarometer on water)	part_of_temporal	10.4232/1.4890	incorrect
