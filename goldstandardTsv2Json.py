@@ -22,11 +22,14 @@ class GoldConverter(ontologyTsv2Json.OntoConverter):
                     
                 for datasetId in re.split("\s*;\s*", datasetIds.strip()):
                     if datasetId and not datasetId.strip() == "-":
-                        entityIdentifier = self.toDatasetId(datasetId)
-                        self.entities[entityIdentifier] = self.newEntity("", "dataset", [datasetId])
+                        idAndRelations = datasetId.split("@")
+                        entityIdentifier = self.toDatasetId(idAndRelations[0])
+                        self.entities[entityIdentifier] = self.newEntity("", "dataset", [idAndRelations[0]])
                         linkIdentifier = self.toLinkId(citedDataIdentifier, entityIdentifier)
-                        # TODO relation not yet contained in gold standard
-                        link = self.newLink(citedDataIdentifier, entityIdentifier)
+                        if len(idAndRelations) > 1:
+                            link = self.newLink(citedDataIdentifier, entityIdentifier, idAndRelations[1:])
+                        else:
+                            link = self.newLink(citedDataIdentifier, entityIdentifier)
                         self.links[linkIdentifier] = link
     
                 # TODO docs are ignored - no entities created for them
@@ -68,6 +71,8 @@ class GoldConverter(ontologyTsv2Json.OntoConverter):
         link = { "fromEntity": source, "toEntity": target, "confidence": 1.0, "tags": ["infolis-goldstandard"] }
         if relations:
             link["entityRelations"] = relations
+        else:
+            link["entityRelations"] = ["unknown"]
         return link 
         
 
